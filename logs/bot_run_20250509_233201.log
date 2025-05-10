@@ -1,0 +1,72 @@
+[09/05/2025 23:32:01.31] Starting EUR/USD FX Trading Bot 
+[09/05/2025 23:32:01.32] Activating virtual environment 
+[09/05/2025 23:32:01.38] Running setup.py 
+Requirement already satisfied: python-dotenv in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (1.1.0)
+Requirement already satisfied: fpdf2 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (2.8.3)
+Requirement already satisfied: discord-webhook in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (1.4.1)
+Requirement already satisfied: scikit-learn in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (1.6.1)
+Requirement already satisfied: defusedxml in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from fpdf2) (0.7.1)
+Requirement already satisfied: Pillow!=9.2.*,>=6.2.2 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from fpdf2) (11.2.1)
+Requirement already satisfied: fonttools>=4.34.0 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from fpdf2) (4.57.0)
+Requirement already satisfied: requests<3.0.0,>=2.32.3 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from discord-webhook) (2.32.3)
+Requirement already satisfied: scipy>=1.6.0 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from scikit-learn) (1.15.3)
+Requirement already satisfied: joblib>=1.2.0 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from scikit-learn) (1.5.0)
+Requirement already satisfied: numpy>=1.19.5 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from scikit-learn) (2.2.5)
+Requirement already satisfied: threadpoolctl>=3.1.0 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from scikit-learn) (3.6.0)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from requests<3.0.0,>=2.32.3->discord-webhook) (2.4.0)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from requests<3.0.0,>=2.32.3->discord-webhook) (3.10)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from requests<3.0.0,>=2.32.3->discord-webhook) (2025.4.26)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\jenso\onedrive\desktop\desktop 3\ahk\ai trading algo\venv\lib\site-packages (from requests<3.0.0,>=2.32.3->discord-webhook) (3.4.2)
+
+[notice] A new release of pip is available: 23.0.1 -> 25.1.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+============================================================
+=================== FX Trading Bot Setup ===================
+============================================================
+
+[1] Checking Python version...
+[OK] Python 3.10 detected
+
+[2] Checking pip installation...
+[OK] pip is installed
+
+[3] Checking dependencies...
+[FAIL] The following packages are missing: python-dotenv, fpdf2, discord-webhook, scikit-learn
+
+[4] Installing missing dependencies...
+[OK] All dependencies installed successfully
+
+[5] Creating necessary directories...
+  Created directory: data_files
+  Created directory: data_files/market_data_cache
+  Created directory: data_files/sentiment_cache
+  Created directory: data_files/dashboard
+  Created directory: data_files/optimization
+  Created directory: data_files/walk_forward
+  Created directory: logs
+  Created directory: reports
+  Created directory: reports/metrics
+[OK] All directories created
+
+[6] Checking project structure...
+[OK] Project structure looks good
+
+[7] Creating __init__.py files...
+[OK] All __init__.py files created
+
+[8] Testing imports...
+[OK] All modules imported successfully
+
+============================================================
+=============== Setup Completed Successfully ===============
+============================================================
+
+You can now run the bot with:
+  python main.py
+
+Or run a backtest with:
+  python backtest.py --start-date 2023-01-01 --end-date 2023-12-31
+[09/05/2025 23:32:03.65] Running create_inits.py 
+All __init__.py files created successfully.
+[09/05/2025 23:32:07.78] Running backtest.py with parameters: --start-date 2023-01-01 --end-date 2023-12-31 --strategy hybrid_voting --report --dashboard 

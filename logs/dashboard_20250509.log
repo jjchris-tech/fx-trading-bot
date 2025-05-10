@@ -1,0 +1,22 @@
+2025-05-09 21:33:16,679 - dashboard - INFO - Generated dashboard script: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\dashboard\dashboard_app.py
+2025-05-09 21:33:16,803 - dashboard - INFO - Dashboard server stopped
+2025-05-09 21:33:16,803 - dashboard - INFO - Starting dashboard server on port 8501
+2025-05-09 21:33:51,726 - dashboard - INFO - Dashboard server started on http://localhost:8501
+2025-05-09 23:30:22,244 - dashboard - INFO - Generated dashboard script: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\dashboard\dashboard_app.py
+2025-05-09 23:30:22,374 - dashboard - INFO - Dashboard server stopped
+2025-05-09 23:30:22,374 - dashboard - INFO - Starting dashboard server on port 8501
+2025-05-09 23:30:24,505 - dashboard - ERROR - Dashboard server failed to start: 2025-05-09 23:30:23.869 Port 8501 is already in use
+
+2025-05-09 23:30:24,505 - dashboard - INFO - Dashboard server started on http://localhost:8501
+2025-05-09 23:32:29,848 - dashboard - INFO - Generated dashboard script: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\dashboard\dashboard_app.py
+2025-05-09 23:32:29,974 - dashboard - INFO - Dashboard server stopped
+2025-05-09 23:32:29,974 - dashboard - INFO - Starting dashboard server on port 8501
+2025-05-09 23:32:32,099 - dashboard - ERROR - Dashboard server failed to start: 2025-05-09 23:32:31.031 Port 8501 is already in use
+
+2025-05-09 23:32:32,099 - dashboard - INFO - Dashboard server started on http://localhost:8501
+2025-05-09 23:35:43,893 - dashboard - INFO - Generated dashboard script: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\dashboard\dashboard_app.py
+2025-05-09 23:35:44,014 - dashboard - INFO - Dashboard server stopped
+2025-05-09 23:35:44,014 - dashboard - INFO - Starting dashboard server on port 8501
+2025-05-09 23:35:46,113 - dashboard - ERROR - Dashboard server failed to start: 2025-05-09 23:35:45.089 Port 8501 is already in use
+
+2025-05-09 23:35:46,113 - dashboard - INFO - Dashboard server started on http://localhost:8501

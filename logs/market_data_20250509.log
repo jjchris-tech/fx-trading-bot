@@ -1,0 +1,95 @@
+2025-05-09 21:28:49,083 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 21:28:49,200 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:28:49,200 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:28:49,201 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 21:28:49,202 - market_data - INFO - Generating synthetic data for EUR/USD from 2023-01-01 to 2023-12-31
+2025-05-09 21:29:21,899 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 21:29:22,015 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:29:22,015 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:29:22,016 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 21:29:22,016 - market_data - INFO - Generating synthetic data for EUR/USD from 2023-01-01 to 2023-12-31
+2025-05-09 21:33:51,728 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 21:33:51,856 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:33:51,858 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:33:51,861 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 21:33:51,861 - market_data - INFO - Generating synthetic data for EUR/USD from 2024-11-10 to 2025-02-08
+2025-05-09 21:33:51,940 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 21:33:52,030 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:33:52,030 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:33:52,032 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 21:33:52,032 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-03-10
+2025-05-09 21:33:52,060 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 21:33:52,190 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:33:52,191 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:33:52,192 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 21:33:52,192 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 21:33:59,628 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 21:33:59,717 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:33:59,717 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:33:59,718 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 21:33:59,718 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 21:34:06,946 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 21:34:07,026 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:34:07,027 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:34:07,027 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 21:34:07,027 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 21:34:13,247 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 21:34:13,327 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:34:13,327 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:34:13,328 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 21:34:13,328 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 21:34:20,658 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 21:34:20,735 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:34:20,735 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 21:34:20,736 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 21:34:20,736 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 23:30:24,508 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:30:24,640 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:24,641 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:24,642 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:30:24,642 - market_data - INFO - Generating synthetic data for EUR/USD from 2024-11-10 to 2025-02-08
+2025-05-09 23:30:24,683 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:30:24,755 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:24,755 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:24,756 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:30:24,756 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-03-10
+2025-05-09 23:30:24,767 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:30:24,852 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:24,852 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:24,853 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:30:24,853 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 23:30:31,452 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:30:31,529 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:31,529 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:31,530 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:30:31,531 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 23:30:38,500 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:30:38,567 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:38,567 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:38,568 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:30:38,568 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 23:30:50,290 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:30:50,367 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:50,368 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:50,368 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:30:50,369 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 23:30:58,007 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:30:58,093 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:58,093 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:30:58,094 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:30:58,094 - market_data - INFO - Generating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09
+2025-05-09 23:32:10,057 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:32:10,188 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:32:10,189 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:32:10,189 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:32:10,190 - market_data - INFO - Generating synthetic data for EUR/USD from 2023-01-01 to 2023-12-31
+2025-05-09 23:35:25,947 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:35:26,048 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:35:26,049 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:35:26,049 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:35:26,049 - market_data - INFO - Generating synthetic data for EUR/USD from 2023-01-01 to 2023-12-31
+2025-05-09 23:56:40,816 - market_data - INFO - Fetching time series data for EURUSD (1h)
+2025-05-09 23:56:40,967 - market_data - ERROR - API error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:56:40,967 - market_data - ERROR - Failed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data
+2025-05-09 23:56:40,968 - market_data - WARNING - Failed to get data from API, generating synthetic data
+2025-05-09 23:56:40,968 - market_data - INFO - Generating synthetic data for EUR/USD from 2024-11-10 to 2025-05-09

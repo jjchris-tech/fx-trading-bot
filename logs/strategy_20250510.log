@@ -1,0 +1,800 @@
+2025-05-10 00:20:29,186 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 00:20:29,190 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 00:20:29,191 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 00:20:31,452 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 00:20:31,453 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 00:20:31,453 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 00:20:31,688 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 00:20:31,688 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 00:20:31,688 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 00:20:31,691 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 00:20:31,692 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 00:20:31,692 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 00:20:32,978 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:20:34,481 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:20:36,633 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:20:37,729 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}
+2025-05-10 00:20:37,729 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 00:20:37,730 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.2}
+2025-05-10 00:20:38,964 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:20:40,392 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:20:42,674 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:35:23,229 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 00:35:23,230 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 00:35:23,230 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 00:35:24,326 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 00:35:24,327 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 00:35:24,327 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 00:35:24,541 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 00:35:24,542 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 00:35:24,544 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 00:35:24,546 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 00:35:24,546 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 00:35:24,547 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 00:35:25,977 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:35:27,266 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:35:29,286 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:35:30,180 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}
+2025-05-10 00:35:30,180 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 00:35:30,181 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.2}
+2025-05-10 00:35:31,399 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:35:32,769 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:35:34,830 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:44:01,998 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 00:44:01,999 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 00:44:02,000 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 00:44:03,101 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 00:44:03,101 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 00:44:03,102 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 00:44:03,378 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 00:44:03,378 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 00:44:03,379 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 00:44:03,381 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 00:44:03,381 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 00:44:03,382 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 00:44:04,737 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:44:06,535 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:44:08,627 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:44:09,486 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}
+2025-05-10 00:44:09,486 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 00:44:09,486 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.2}
+2025-05-10 00:44:10,650 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:44:12,359 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 00:44:14,322 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 01:21:50,963 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 01:21:50,964 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 01:21:50,965 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 01:21:52,067 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 01:21:52,067 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 01:21:52,068 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 01:21:52,301 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 01:21:52,301 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 01:21:52,302 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 01:21:52,304 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 01:21:52,305 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 01:21:52,305 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 01:21:53,527 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 01:21:54,859 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 01:21:56,817 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 01:21:57,674 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}
+2025-05-10 01:21:57,676 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 01:21:57,676 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.2}
+2025-05-10 01:21:58,915 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 01:22:00,358 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 01:22:04,368 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:20,661 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 02:16:20,662 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 02:16:20,663 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 02:16:22,187 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 02:16:22,188 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 02:16:22,188 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 02:16:22,449 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 02:16:22,450 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 02:16:22,450 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 02:16:22,453 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 02:16:22,453 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 02:16:22,455 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 02:16:23,696 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:25,012 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:27,133 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:27,987 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}
+2025-05-10 02:16:27,987 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 02:16:27,987 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.2}
+2025-05-10 02:16:29,173 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:30,499 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:32,965 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:41,949 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.1, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.65, 'profit_target': 0.004, 'stop_loss': 0.002}
+2025-05-10 02:16:41,949 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.1}
+2025-05-10 02:16:41,949 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 02:16:43,159 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:44,509 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:46,641 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:47,433 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.5, 'profit_target': 0.006, 'stop_loss': 0.0025}
+2025-05-10 02:16:47,433 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 02:16:47,434 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 02:16:48,651 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:49,943 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:52,011 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:52,954 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 0.30000000000000004, 'voting_threshold': 0.4, 'profit_target': 0.005, 'stop_loss': 0.0035}
+2025-05-10 02:16:52,954 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 02:16:52,955 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.30000000000000004}
+2025-05-10 02:16:54,194 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:55,576 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:16:57,955 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:17:07,050 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 0.4, 'voting_threshold': 0.5, 'profit_target': 0.007, 'stop_loss': 0.001}
+2025-05-10 02:17:07,050 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 02:17:07,050 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.4}
+2025-05-10 02:17:08,419 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:17:09,754 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:17:12,231 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:17:38,426 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 0.4, 'voting_threshold': 0.3, 'profit_target': 0.01, 'stop_loss': 0.006}
+2025-05-10 02:17:38,426 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 02:17:38,427 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.4}
+2025-05-10 02:17:39,796 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:17:41,198 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:17:44,024 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:17:53,087 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.3, 'profit_target': 0.008, 'stop_loss': 0.003}
+2025-05-10 02:17:53,088 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 02:17:53,088 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 02:17:54,331 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:17:55,617 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:17:58,010 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:07,162 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.30000000000000004, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'profit_target': 0.01, 'stop_loss': 0.002}
+2025-05-10 02:18:07,162 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.30000000000000004}
+2025-05-10 02:18:07,162 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.0}
+2025-05-10 02:18:08,378 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:09,872 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:12,257 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:13,138 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.4000000000000001, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.5, 'profit_target': 0.007, 'stop_loss': 0.002}
+2025-05-10 02:18:13,138 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 02:18:13,139 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 02:18:14,394 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:15,671 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:18,114 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:27,218 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:18:27,218 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 02:18:27,219 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 02:18:28,447 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:29,772 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:32,190 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:18:58,360 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:18:58,360 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 02:18:58,361 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 02:18:59,587 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:19:00,963 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:19:03,442 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:19:29,617 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:19:29,617 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 02:19:29,618 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 02:19:30,890 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:19:32,261 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:19:34,712 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:00,896 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 1.4000000000000001, 'voting_threshold': 0.55, 'profit_target': 0.005, 'stop_loss': 0.0045000000000000005}
+2025-05-10 02:20:00,896 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 02:20:00,898 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 02:20:02,133 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:03,563 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:05,805 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:06,654 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.9, 'rsi_mean_reversion_weight': 1.2000000000000002, 'voting_threshold': 0.45, 'profit_target': 0.009000000000000001, 'stop_loss': 0.001}
+2025-05-10 02:20:06,655 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.9}
+2025-05-10 02:20:06,656 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.2000000000000002}
+2025-05-10 02:20:07,866 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:09,219 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:11,515 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:12,492 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.8000000000000003, 'rsi_mean_reversion_weight': 1.8000000000000003, 'voting_threshold': 0.5, 'profit_target': 0.005, 'stop_loss': 0.0035}
+2025-05-10 02:20:12,492 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 02:20:12,493 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 02:20:13,710 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:15,046 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:17,489 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:26,677 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.5000000000000002, 'rsi_mean_reversion_weight': 1.1, 'voting_threshold': 0.35, 'profit_target': 0.008, 'stop_loss': 0.0045000000000000005}
+2025-05-10 02:20:26,677 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 02:20:26,679 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.1}
+2025-05-10 02:20:28,023 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:29,351 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:31,715 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:41,004 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.1, 'rsi_mean_reversion_weight': 0.1, 'voting_threshold': 0.7, 'profit_target': 0.006, 'stop_loss': 0.006}
+2025-05-10 02:20:41,005 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.1}
+2025-05-10 02:20:41,005 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.1}
+2025-05-10 02:20:42,211 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:43,613 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:46,228 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:55,434 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 0.5, 'voting_threshold': 0.45, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 02:20:55,434 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 02:20:55,436 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.5}
+2025-05-10 02:20:56,624 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:20:57,906 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:00,203 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:11,229 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 1.7000000000000002, 'voting_threshold': 0.45, 'profit_target': 0.008, 'stop_loss': 0.0025}
+2025-05-10 02:21:11,230 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 02:21:11,231 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 02:21:12,576 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:13,955 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:16,253 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:25,427 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.2000000000000002, 'rsi_mean_reversion_weight': 0.9, 'voting_threshold': 0.55, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 02:21:25,428 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.2000000000000002}
+2025-05-10 02:21:25,432 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.9}
+2025-05-10 02:21:26,719 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:28,066 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:30,728 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:41,843 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.4000000000000001, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:21:41,843 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 02:21:41,844 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 02:21:43,060 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:44,409 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:21:46,905 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:22:13,011 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.8000000000000003, 'rsi_mean_reversion_weight': 1.6, 'voting_threshold': 0.35, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:22:13,011 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 02:22:13,012 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.6}
+2025-05-10 02:22:14,288 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:22:15,625 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:22:18,005 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:22:44,149 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 1.8000000000000003, 'voting_threshold': 0.35, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 02:22:44,149 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 02:22:44,150 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 02:22:45,351 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:22:46,687 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:22:49,051 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:00,096 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.8000000000000003, 'rsi_mean_reversion_weight': 1.3000000000000003, 'voting_threshold': 0.35, 'profit_target': 0.003, 'stop_loss': 0.0025}
+2025-05-10 02:23:00,096 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 02:23:00,097 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 02:23:01,267 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:02,579 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:05,033 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:14,084 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.5000000000000002, 'rsi_mean_reversion_weight': 1.6, 'voting_threshold': 0.55, 'profit_target': 0.005, 'stop_loss': 0.001}
+2025-05-10 02:23:14,085 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 02:23:14,086 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.6}
+2025-05-10 02:23:15,269 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:16,592 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:18,834 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:19,758 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 0.9, 'voting_threshold': 0.45, 'profit_target': 0.006, 'stop_loss': 0.002}
+2025-05-10 02:23:19,759 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 02:23:19,759 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.9}
+2025-05-10 02:23:20,973 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:22,355 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:24,776 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:33,811 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.8000000000000003, 'rsi_mean_reversion_weight': 1.2000000000000002, 'voting_threshold': 0.35, 'profit_target': 0.009000000000000001, 'stop_loss': 0.003}
+2025-05-10 02:23:33,812 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 02:23:33,813 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.2000000000000002}
+2025-05-10 02:23:35,027 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:36,367 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:38,672 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:47,697 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 1.8000000000000003, 'voting_threshold': 0.4, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 02:23:47,699 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 02:23:47,700 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 02:23:49,075 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:50,493 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:52,722 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:53,638 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 1.9000000000000001, 'voting_threshold': 0.35, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 02:23:53,638 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 02:23:53,640 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 02:23:54,864 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:56,212 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:23:58,695 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:24:09,737 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.6, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.006, 'stop_loss': 0.0055000000000000005}
+2025-05-10 02:24:09,738 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.0}
+2025-05-10 02:24:09,739 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.6}
+2025-05-10 02:24:10,943 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:24:12,388 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:24:14,606 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:24:15,467 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:24:15,467 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 02:24:15,469 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 02:24:16,783 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:24:18,097 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:24:20,757 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:24:46,893 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.6, 'voting_threshold': 0.45, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:24:46,893 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 02:24:46,895 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.6}
+2025-05-10 02:24:48,117 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:24:49,485 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:24:51,894 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:25:18,119 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.45, 'profit_target': 0.003, 'stop_loss': 0.0015}
+2025-05-10 02:25:18,120 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 02:25:18,122 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 02:25:19,348 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:25:20,736 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:25:23,085 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:25:34,239 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.6, 'rsi_mean_reversion_weight': 1.7000000000000002, 'voting_threshold': 0.5, 'profit_target': 0.004, 'stop_loss': 0.002}
+2025-05-10 02:25:34,239 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.6}
+2025-05-10 02:25:34,240 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 02:25:35,512 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:25:36,932 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:25:39,282 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:25:40,210 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 1.3000000000000003, 'voting_threshold': 0.5, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:25:40,211 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 02:25:40,212 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 02:25:41,411 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:25:42,804 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:25:45,263 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:26:11,477 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 1.3000000000000003, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.005, 'stop_loss': 0.004}
+2025-05-10 02:26:11,478 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 02:26:11,479 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 02:26:12,761 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:26:14,072 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:26:16,527 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:26:25,610 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 0.5, 'voting_threshold': 0.55, 'profit_target': 0.007, 'stop_loss': 0.002}
+2025-05-10 02:26:25,611 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 02:26:25,612 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.5}
+2025-05-10 02:26:26,925 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:26:28,596 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:26:31,164 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:26:40,358 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.4000000000000001, 'rsi_mean_reversion_weight': 1.1, 'voting_threshold': 0.5, 'profit_target': 0.004, 'stop_loss': 0.001}
+2025-05-10 02:26:40,363 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 02:26:40,366 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.1}
+2025-05-10 02:26:41,631 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:26:42,990 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:26:45,279 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:27:11,386 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.4000000000000001, 'rsi_mean_reversion_weight': 0.8, 'voting_threshold': 0.5, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 02:27:11,387 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 02:27:11,387 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.8}
+2025-05-10 02:27:12,659 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:27:14,037 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:27:16,437 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:27:27,554 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 1.1, 'voting_threshold': 0.5, 'profit_target': 0.006, 'stop_loss': 0.0025}
+2025-05-10 02:27:27,554 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 02:27:27,555 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.1}
+2025-05-10 02:27:28,841 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:27:30,263 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:27:32,755 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:27:41,820 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 1.3000000000000003, 'voting_threshold': 0.45, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:27:41,821 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 02:27:41,822 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 02:27:43,278 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:27:44,669 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:27:47,136 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:28:13,307 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.4000000000000001, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.45, 'profit_target': 0.004, 'stop_loss': 0.001}
+2025-05-10 02:28:13,309 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 02:28:13,309 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.0}
+2025-05-10 02:28:14,560 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:28:15,876 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:28:18,639 - strategy - ERROR - Error applying sentiment filter: 'str' object has no attribute 'get'
+2025-05-10 02:28:30,861 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 02:28:30,862 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 02:28:30,862 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 02:28:41,821 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 02:28:41,821 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 02:28:41,821 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 02:28:42,088 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 02:28:42,089 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 02:28:42,089 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 02:28:42,091 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 02:28:42,091 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 02:28:42,093 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 02:28:43,359 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:28:44,703 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:28:46,997 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:28:47,771 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}
+2025-05-10 02:28:47,771 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 02:28:47,773 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.2}
+2025-05-10 02:28:48,962 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:28:50,291 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:28:52,664 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:01,696 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.1, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.65, 'profit_target': 0.004, 'stop_loss': 0.002}
+2025-05-10 02:29:01,697 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.1}
+2025-05-10 02:29:01,698 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 02:29:03,049 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:04,767 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:07,055 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:07,839 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.5, 'profit_target': 0.006, 'stop_loss': 0.0025}
+2025-05-10 02:29:07,839 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 02:29:07,840 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 02:29:09,059 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:10,339 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:12,485 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:13,237 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 0.30000000000000004, 'voting_threshold': 0.4, 'profit_target': 0.005, 'stop_loss': 0.0035}
+2025-05-10 02:29:13,238 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 02:29:13,238 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.30000000000000004}
+2025-05-10 02:29:14,524 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:15,936 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:20,567 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:29,613 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 0.4, 'voting_threshold': 0.5, 'profit_target': 0.007, 'stop_loss': 0.001}
+2025-05-10 02:29:29,615 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 02:29:29,615 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.4}
+2025-05-10 02:29:30,894 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:32,249 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:29:34,757 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:05,337 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 0.4, 'voting_threshold': 0.3, 'profit_target': 0.01, 'stop_loss': 0.006}
+2025-05-10 02:30:05,565 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 02:30:05,653 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.4}
+2025-05-10 02:30:07,877 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:09,249 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:13,255 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:23,182 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.3, 'profit_target': 0.008, 'stop_loss': 0.003}
+2025-05-10 02:30:23,183 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 02:30:23,183 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 02:30:24,384 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:25,793 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:28,244 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:37,246 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.30000000000000004, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'profit_target': 0.01, 'stop_loss': 0.002}
+2025-05-10 02:30:37,246 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.30000000000000004}
+2025-05-10 02:30:37,247 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.0}
+2025-05-10 02:30:38,411 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:39,761 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:42,069 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:42,852 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.4000000000000001, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.5, 'profit_target': 0.007, 'stop_loss': 0.002}
+2025-05-10 02:30:42,853 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 02:30:42,854 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 02:30:44,088 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:46,098 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:50,097 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:30:59,285 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 02:30:59,286 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 02:30:59,287 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 02:31:00,482 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:31:01,906 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:31:04,254 - strategy - ERROR - Error applying sentiment filter: 'pair_impact'
+2025-05-10 02:42:10,861 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 02:42:10,862 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 02:42:10,862 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 02:42:26,130 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 02:42:26,130 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 02:42:26,131 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 02:42:26,397 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 02:42:26,397 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 02:42:26,398 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 02:42:26,401 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 02:42:26,401 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 02:42:26,402 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 02:42:27,662 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 02:42:28,121 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 02:42:29,421 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 02:42:30,218 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}
+2025-05-10 02:42:30,218 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 02:42:30,219 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.2}
+2025-05-10 02:42:30,596 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 02:42:31,068 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 02:42:32,554 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:10,477 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 11:39:10,479 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 11:39:10,479 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 11:39:14,171 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 11:39:14,171 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 11:39:14,172 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 11:39:14,533 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 11:39:14,533 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 11:39:14,534 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 11:39:14,537 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 11:39:14,537 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 11:39:14,538 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 11:39:16,141 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:16,752 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:18,326 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:19,185 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}
+2025-05-10 11:39:19,185 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 11:39:19,186 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.2}
+2025-05-10 11:39:19,570 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:20,142 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:21,830 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:30,913 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.1, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.65, 'profit_target': 0.004, 'stop_loss': 0.002}
+2025-05-10 11:39:30,913 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.1}
+2025-05-10 11:39:30,914 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 11:39:31,266 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:31,798 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:33,326 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:34,184 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.5, 'profit_target': 0.006, 'stop_loss': 0.0025}
+2025-05-10 11:39:34,184 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 11:39:34,184 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 11:39:34,545 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:35,141 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:37,387 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:38,403 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 0.30000000000000004, 'voting_threshold': 0.4, 'profit_target': 0.005, 'stop_loss': 0.0035}
+2025-05-10 11:39:38,403 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 11:39:38,404 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.30000000000000004}
+2025-05-10 11:39:38,823 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:39,475 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:41,380 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:50,851 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 0.4, 'voting_threshold': 0.5, 'profit_target': 0.007, 'stop_loss': 0.001}
+2025-05-10 11:39:50,851 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 11:39:50,852 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.4}
+2025-05-10 11:39:51,268 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:51,785 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:39:53,478 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:20,029 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 0.4, 'voting_threshold': 0.3, 'profit_target': 0.01, 'stop_loss': 0.006}
+2025-05-10 11:40:20,029 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 11:40:20,030 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.4}
+2025-05-10 11:40:20,502 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:21,205 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:23,122 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:32,294 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.3, 'profit_target': 0.008, 'stop_loss': 0.003}
+2025-05-10 11:40:32,295 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 11:40:32,295 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 11:40:32,686 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:33,333 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:35,223 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:44,499 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.30000000000000004, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'profit_target': 0.01, 'stop_loss': 0.002}
+2025-05-10 11:40:44,500 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.30000000000000004}
+2025-05-10 11:40:44,500 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.0}
+2025-05-10 11:40:44,960 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:45,556 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:47,224 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:48,126 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.4000000000000001, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.5, 'profit_target': 0.007, 'stop_loss': 0.002}
+2025-05-10 11:40:48,126 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 11:40:48,127 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 11:40:48,513 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:49,159 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:40:51,164 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:41:00,596 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 11:41:00,597 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 11:41:00,600 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:41:01,077 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:41:01,758 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:41:03,750 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:41:30,083 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 11:41:30,084 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 11:41:30,085 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:41:30,494 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:41:31,199 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:41:33,244 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:41:59,614 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 11:41:59,615 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 11:41:59,616 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:42:00,021 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:00,619 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:02,817 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:29,872 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 1.4000000000000001, 'voting_threshold': 0.55, 'profit_target': 0.005, 'stop_loss': 0.0045000000000000005}
+2025-05-10 11:42:29,872 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 11:42:29,874 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 11:42:30,965 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:31,838 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:33,842 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:35,212 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.9, 'rsi_mean_reversion_weight': 1.2000000000000002, 'voting_threshold': 0.45, 'profit_target': 0.009000000000000001, 'stop_loss': 0.001}
+2025-05-10 11:42:35,212 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.9}
+2025-05-10 11:42:35,214 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.2000000000000002}
+2025-05-10 11:42:35,723 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:36,447 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:39,507 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:42,421 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.8000000000000003, 'rsi_mean_reversion_weight': 1.8000000000000003, 'voting_threshold': 0.5, 'profit_target': 0.005, 'stop_loss': 0.0035}
+2025-05-10 11:42:42,422 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 11:42:42,425 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 11:42:43,118 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:43,928 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:46,186 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:55,953 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.5000000000000002, 'rsi_mean_reversion_weight': 1.1, 'voting_threshold': 0.35, 'profit_target': 0.008, 'stop_loss': 0.0045000000000000005}
+2025-05-10 11:42:55,953 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:42:55,954 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.1}
+2025-05-10 11:42:56,423 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:42:58,118 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:01,020 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:12,688 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.1, 'rsi_mean_reversion_weight': 0.1, 'voting_threshold': 0.7, 'profit_target': 0.006, 'stop_loss': 0.006}
+2025-05-10 11:43:12,689 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.1}
+2025-05-10 11:43:12,689 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.1}
+2025-05-10 11:43:13,603 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:15,616 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:19,317 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:31,346 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 0.5, 'voting_threshold': 0.45, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 11:43:31,346 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 11:43:31,347 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.5}
+2025-05-10 11:43:33,606 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:34,972 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:37,493 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:50,239 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 1.7000000000000002, 'voting_threshold': 0.45, 'profit_target': 0.008, 'stop_loss': 0.0025}
+2025-05-10 11:43:50,239 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 11:43:50,241 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 11:43:51,071 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:52,373 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:43:54,376 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:44:03,751 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.2000000000000002, 'rsi_mean_reversion_weight': 0.9, 'voting_threshold': 0.55, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 11:44:03,751 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.2000000000000002}
+2025-05-10 11:44:03,752 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.9}
+2025-05-10 11:44:04,122 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:44:04,704 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:44:06,703 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:44:18,084 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.4000000000000001, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 11:44:18,084 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 11:44:18,085 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 11:44:18,533 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:44:19,160 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:44:20,980 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:44:47,673 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.8000000000000003, 'rsi_mean_reversion_weight': 1.3000000000000003, 'voting_threshold': 0.35, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 11:44:47,674 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 11:44:47,674 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 11:44:48,105 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:44:48,739 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:44:51,008 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:45:17,553 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 1.6, 'voting_threshold': 0.35, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 11:45:17,553 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 11:45:17,554 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.6}
+2025-05-10 11:45:17,943 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:45:18,553 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:45:20,686 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:45:32,457 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 1.3000000000000003, 'voting_threshold': 0.45, 'profit_target': 0.003, 'stop_loss': 0.0025}
+2025-05-10 11:45:32,458 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 11:45:32,460 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 11:45:33,160 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:45:34,841 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:45:37,825 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:45:47,603 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.8000000000000003, 'rsi_mean_reversion_weight': 0.9, 'voting_threshold': 0.55, 'profit_target': 0.005, 'stop_loss': 0.001}
+2025-05-10 11:45:47,603 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 11:45:47,603 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.9}
+2025-05-10 11:45:48,006 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:45:48,671 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:45:50,860 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:18,288 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 1.7000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.006, 'stop_loss': 0.002}
+2025-05-10 11:46:18,290 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 11:46:18,290 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 11:46:18,828 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:19,484 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:22,433 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:32,076 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.2000000000000002, 'voting_threshold': 0.35, 'profit_target': 0.009000000000000001, 'stop_loss': 0.003}
+2025-05-10 11:46:32,076 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 11:46:32,076 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.2000000000000002}
+2025-05-10 11:46:32,641 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:33,379 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:35,755 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:45,748 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 1.8000000000000003, 'voting_threshold': 0.45, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 11:46:45,748 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 11:46:45,748 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 11:46:46,316 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:47,170 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:49,128 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:50,499 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.5000000000000002, 'rsi_mean_reversion_weight': 1.9000000000000001, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 11:46:50,499 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:46:50,500 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 11:46:51,449 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:52,323 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:55,516 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:56,570 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.006, 'stop_loss': 0.0055000000000000005}
+2025-05-10 11:46:56,570 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.0}
+2025-05-10 11:46:56,571 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:46:56,975 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:57,826 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:46:59,898 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:47:09,566 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.5000000000000002, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 11:47:09,566 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 11:47:09,567 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:47:09,959 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:47:10,571 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:47:12,663 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:47:39,597 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.4000000000000001, 'voting_threshold': 0.35, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 11:47:39,598 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 11:47:39,599 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 11:47:40,032 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:47:40,684 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:47:42,570 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:10,392 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 1.6, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.002}
+2025-05-10 11:48:10,392 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 11:48:10,393 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.6}
+2025-05-10 11:48:11,323 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:12,597 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:16,832 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:27,546 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.6, 'rsi_mean_reversion_weight': 1.1, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.004, 'stop_loss': 0.001}
+2025-05-10 11:48:27,547 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.6}
+2025-05-10 11:48:27,549 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.1}
+2025-05-10 11:48:28,397 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:29,291 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:31,615 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:32,913 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.5, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 11:48:32,913 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 11:48:32,914 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 11:48:33,498 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:34,424 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:36,891 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:48,812 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.8000000000000003, 'rsi_mean_reversion_weight': 1.3000000000000003, 'voting_threshold': 0.45, 'profit_target': 0.005, 'stop_loss': 0.004}
+2025-05-10 11:48:48,812 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 11:48:48,812 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 11:48:49,243 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:50,327 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:48:53,091 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:02,586 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.4000000000000001, 'rsi_mean_reversion_weight': 0.5, 'voting_threshold': 0.35, 'profit_target': 0.003, 'stop_loss': 0.002}
+2025-05-10 11:49:02,586 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 11:49:02,586 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.5}
+2025-05-10 11:49:03,240 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:03,993 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:06,122 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:15,575 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 0.9, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.001}
+2025-05-10 11:49:15,575 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 11:49:15,576 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.9}
+2025-05-10 11:49:16,291 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:17,001 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:19,369 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:46,231 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.1, 'rsi_mean_reversion_weight': 1.6, 'voting_threshold': 0.3, 'profit_target': 0.005, 'stop_loss': 0.005}
+2025-05-10 11:49:46,232 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.1}
+2025-05-10 11:49:46,233 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.6}
+2025-05-10 11:49:46,932 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:47,701 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:49,807 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:50,900 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 0.30000000000000004, 'voting_threshold': 0.5, 'profit_target': 0.006, 'stop_loss': 0.0025}
+2025-05-10 11:49:50,901 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 11:49:50,901 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.30000000000000004}
+2025-05-10 11:49:51,535 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:52,333 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:49:54,836 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:50:04,459 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.8000000000000003, 'rsi_mean_reversion_weight': 1.3000000000000003, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.001}
+2025-05-10 11:50:04,460 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.8000000000000003}
+2025-05-10 11:50:04,461 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 11:50:05,070 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:50:05,764 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:50:07,932 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:50:34,753 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.9000000000000001, 'rsi_mean_reversion_weight': 1.4000000000000001, 'voting_threshold': 0.35, 'profit_target': 0.003, 'stop_loss': 0.0015}
+2025-05-10 11:50:34,753 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.9000000000000001}
+2025-05-10 11:50:34,756 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 11:50:35,630 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:50:36,762 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:50:39,980 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:50:52,354 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.5000000000000002, 'rsi_mean_reversion_weight': 1.2000000000000002, 'voting_threshold': 0.3, 'profit_target': 0.004, 'stop_loss': 0.001}
+2025-05-10 11:50:52,354 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:50:52,356 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.2000000000000002}
+2025-05-10 11:50:52,865 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:50:53,617 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:50:55,887 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:51:22,980 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.4000000000000001, 'rsi_mean_reversion_weight': 1.2000000000000002, 'voting_threshold': 0.3, 'profit_target': 0.004, 'stop_loss': 0.0015}
+2025-05-10 11:51:22,981 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 11:51:22,982 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.2000000000000002}
+2025-05-10 11:51:23,611 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:51:24,180 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:51:26,219 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:51:37,551 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.5000000000000002, 'rsi_mean_reversion_weight': 0.8, 'voting_threshold': 0.3, 'profit_target': 0.004, 'stop_loss': 0.001}
+2025-05-10 11:51:37,551 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:51:37,553 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.8}
+2025-05-10 11:51:37,966 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:51:38,819 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:51:42,324 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:09,858 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 1.1, 'voting_threshold': 0.4, 'profit_target': 0.003, 'stop_loss': 0.002}
+2025-05-10 11:52:09,859 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 11:52:09,860 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.1}
+2025-05-10 11:52:10,419 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:11,067 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:13,266 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:22,939 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 1.4000000000000001, 'voting_threshold': 0.5, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 11:52:22,939 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 11:52:22,941 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.4000000000000001}
+2025-05-10 11:52:23,387 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:24,104 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:26,241 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:38,088 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 2.0, 'rsi_mean_reversion_weight': 0.6, 'voting_threshold': 0.3, 'profit_target': 0.008, 'stop_loss': 0.003}
+2025-05-10 11:52:38,089 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 2.0}
+2025-05-10 11:52:38,090 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.6}
+2025-05-10 11:52:38,520 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:39,088 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:41,021 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:50,659 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.7000000000000002, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.55, 'profit_target': 0.003, 'stop_loss': 0.002}
+2025-05-10 11:52:50,659 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.7000000000000002}
+2025-05-10 11:52:50,666 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.0}
+2025-05-10 11:52:51,228 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:52,026 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:52:54,596 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:04,322 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.5000000000000002, 'rsi_mean_reversion_weight': 1.2000000000000002, 'voting_threshold': 0.3, 'profit_target': 0.004, 'stop_loss': 0.001}
+2025-05-10 11:53:04,322 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.5000000000000002}
+2025-05-10 11:53:04,323 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 1.2000000000000002}
+2025-05-10 11:53:04,443 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:04,695 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:05,277 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:27,056 - strategy - INFO - Initialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.3, 'minimum_confirmation': 0.3, 'position_sizing_factor': 1.0, 'profit_target': 0.005, 'stop_loss': 0.002, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.001, 'atr_filter_period': 14, 'atr_filter_multiplier': 0.7, 'volatility_filter': False}
+2025-05-10 11:53:27,056 - strategy - INFO - Initialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 8, 'slow_ma_period': 21, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.004, 'stop_loss': 0.002, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.001, 'trailing_stop_distance': 0.0015}
+2025-05-10 11:53:27,057 - strategy - INFO - Initialized RSI Mean Reversion strategy with parameters: {'rsi_period': 7, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 100, 'counter_trend_factor': 1.0, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 1}
+2025-05-10 11:53:27,061 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.6000000000000001, 'profit_target': 0.007, 'stop_loss': 0.0015}
+2025-05-10 11:53:27,062 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.8}
+2025-05-10 11:53:27,064 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 11:53:27,693 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:28,636 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:30,922 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:32,646 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.65, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}
+2025-05-10 11:53:32,646 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 11:53:32,647 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.2}
+2025-05-10 11:53:33,370 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:34,497 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:37,062 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:46,556 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.1, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.65, 'profit_target': 0.004, 'stop_loss': 0.002}
+2025-05-10 11:53:46,557 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.1}
+2025-05-10 11:53:46,558 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 2.0}
+2025-05-10 11:53:46,982 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:47,657 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:49,637 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:50,605 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.5, 'profit_target': 0.006, 'stop_loss': 0.0025}
+2025-05-10 11:53:50,605 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 0.4}
+2025-05-10 11:53:50,605 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}
+2025-05-10 11:53:51,016 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:51,709 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:53,294 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:54,514 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 0.30000000000000004, 'voting_threshold': 0.4, 'profit_target': 0.005, 'stop_loss': 0.0035}
+2025-05-10 11:53:54,515 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}
+2025-05-10 11:53:54,515 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.30000000000000004}
+2025-05-10 11:53:54,915 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:55,545 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:53:57,532 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:54:06,828 - strategy - INFO - Updated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.6, 'rsi_mean_reversion_weight': 0.4, 'voting_threshold': 0.5, 'profit_target': 0.007, 'stop_loss': 0.001}
+2025-05-10 11:54:06,828 - strategy - INFO - Updated Moving Average Crossover strategy parameters: {'weight': 1.6}
+2025-05-10 11:54:06,829 - strategy - INFO - Updated RSI Mean Reversion strategy parameters: {'weight': 0.4}
+2025-05-10 11:54:07,255 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00
+2025-05-10 11:54:07,879 - strategy - INFO - Applied sentiment filter: neutral with confidence 0.00

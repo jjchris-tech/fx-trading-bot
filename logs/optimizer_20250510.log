@@ -1,0 +1,71 @@
+2025-05-10 00:20:31,454 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-10 00:20:31,454 - optimizer - INFO - Starting walk-forward optimization
+2025-05-10 00:20:31,455 - optimizer - INFO - Processing window 3
+2025-05-10 00:20:31,689 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-10 00:20:31,689 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials
+2025-05-10 00:35:24,328 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-10 00:35:24,328 - optimizer - INFO - Starting walk-forward optimization
+2025-05-10 00:35:24,329 - optimizer - INFO - Processing window 3
+2025-05-10 00:35:24,544 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-10 00:35:24,544 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials
+2025-05-10 00:44:03,102 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-10 00:44:03,103 - optimizer - INFO - Starting walk-forward optimization
+2025-05-10 00:44:03,103 - optimizer - INFO - Processing window 3
+2025-05-10 00:44:03,379 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-10 00:44:03,379 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials
+2025-05-10 01:21:52,069 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-10 01:21:52,069 - optimizer - INFO - Starting walk-forward optimization
+2025-05-10 01:21:52,070 - optimizer - INFO - Processing window 3
+2025-05-10 01:21:52,302 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-10 01:21:52,302 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials
+2025-05-10 02:16:22,189 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-10 02:16:22,189 - optimizer - INFO - Starting walk-forward optimization
+2025-05-10 02:16:22,190 - optimizer - INFO - Processing window 3
+2025-05-10 02:16:22,451 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-10 02:16:22,451 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials
+2025-05-10 02:17:38,421 - optimizer - INFO - Trial 5: Trades=25, Return=-0.0139, PF=0.03, Sharpe=-27.24, Drawdown=0.0142, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.0678
+2025-05-10 02:18:58,340 - optimizer - INFO - Trial 10: Trades=25, Return=-0.0140, PF=0.03, Sharpe=-27.40, Drawdown=0.0143, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.1148
+2025-05-10 02:19:29,594 - optimizer - INFO - Trial 11: Trades=25, Return=-0.0140, PF=0.03, Sharpe=-27.57, Drawdown=0.0143, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.1658
+2025-05-10 02:20:00,869 - optimizer - INFO - Trial 12: Trades=25, Return=-0.0141, PF=0.03, Sharpe=-28.01, Drawdown=0.0145, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.2990
+2025-05-10 02:22:12,983 - optimizer - INFO - Trial 21: Trades=25, Return=-0.0142, PF=0.03, Sharpe=-28.20, Drawdown=0.0145, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.3557
+2025-05-10 02:22:44,129 - optimizer - INFO - Trial 22: Trades=25, Return=-0.0143, PF=0.03, Sharpe=-27.50, Drawdown=0.0146, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.1455
+2025-05-10 02:24:46,870 - optimizer - INFO - Trial 31: Trades=25, Return=-0.0142, PF=0.03, Sharpe=-27.68, Drawdown=0.0146, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.2003
+2025-05-10 02:25:18,094 - optimizer - INFO - Trial 32: Trades=25, Return=-0.0140, PF=0.03, Sharpe=-27.11, Drawdown=0.0144, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.0289
+2025-05-10 02:26:11,455 - optimizer - INFO - Trial 35: Trades=25, Return=-0.0141, PF=0.03, Sharpe=-27.38, Drawdown=0.0144, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.1104
+2025-05-10 02:27:11,364 - optimizer - INFO - Trial 38: Trades=25, Return=-0.0140, PF=0.04, Sharpe=-26.74, Drawdown=0.0143, WinRate=0.0800, AvgTrade=-0.0005, Objective=-7.9157
+2025-05-10 02:28:13,285 - optimizer - INFO - Trial 41: Trades=25, Return=-0.0141, PF=0.03, Sharpe=-27.15, Drawdown=0.0144, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.0401
+2025-05-10 02:28:41,822 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-10 02:28:41,822 - optimizer - INFO - Starting walk-forward optimization
+2025-05-10 02:28:41,823 - optimizer - INFO - Processing window 3
+2025-05-10 02:28:42,090 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-10 02:28:42,090 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials
+2025-05-10 02:30:04,880 - optimizer - INFO - Trial 5: Trades=25, Return=-0.0138, PF=0.03, Sharpe=-26.80, Drawdown=0.0142, WinRate=0.0800, AvgTrade=-0.0005, Objective=-7.9342
+2025-05-10 02:42:26,132 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-10 02:42:26,132 - optimizer - INFO - Starting walk-forward optimization
+2025-05-10 02:42:26,133 - optimizer - INFO - Processing window 3
+2025-05-10 02:42:26,398 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-10 02:42:26,399 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials
+2025-05-10 11:39:14,173 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-10 11:39:14,173 - optimizer - INFO - Starting walk-forward optimization
+2025-05-10 11:39:14,175 - optimizer - INFO - Processing window 3
+2025-05-10 11:39:14,535 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-10 11:39:14,535 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials
+2025-05-10 11:40:20,027 - optimizer - INFO - Trial 5: Trades=25, Return=-0.0142, PF=0.03, Sharpe=-26.81, Drawdown=0.0145, WinRate=0.0800, AvgTrade=-0.0005, Objective=-7.9378
+2025-05-10 11:41:30,059 - optimizer - INFO - Trial 10: Trades=25, Return=-0.0140, PF=0.03, Sharpe=-27.10, Drawdown=0.0144, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.0249
+2025-05-10 11:41:59,593 - optimizer - INFO - Trial 11: Trades=25, Return=-0.0142, PF=0.03, Sharpe=-26.94, Drawdown=0.0146, WinRate=0.0800, AvgTrade=-0.0005, Objective=-7.9771
+2025-05-10 11:42:29,839 - optimizer - INFO - Trial 12: Trades=25, Return=-0.0139, PF=0.03, Sharpe=-26.86, Drawdown=0.0143, WinRate=0.0800, AvgTrade=-0.0005, Objective=-7.9531
+2025-05-10 11:44:47,643 - optimizer - INFO - Trial 21: Trades=25, Return=-0.0139, PF=0.03, Sharpe=-26.92, Drawdown=0.0142, WinRate=0.0800, AvgTrade=-0.0005, Objective=-7.9719
+2025-05-10 11:45:17,529 - optimizer - INFO - Trial 22: Trades=25, Return=-0.0140, PF=0.03, Sharpe=-27.07, Drawdown=0.0143, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.0170
+2025-05-10 11:46:18,259 - optimizer - INFO - Trial 25: Trades=25, Return=-0.0141, PF=0.03, Sharpe=-27.51, Drawdown=0.0145, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.1492
+2025-05-10 11:47:39,573 - optimizer - INFO - Trial 31: Trades=25, Return=-0.0141, PF=0.03, Sharpe=-27.15, Drawdown=0.0145, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.0393
+2025-05-10 11:48:10,215 - optimizer - INFO - Trial 32: Trades=25, Return=-0.0142, PF=0.03, Sharpe=-27.29, Drawdown=0.0146, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.0821
+2025-05-10 11:49:46,196 - optimizer - INFO - Trial 38: Trades=25, Return=-0.0142, PF=0.03, Sharpe=-27.60, Drawdown=0.0145, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.1759
+2025-05-10 11:50:34,697 - optimizer - INFO - Trial 41: Trades=25, Return=-0.0144, PF=0.03, Sharpe=-28.56, Drawdown=0.0147, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.4657
+2025-05-10 11:51:22,954 - optimizer - INFO - Trial 43: Trades=25, Return=-0.0140, PF=0.03, Sharpe=-26.52, Drawdown=0.0143, WinRate=0.0800, AvgTrade=-0.0005, Objective=-7.8509
+2025-05-10 11:52:09,820 - optimizer - INFO - Trial 45: Trades=25, Return=-0.0141, PF=0.03, Sharpe=-27.73, Drawdown=0.0145, WinRate=0.0800, AvgTrade=-0.0005, Objective=-8.2158
+2025-05-10 11:53:04,319 - optimizer - INFO - Optimization completed in 829.78 seconds
+2025-05-10 11:53:04,319 - optimizer - INFO - Best parameters: {'ma_crossover_weight': 1.5000000000000002, 'rsi_mean_reversion_weight': 1.2000000000000002, 'voting_threshold': 0.3, 'profit_target': 0.004, 'stop_loss': 0.001}
+2025-05-10 11:53:04,321 - optimizer - INFO - Best value: -7.8509
+2025-05-10 11:53:26,853 - optimizer - INFO - Processing window 2
+2025-05-10 11:53:27,057 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-10 11:53:27,058 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials

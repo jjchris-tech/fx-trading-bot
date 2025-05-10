@@ -1,0 +1,86 @@
+2025-05-09 21:28:50,406 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:28:50,787 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:28:53,260 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:28:53,618 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:29:01,060 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:29:01,454 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:29:23,851 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:29:24,246 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:33:52,840 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:33:53,234 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:33:54,627 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:33:54,985 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:33:57,662 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:33:58,024 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:00,157 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:00,536 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:02,038 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:02,437 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:05,013 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:05,379 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:07,375 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:07,745 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:08,864 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:09,237 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:11,257 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:11,639 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:13,711 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:14,077 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:15,354 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:15,736 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:18,150 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:18,510 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:21,113 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:21,512 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:23,346 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:23,721 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 21:34:26,218 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 21:34:26,597 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:25,202 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:25,607 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:26,734 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:27,108 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:29,535 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:29,897 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:31,961 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:32,338 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:33,485 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:33,852 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:36,279 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:36,651 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:38,910 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:39,284 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:42,012 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:42,392 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:46,813 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:47,178 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:51,123 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:51,494 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:53,084 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:53,460 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:56,234 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:56,591 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:30:58,354 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:30:58,739 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:31:00,519 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:31:00,897 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:31:03,199 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:31:03,621 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:32:11,263 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:32:11,639 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:32:13,949 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:32:14,307 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:32:20,788 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:32:21,148 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:35:27,825 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:35:28,200 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:35:30,893 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:35:31,260 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:35:37,235 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:35:37,610 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:56:41,522 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:56:41,909 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:56:43,321 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:56:43,686 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-09 23:56:46,315 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-09 23:56:46,684 - sentiment - WARNING - Failed to get forex news, retrying with general FX search

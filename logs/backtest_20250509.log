@@ -1,0 +1,28 @@
+2025-05-09 21:28:49,081 - backtest - INFO - Running backtest for EUR/USD (1h) with hybrid_voting strategy
+2025-05-09 21:28:49,082 - backtest - INFO - Fetching data from 2023-01-01 to 2023-12-31
+2025-05-09 21:28:49,302 - backtest - INFO - Running backtest simulation
+2025-05-09 21:29:05,870 - backtest - INFO - Generating PDF report
+2025-05-09 21:29:10,616 - backtest - INFO - Generated report: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\reports\report_20250509_212910.pdf
+2025-05-09 21:29:10,617 - backtest - INFO - Starting dashboard
+2025-05-09 21:29:21,898 - backtest - INFO - Comparing strategies for EUR/USD (1h)
+2025-05-09 21:29:21,898 - backtest - INFO - Testing strategy: ma_crossover
+2025-05-09 21:29:21,898 - backtest - INFO - Running backtest for EUR/USD (1h) with ma_crossover strategy
+2025-05-09 21:29:21,899 - backtest - INFO - Fetching data from 2023-01-01 to 2023-12-31
+2025-05-09 21:29:22,085 - backtest - INFO - Running backtest simulation
+2025-05-09 23:32:10,056 - backtest - INFO - Running backtest for EUR/USD (1h) with hybrid_voting strategy
+2025-05-09 23:32:10,057 - backtest - INFO - Fetching data from 2023-01-01 to 2023-12-31
+2025-05-09 23:32:10,260 - backtest - INFO - Running backtest simulation
+2025-05-09 23:32:26,287 - backtest - INFO - Generating PDF report
+2025-05-09 23:32:29,845 - backtest - INFO - Generated report: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\reports\report_20250509_233229.pdf
+2025-05-09 23:32:29,845 - backtest - INFO - Starting dashboard
+2025-05-09 23:32:32,099 - backtest - INFO - Backtest completed: 0 trades, $0.00 profit
+2025-05-09 23:35:25,946 - backtest - INFO - Running backtest for EUR/USD (1h) with hybrid_voting strategy
+2025-05-09 23:35:25,947 - backtest - INFO - Fetching data from 2023-01-01 to 2023-12-31
+2025-05-09 23:35:26,146 - backtest - INFO - Running backtest simulation
+2025-05-09 23:35:41,562 - backtest - INFO - Generating PDF report
+2025-05-09 23:35:43,892 - backtest - INFO - Generated report: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\reports\report_20250509_233543.pdf
+2025-05-09 23:35:43,892 - backtest - INFO - Starting dashboard
+2025-05-09 23:35:46,113 - backtest - INFO - Backtest completed: 0 trades, $0.00 profit
+2025-05-09 23:56:40,813 - backtest - INFO - Running backtest for EUR/USD (1h) with hybrid_voting strategy
+2025-05-09 23:56:40,816 - backtest - INFO - Fetching data from 2024-11-10 to 2025-05-09
+2025-05-09 23:56:41,006 - backtest - INFO - Running backtest simulation

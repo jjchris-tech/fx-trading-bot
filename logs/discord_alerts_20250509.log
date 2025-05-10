@@ -1,0 +1,1454 @@
+2025-05-09 21:30:07,772 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.178, "global": false}
+2025-05-09 21:30:07,772 - discord_alerts - WARNING - Rate limited, waiting 1.178 seconds
+2025-05-09 21:30:10,099 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.858, "global": false}
+2025-05-09 21:30:10,100 - discord_alerts - WARNING - Rate limited, waiting 0.858 seconds
+2025-05-09 21:30:11,985 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.965, "global": false}
+2025-05-09 21:30:11,985 - discord_alerts - WARNING - Rate limited, waiting 0.965 seconds
+2025-05-09 21:30:13,901 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.045, "global": false}
+2025-05-09 21:30:13,901 - discord_alerts - WARNING - Rate limited, waiting 1.045 seconds
+2025-05-09 21:30:17,990 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.956, "global": false}
+2025-05-09 21:30:17,991 - discord_alerts - WARNING - Rate limited, waiting 0.956 seconds
+2025-05-09 21:30:20,038 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.91, "global": false}
+2025-05-09 21:30:20,039 - discord_alerts - WARNING - Rate limited, waiting 0.91 seconds
+2025-05-09 21:30:22,066 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.885, "global": false}
+2025-05-09 21:30:22,066 - discord_alerts - WARNING - Rate limited, waiting 0.885 seconds
+2025-05-09 21:30:24,057 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.89, "global": false}
+2025-05-09 21:30:24,058 - discord_alerts - WARNING - Rate limited, waiting 0.89 seconds
+2025-05-09 21:30:26,078 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.88, "global": false}
+2025-05-09 21:30:26,078 - discord_alerts - WARNING - Rate limited, waiting 0.88 seconds
+2025-05-09 21:30:28,019 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.937, "global": false}
+2025-05-09 21:30:28,019 - discord_alerts - WARNING - Rate limited, waiting 0.937 seconds
+2025-05-09 21:30:30,016 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.933, "global": false}
+2025-05-09 21:30:30,016 - discord_alerts - WARNING - Rate limited, waiting 0.933 seconds
+2025-05-09 21:30:32,093 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.857, "global": false}
+2025-05-09 21:30:32,093 - discord_alerts - WARNING - Rate limited, waiting 0.857 seconds
+2025-05-09 21:30:33,967 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.989, "global": false}
+2025-05-09 21:30:33,968 - discord_alerts - WARNING - Rate limited, waiting 0.989 seconds
+2025-05-09 21:30:35,948 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.001, "global": false}
+2025-05-09 21:30:35,948 - discord_alerts - WARNING - Rate limited, waiting 1.001 seconds
+2025-05-09 21:30:37,929 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.02, "global": false}
+2025-05-09 21:30:37,929 - discord_alerts - WARNING - Rate limited, waiting 1.02 seconds
+2025-05-09 21:30:40,071 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.886, "global": false}
+2025-05-09 21:30:40,071 - discord_alerts - WARNING - Rate limited, waiting 0.886 seconds
+2025-05-09 21:30:42,019 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.932, "global": false}
+2025-05-09 21:30:42,019 - discord_alerts - WARNING - Rate limited, waiting 0.932 seconds
+2025-05-09 21:30:44,084 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.871, "global": false}
+2025-05-09 21:30:44,084 - discord_alerts - WARNING - Rate limited, waiting 0.871 seconds
+2025-05-09 21:30:46,121 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.83, "global": false}
+2025-05-09 21:30:46,121 - discord_alerts - WARNING - Rate limited, waiting 0.83 seconds
+2025-05-09 21:30:47,924 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.026, "global": false}
+2025-05-09 21:30:47,924 - discord_alerts - WARNING - Rate limited, waiting 1.026 seconds
+2025-05-09 21:30:50,139 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.819, "global": false}
+2025-05-09 21:30:50,139 - discord_alerts - WARNING - Rate limited, waiting 0.819 seconds
+2025-05-09 21:30:52,042 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.908, "global": false}
+2025-05-09 21:30:52,042 - discord_alerts - WARNING - Rate limited, waiting 0.908 seconds
+2025-05-09 21:30:54,039 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.924, "global": false}
+2025-05-09 21:30:54,039 - discord_alerts - WARNING - Rate limited, waiting 0.924 seconds
+2025-05-09 21:30:55,964 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.983, "global": false}
+2025-05-09 21:30:55,964 - discord_alerts - WARNING - Rate limited, waiting 0.983 seconds
+2025-05-09 21:30:58,062 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.892, "global": false}
+2025-05-09 21:30:58,062 - discord_alerts - WARNING - Rate limited, waiting 0.892 seconds
+2025-05-09 21:30:59,901 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.049, "global": false}
+2025-05-09 21:30:59,901 - discord_alerts - WARNING - Rate limited, waiting 1.049 seconds
+2025-05-09 21:31:02,008 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.946, "global": false}
+2025-05-09 21:31:02,008 - discord_alerts - WARNING - Rate limited, waiting 0.946 seconds
+2025-05-09 21:31:03,957 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.996, "global": false}
+2025-05-09 21:31:03,957 - discord_alerts - WARNING - Rate limited, waiting 0.996 seconds
+2025-05-09 21:31:06,101 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.858, "global": false}
+2025-05-09 21:31:06,101 - discord_alerts - WARNING - Rate limited, waiting 0.858 seconds
+2025-05-09 21:31:10,351 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.62, "global": false}
+2025-05-09 21:31:10,351 - discord_alerts - WARNING - Rate limited, waiting 0.62 seconds
+2025-05-09 21:31:11,965 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.992, "global": false}
+2025-05-09 21:31:11,965 - discord_alerts - WARNING - Rate limited, waiting 0.992 seconds
+2025-05-09 21:31:14,027 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.924, "global": false}
+2025-05-09 21:31:14,027 - discord_alerts - WARNING - Rate limited, waiting 0.924 seconds
+2025-05-09 21:31:16,075 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.88, "global": false}
+2025-05-09 21:31:16,075 - discord_alerts - WARNING - Rate limited, waiting 0.88 seconds
+2025-05-09 21:31:17,979 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.971, "global": false}
+2025-05-09 21:31:17,979 - discord_alerts - WARNING - Rate limited, waiting 0.971 seconds
+2025-05-09 21:31:19,953 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.001, "global": false}
+2025-05-09 21:31:19,953 - discord_alerts - WARNING - Rate limited, waiting 1.001 seconds
+2025-05-09 21:31:22,014 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.949, "global": false}
+2025-05-09 21:31:22,014 - discord_alerts - WARNING - Rate limited, waiting 0.949 seconds
+2025-05-09 21:31:25,861 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.095, "global": false}
+2025-05-09 21:31:25,861 - discord_alerts - WARNING - Rate limited, waiting 1.095 seconds
+2025-05-09 21:31:27,985 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.971, "global": false}
+2025-05-09 21:31:27,985 - discord_alerts - WARNING - Rate limited, waiting 0.971 seconds
+2025-05-09 21:31:30,185 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.774, "global": false}
+2025-05-09 21:31:30,185 - discord_alerts - WARNING - Rate limited, waiting 0.774 seconds
+2025-05-09 21:31:31,974 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.976, "global": false}
+2025-05-09 21:31:31,974 - discord_alerts - WARNING - Rate limited, waiting 0.976 seconds
+2025-05-09 21:31:34,078 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.89, "global": false}
+2025-05-09 21:31:34,079 - discord_alerts - WARNING - Rate limited, waiting 0.89 seconds
+2025-05-09 21:31:36,050 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.901, "global": false}
+2025-05-09 21:31:36,050 - discord_alerts - WARNING - Rate limited, waiting 0.901 seconds
+2025-05-09 21:31:38,027 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.921, "global": false}
+2025-05-09 21:31:38,027 - discord_alerts - WARNING - Rate limited, waiting 0.921 seconds
+2025-05-09 21:31:40,048 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.902, "global": false}
+2025-05-09 21:31:40,048 - discord_alerts - WARNING - Rate limited, waiting 0.902 seconds
+2025-05-09 21:31:41,996 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.963, "global": false}
+2025-05-09 21:31:41,996 - discord_alerts - WARNING - Rate limited, waiting 0.963 seconds
+2025-05-09 21:31:44,386 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.565, "global": false}
+2025-05-09 21:31:44,386 - discord_alerts - WARNING - Rate limited, waiting 0.565 seconds
+2025-05-09 21:31:45,981 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.973, "global": false}
+2025-05-09 21:31:45,981 - discord_alerts - WARNING - Rate limited, waiting 0.973 seconds
+2025-05-09 21:31:47,930 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.031, "global": false}
+2025-05-09 21:31:47,930 - discord_alerts - WARNING - Rate limited, waiting 1.031 seconds
+2025-05-09 21:31:50,014 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.934, "global": false}
+2025-05-09 21:31:50,014 - discord_alerts - WARNING - Rate limited, waiting 0.934 seconds
+2025-05-09 21:31:51,931 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.017, "global": false}
+2025-05-09 21:31:51,931 - discord_alerts - WARNING - Rate limited, waiting 1.017 seconds
+2025-05-09 21:31:53,931 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.026, "global": false}
+2025-05-09 21:31:53,931 - discord_alerts - WARNING - Rate limited, waiting 1.026 seconds
+2025-05-09 21:31:56,424 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.527, "global": false}
+2025-05-09 21:31:56,424 - discord_alerts - WARNING - Rate limited, waiting 0.527 seconds
+2025-05-09 21:31:57,963 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.986, "global": false}
+2025-05-09 21:31:57,964 - discord_alerts - WARNING - Rate limited, waiting 0.986 seconds
+2025-05-09 21:32:00,014 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.939, "global": false}
+2025-05-09 21:32:00,016 - discord_alerts - WARNING - Rate limited, waiting 0.939 seconds
+2025-05-09 21:32:01,964 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.988, "global": false}
+2025-05-09 21:32:01,964 - discord_alerts - WARNING - Rate limited, waiting 0.988 seconds
+2025-05-09 21:32:03,891 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.061, "global": false}
+2025-05-09 21:32:03,891 - discord_alerts - WARNING - Rate limited, waiting 1.061 seconds
+2025-05-09 21:32:06,039 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.917, "global": false}
+2025-05-09 21:32:06,039 - discord_alerts - WARNING - Rate limited, waiting 0.917 seconds
+2025-05-09 21:32:08,245 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.715, "global": false}
+2025-05-09 21:32:08,245 - discord_alerts - WARNING - Rate limited, waiting 0.715 seconds
+2025-05-09 21:32:09,945 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.013, "global": false}
+2025-05-09 21:32:09,946 - discord_alerts - WARNING - Rate limited, waiting 1.013 seconds
+2025-05-09 21:32:14,368 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.582, "global": false}
+2025-05-09 21:32:14,369 - discord_alerts - WARNING - Rate limited, waiting 0.582 seconds
+2025-05-09 23:31:43,574 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.3, "global": false}
+2025-05-09 23:31:43,574 - discord_alerts - WARNING - Rate limited, waiting 0.3 seconds
+2025-05-09 23:31:44,881 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.881, "global": false}
+2025-05-09 23:31:44,881 - discord_alerts - WARNING - Rate limited, waiting 0.881 seconds
+2025-05-09 23:31:46,695 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.071, "global": false}
+2025-05-09 23:31:46,695 - discord_alerts - WARNING - Rate limited, waiting 1.071 seconds
+2025-05-09 23:31:48,905 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.854, "global": false}
+2025-05-09 23:31:48,905 - discord_alerts - WARNING - Rate limited, waiting 0.854 seconds
+2025-05-09 23:31:50,704 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.055, "global": false}
+2025-05-09 23:31:50,705 - discord_alerts - WARNING - Rate limited, waiting 1.055 seconds
+2025-05-09 23:31:52,725 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.032, "global": false}
+2025-05-09 23:31:52,726 - discord_alerts - WARNING - Rate limited, waiting 1.032 seconds
+2025-05-09 23:31:54,693 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.068, "global": false}
+2025-05-09 23:31:54,693 - discord_alerts - WARNING - Rate limited, waiting 1.068 seconds
+2025-05-09 23:31:56,756 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.015, "global": false}
+2025-05-09 23:31:56,756 - discord_alerts - WARNING - Rate limited, waiting 1.015 seconds
+2025-05-09 23:57:28,824 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.136, "global": false}
+2025-05-09 23:57:28,825 - discord_alerts - WARNING - Rate limited, waiting 1.136 seconds
+2025-05-09 23:57:31,025 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.937, "global": false}
+2025-05-09 23:57:31,026 - discord_alerts - WARNING - Rate limited, waiting 0.937 seconds
+2025-05-09 23:57:33,025 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.933, "global": false}
+2025-05-09 23:57:33,025 - discord_alerts - WARNING - Rate limited, waiting 0.933 seconds
+2025-05-09 23:57:34,923 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.04, "global": false}
+2025-05-09 23:57:34,923 - discord_alerts - WARNING - Rate limited, waiting 1.04 seconds
+2025-05-09 23:57:37,044 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.915, "global": false}
+2025-05-09 23:57:37,045 - discord_alerts - WARNING - Rate limited, waiting 0.915 seconds
+2025-05-09 23:57:39,022 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.939, "global": false}
+2025-05-09 23:57:39,023 - discord_alerts - WARNING - Rate limited, waiting 0.939 seconds
+2025-05-09 23:57:40,868 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.091, "global": false}
+2025-05-09 23:57:40,869 - discord_alerts - WARNING - Rate limited, waiting 1.091 seconds
+2025-05-09 23:57:42,929 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.039, "global": false}
+2025-05-09 23:57:42,929 - discord_alerts - WARNING - Rate limited, waiting 1.039 seconds
+2025-05-09 23:57:45,140 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.822, "global": false}
+2025-05-09 23:57:45,141 - discord_alerts - WARNING - Rate limited, waiting 0.822 seconds
+2025-05-09 23:57:46,982 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.975, "global": false}
+2025-05-09 23:57:46,983 - discord_alerts - WARNING - Rate limited, waiting 0.975 seconds
+2025-05-09 23:57:48,962 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.995, "global": false}
+2025-05-09 23:57:48,963 - discord_alerts - WARNING - Rate limited, waiting 0.995 seconds
+2025-05-09 23:57:50,964 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.996, "global": false}
+2025-05-09 23:57:50,965 - discord_alerts - WARNING - Rate limited, waiting 0.996 seconds
+2025-05-09 23:57:54,982 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.976, "global": false}
+2025-05-09 23:57:54,982 - discord_alerts - WARNING - Rate limited, waiting 0.976 seconds
+2025-05-09 23:57:57,157 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.803, "global": false}
+2025-05-09 23:57:57,157 - discord_alerts - WARNING - Rate limited, waiting 0.803 seconds
+2025-05-09 23:57:59,086 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.872, "global": false}
+2025-05-09 23:57:59,087 - discord_alerts - WARNING - Rate limited, waiting 0.872 seconds
+2025-05-09 23:58:00,950 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.012, "global": false}
+2025-05-09 23:58:00,950 - discord_alerts - WARNING - Rate limited, waiting 1.012 seconds
+2025-05-09 23:58:02,950 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.009, "global": false}
+2025-05-09 23:58:02,950 - discord_alerts - WARNING - Rate limited, waiting 1.009 seconds
+2025-05-09 23:58:04,936 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.027, "global": false}
+2025-05-09 23:58:04,936 - discord_alerts - WARNING - Rate limited, waiting 1.027 seconds
+2025-05-09 23:58:07,084 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.878, "global": false}
+2025-05-09 23:58:07,084 - discord_alerts - WARNING - Rate limited, waiting 0.878 seconds
+2025-05-09 23:58:08,878 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.081, "global": false}
+2025-05-09 23:58:08,878 - discord_alerts - WARNING - Rate limited, waiting 1.081 seconds
+2025-05-09 23:58:10,900 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.064, "global": false}
+2025-05-09 23:58:10,901 - discord_alerts - WARNING - Rate limited, waiting 1.064 seconds
+2025-05-09 23:58:13,054 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.906, "global": false}
+2025-05-09 23:58:13,055 - discord_alerts - WARNING - Rate limited, waiting 0.906 seconds
+2025-05-09 23:58:14,919 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.047, "global": false}
+2025-05-09 23:58:14,920 - discord_alerts - WARNING - Rate limited, waiting 1.047 seconds
+2025-05-09 23:58:17,014 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.952, "global": false}
+2025-05-09 23:58:17,014 - discord_alerts - WARNING - Rate limited, waiting 0.952 seconds
+2025-05-09 23:58:18,981 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.981, "global": false}
+2025-05-09 23:58:18,981 - discord_alerts - WARNING - Rate limited, waiting 0.981 seconds
+2025-05-09 23:58:21,031 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.931, "global": false}
+2025-05-09 23:58:21,031 - discord_alerts - WARNING - Rate limited, waiting 0.931 seconds
+2025-05-09 23:58:22,955 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.004, "global": false}
+2025-05-09 23:58:22,955 - discord_alerts - WARNING - Rate limited, waiting 1.004 seconds
+2025-05-09 23:58:25,014 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.944, "global": false}
+2025-05-09 23:58:25,014 - discord_alerts - WARNING - Rate limited, waiting 0.944 seconds
+2025-05-09 23:58:27,176 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.782, "global": false}
+2025-05-09 23:58:27,176 - discord_alerts - WARNING - Rate limited, waiting 0.782 seconds
+2025-05-09 23:58:28,959 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.005, "global": false}
+2025-05-09 23:58:28,960 - discord_alerts - WARNING - Rate limited, waiting 1.005 seconds
+2025-05-09 23:58:31,007 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.955, "global": false}
+2025-05-09 23:58:31,008 - discord_alerts - WARNING - Rate limited, waiting 0.955 seconds
+2025-05-09 23:58:32,921 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.04, "global": false}
+2025-05-09 23:58:32,922 - discord_alerts - WARNING - Rate limited, waiting 1.04 seconds
+2025-05-09 23:58:34,985 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.974, "global": false}
+2025-05-09 23:58:34,985 - discord_alerts - WARNING - Rate limited, waiting 0.974 seconds
+2025-05-09 23:58:36,922 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.034, "global": false}
+2025-05-09 23:58:36,923 - discord_alerts - WARNING - Rate limited, waiting 1.034 seconds
+2025-05-09 23:58:38,943 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.016, "global": false}
+2025-05-09 23:58:38,944 - discord_alerts - WARNING - Rate limited, waiting 1.016 seconds
+2025-05-09 23:58:41,026 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.937, "global": false}
+2025-05-09 23:58:41,026 - discord_alerts - WARNING - Rate limited, waiting 0.937 seconds
+2025-05-09 23:58:42,912 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.047, "global": false}
+2025-05-09 23:58:42,913 - discord_alerts - WARNING - Rate limited, waiting 1.047 seconds
+2025-05-09 23:58:44,905 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.058, "global": false}
+2025-05-09 23:58:44,906 - discord_alerts - WARNING - Rate limited, waiting 1.058 seconds
+2025-05-09 23:58:46,876 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.082, "global": false}
+2025-05-09 23:58:46,877 - discord_alerts - WARNING - Rate limited, waiting 1.082 seconds
+2025-05-09 23:58:48,937 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.024, "global": false}
+2025-05-09 23:58:48,937 - discord_alerts - WARNING - Rate limited, waiting 1.024 seconds
+2025-05-09 23:58:50,946 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.014, "global": false}
+2025-05-09 23:58:50,946 - discord_alerts - WARNING - Rate limited, waiting 1.014 seconds
+2025-05-09 23:58:53,034 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.939, "global": false}
+2025-05-09 23:58:53,034 - discord_alerts - WARNING - Rate limited, waiting 0.939 seconds
+2025-05-09 23:58:55,072 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.886, "global": false}
+2025-05-09 23:58:55,073 - discord_alerts - WARNING - Rate limited, waiting 0.886 seconds
+2025-05-09 23:58:57,130 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.852, "global": false}
+2025-05-09 23:58:57,130 - discord_alerts - WARNING - Rate limited, waiting 0.852 seconds
+2025-05-09 23:58:58,996 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.965, "global": false}
+2025-05-09 23:58:58,996 - discord_alerts - WARNING - Rate limited, waiting 0.965 seconds
+2025-05-09 23:59:00,910 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.051, "global": false}
+2025-05-09 23:59:00,910 - discord_alerts - WARNING - Rate limited, waiting 1.051 seconds
+2025-05-09 23:59:02,928 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.029, "global": false}
+2025-05-09 23:59:02,929 - discord_alerts - WARNING - Rate limited, waiting 1.029 seconds
+2025-05-09 23:59:04,919 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.045, "global": false}
+2025-05-09 23:59:04,919 - discord_alerts - WARNING - Rate limited, waiting 1.045 seconds
+2025-05-09 23:59:06,927 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.031, "global": false}
+2025-05-09 23:59:06,928 - discord_alerts - WARNING - Rate limited, waiting 1.031 seconds
+2025-05-09 23:59:08,989 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.972, "global": false}
+2025-05-09 23:59:08,990 - discord_alerts - WARNING - Rate limited, waiting 0.972 seconds
+2025-05-09 23:59:11,114 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.848, "global": false}
+2025-05-09 23:59:11,114 - discord_alerts - WARNING - Rate limited, waiting 0.848 seconds
+2025-05-09 23:59:13,039 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.92, "global": false}
+2025-05-09 23:59:13,040 - discord_alerts - WARNING - Rate limited, waiting 0.92 seconds
+2025-05-09 23:59:15,109 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.852, "global": false}
+2025-05-09 23:59:15,109 - discord_alerts - WARNING - Rate limited, waiting 0.852 seconds
+2025-05-09 23:59:16,936 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.025, "global": false}
+2025-05-09 23:59:16,937 - discord_alerts - WARNING - Rate limited, waiting 1.025 seconds
+2025-05-09 23:59:18,946 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.017, "global": false}
+2025-05-09 23:59:18,947 - discord_alerts - WARNING - Rate limited, waiting 1.017 seconds
+2025-05-09 23:59:20,907 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.052, "global": false}
+2025-05-09 23:59:20,907 - discord_alerts - WARNING - Rate limited, waiting 1.052 seconds
+2025-05-09 23:59:22,929 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.032, "global": false}
+2025-05-09 23:59:22,929 - discord_alerts - WARNING - Rate limited, waiting 1.032 seconds
+2025-05-09 23:59:24,947 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.014, "global": false}
+2025-05-09 23:59:24,948 - discord_alerts - WARNING - Rate limited, waiting 1.014 seconds
+2025-05-09 23:59:26,888 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.072, "global": false}
+2025-05-09 23:59:26,889 - discord_alerts - WARNING - Rate limited, waiting 1.072 seconds
+2025-05-09 23:59:29,186 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.77, "global": false}
+2025-05-09 23:59:29,186 - discord_alerts - WARNING - Rate limited, waiting 0.77 seconds
+2025-05-09 23:59:30,881 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.076, "global": false}
+2025-05-09 23:59:30,882 - discord_alerts - WARNING - Rate limited, waiting 1.076 seconds
+2025-05-09 23:59:32,929 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.031, "global": false}
+2025-05-09 23:59:32,929 - discord_alerts - WARNING - Rate limited, waiting 1.031 seconds
+2025-05-09 23:59:34,925 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.034, "global": false}
+2025-05-09 23:59:34,926 - discord_alerts - WARNING - Rate limited, waiting 1.034 seconds
+2025-05-09 23:59:37,014 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.948, "global": false}
+2025-05-09 23:59:37,014 - discord_alerts - WARNING - Rate limited, waiting 0.948 seconds
+2025-05-09 23:59:39,083 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.879, "global": false}
+2025-05-09 23:59:39,083 - discord_alerts - WARNING - Rate limited, waiting 0.879 seconds
+2025-05-09 23:59:41,064 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.912, "global": false}
+2025-05-09 23:59:41,065 - discord_alerts - WARNING - Rate limited, waiting 0.912 seconds
+2025-05-09 23:59:43,038 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.927, "global": false}
+2025-05-09 23:59:43,038 - discord_alerts - WARNING - Rate limited, waiting 0.927 seconds
+2025-05-09 23:59:44,897 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.066, "global": false}
+2025-05-09 23:59:44,897 - discord_alerts - WARNING - Rate limited, waiting 1.066 seconds
+2025-05-09 23:59:47,208 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.752, "global": false}
+2025-05-09 23:59:47,209 - discord_alerts - WARNING - Rate limited, waiting 0.752 seconds
+2025-05-09 23:59:49,037 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.92, "global": false}
+2025-05-09 23:59:49,037 - discord_alerts - WARNING - Rate limited, waiting 0.92 seconds
+2025-05-09 23:59:51,127 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.852, "global": false}
+2025-05-09 23:59:51,129 - discord_alerts - WARNING - Rate limited, waiting 0.852 seconds
+2025-05-09 23:59:52,933 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.034, "global": false}
+2025-05-09 23:59:52,933 - discord_alerts - WARNING - Rate limited, waiting 1.034 seconds
+2025-05-09 23:59:54,951 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.013, "global": false}
+2025-05-09 23:59:54,952 - discord_alerts - WARNING - Rate limited, waiting 1.013 seconds
+2025-05-09 23:59:56,918 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.042, "global": false}
+2025-05-09 23:59:56,919 - discord_alerts - WARNING - Rate limited, waiting 1.042 seconds
+2025-05-09 23:59:58,923 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.042, "global": false}
+2025-05-09 23:59:58,925 - discord_alerts - WARNING - Rate limited, waiting 1.042 seconds
+2025-05-10 00:00:01,190 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.772, "global": false}
+2025-05-10 00:00:01,191 - discord_alerts - WARNING - Rate limited, waiting 0.772 seconds
+2025-05-10 00:00:02,969 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.992, "global": false}
+2025-05-10 00:00:02,969 - discord_alerts - WARNING - Rate limited, waiting 0.992 seconds
+2025-05-10 00:00:05,231 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.729, "global": false}
+2025-05-10 00:00:05,231 - discord_alerts - WARNING - Rate limited, waiting 0.729 seconds
+2025-05-10 00:00:07,037 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.946, "global": false}
+2025-05-10 00:00:07,038 - discord_alerts - WARNING - Rate limited, waiting 0.946 seconds
+2025-05-10 00:00:08,983 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.985, "global": false}
+2025-05-10 00:00:08,984 - discord_alerts - WARNING - Rate limited, waiting 0.985 seconds
+2025-05-10 00:00:11,132 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.83, "global": false}
+2025-05-10 00:00:11,133 - discord_alerts - WARNING - Rate limited, waiting 0.83 seconds
+2025-05-10 00:00:12,912 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.048, "global": false}
+2025-05-10 00:00:12,912 - discord_alerts - WARNING - Rate limited, waiting 1.048 seconds
+2025-05-10 00:00:14,953 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.008, "global": false}
+2025-05-10 00:00:14,953 - discord_alerts - WARNING - Rate limited, waiting 1.008 seconds
+2025-05-10 00:00:17,006 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.955, "global": false}
+2025-05-10 00:00:17,006 - discord_alerts - WARNING - Rate limited, waiting 0.955 seconds
+2025-05-10 00:00:19,096 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.866, "global": false}
+2025-05-10 00:00:19,097 - discord_alerts - WARNING - Rate limited, waiting 0.866 seconds
+2025-05-10 00:00:21,003 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.964, "global": false}
+2025-05-10 00:00:21,079 - discord_alerts - WARNING - Rate limited, waiting 0.964 seconds
+2025-05-10 00:00:23,080 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.882, "global": false}
+2025-05-10 00:00:23,081 - discord_alerts - WARNING - Rate limited, waiting 0.882 seconds
+2025-05-10 00:00:24,922 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.042, "global": false}
+2025-05-10 00:00:24,922 - discord_alerts - WARNING - Rate limited, waiting 1.042 seconds
+2025-05-10 00:00:26,950 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.016, "global": false}
+2025-05-10 00:00:26,950 - discord_alerts - WARNING - Rate limited, waiting 1.016 seconds
+2025-05-10 00:00:29,036 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.925, "global": false}
+2025-05-10 00:00:29,037 - discord_alerts - WARNING - Rate limited, waiting 0.925 seconds
+2025-05-10 00:00:30,911 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.047, "global": false}
+2025-05-10 00:00:30,911 - discord_alerts - WARNING - Rate limited, waiting 1.047 seconds
+2025-05-10 00:00:32,965 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.015, "global": false}
+2025-05-10 00:00:32,965 - discord_alerts - WARNING - Rate limited, waiting 1.015 seconds
+2025-05-10 00:00:34,931 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.028, "global": false}
+2025-05-10 00:00:34,961 - discord_alerts - WARNING - Rate limited, waiting 1.028 seconds
+2025-05-10 00:00:37,045 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.924, "global": false}
+2025-05-10 00:00:37,045 - discord_alerts - WARNING - Rate limited, waiting 0.924 seconds
+2025-05-10 00:00:38,957 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.015, "global": false}
+2025-05-10 00:00:38,958 - discord_alerts - WARNING - Rate limited, waiting 1.015 seconds
+2025-05-10 00:00:40,917 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.046, "global": false}
+2025-05-10 00:00:40,917 - discord_alerts - WARNING - Rate limited, waiting 1.046 seconds
+2025-05-10 00:00:43,005 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.958, "global": false}
+2025-05-10 00:00:43,005 - discord_alerts - WARNING - Rate limited, waiting 0.958 seconds
+2025-05-10 00:00:44,992 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.975, "global": false}
+2025-05-10 00:00:44,992 - discord_alerts - WARNING - Rate limited, waiting 0.975 seconds
+2025-05-10 00:00:47,002 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.959, "global": false}
+2025-05-10 00:00:47,003 - discord_alerts - WARNING - Rate limited, waiting 0.959 seconds
+2025-05-10 00:00:48,977 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.988, "global": false}
+2025-05-10 00:00:48,977 - discord_alerts - WARNING - Rate limited, waiting 0.988 seconds
+2025-05-10 00:00:51,598 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.364, "global": false}
+2025-05-10 00:00:51,598 - discord_alerts - WARNING - Rate limited, waiting 0.364 seconds
+2025-05-10 00:00:52,980 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.979, "global": false}
+2025-05-10 00:00:52,981 - discord_alerts - WARNING - Rate limited, waiting 0.979 seconds
+2025-05-10 00:00:55,365 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.601, "global": false}
+2025-05-10 00:00:55,365 - discord_alerts - WARNING - Rate limited, waiting 0.601 seconds
+2025-05-10 00:00:56,928 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.033, "global": false}
+2025-05-10 00:00:56,929 - discord_alerts - WARNING - Rate limited, waiting 1.033 seconds
+2025-05-10 00:00:58,954 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.005, "global": false}
+2025-05-10 00:00:58,955 - discord_alerts - WARNING - Rate limited, waiting 1.005 seconds
+2025-05-10 00:01:00,911 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.054, "global": false}
+2025-05-10 00:01:00,912 - discord_alerts - WARNING - Rate limited, waiting 1.054 seconds
+2025-05-10 00:01:02,978 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.979, "global": false}
+2025-05-10 00:01:02,978 - discord_alerts - WARNING - Rate limited, waiting 0.979 seconds
+2025-05-10 00:01:05,227 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.742, "global": false}
+2025-05-10 00:01:05,227 - discord_alerts - WARNING - Rate limited, waiting 0.742 seconds
+2025-05-10 00:01:06,951 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.01, "global": false}
+2025-05-10 00:01:06,951 - discord_alerts - WARNING - Rate limited, waiting 1.01 seconds
+2025-05-10 00:01:08,913 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.047, "global": false}
+2025-05-10 00:01:08,913 - discord_alerts - WARNING - Rate limited, waiting 1.047 seconds
+2025-05-10 00:01:10,918 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.044, "global": false}
+2025-05-10 00:01:10,918 - discord_alerts - WARNING - Rate limited, waiting 1.044 seconds
+2025-05-10 00:01:12,901 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.062, "global": false}
+2025-05-10 00:01:12,901 - discord_alerts - WARNING - Rate limited, waiting 1.062 seconds
+2025-05-10 00:01:15,025 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.952, "global": false}
+2025-05-10 00:01:15,025 - discord_alerts - WARNING - Rate limited, waiting 0.952 seconds
+2025-05-10 00:01:17,352 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.612, "global": false}
+2025-05-10 00:01:17,353 - discord_alerts - WARNING - Rate limited, waiting 0.612 seconds
+2025-05-10 00:01:19,033 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.935, "global": false}
+2025-05-10 00:01:19,033 - discord_alerts - WARNING - Rate limited, waiting 0.935 seconds
+2025-05-10 00:01:21,258 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.715, "global": false}
+2025-05-10 00:01:21,258 - discord_alerts - WARNING - Rate limited, waiting 0.715 seconds
+2025-05-10 00:01:23,058 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.915, "global": false}
+2025-05-10 00:01:23,058 - discord_alerts - WARNING - Rate limited, waiting 0.915 seconds
+2025-05-10 00:01:24,983 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.978, "global": false}
+2025-05-10 00:01:24,984 - discord_alerts - WARNING - Rate limited, waiting 0.978 seconds
+2025-05-10 00:01:26,975 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.984, "global": false}
+2025-05-10 00:01:26,976 - discord_alerts - WARNING - Rate limited, waiting 0.984 seconds
+2025-05-10 00:01:28,948 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.013, "global": false}
+2025-05-10 00:01:28,948 - discord_alerts - WARNING - Rate limited, waiting 1.013 seconds
+2025-05-10 00:01:30,900 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.06, "global": false}
+2025-05-10 00:01:30,900 - discord_alerts - WARNING - Rate limited, waiting 1.06 seconds
+2025-05-10 00:01:32,979 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.981, "global": false}
+2025-05-10 00:01:32,980 - discord_alerts - WARNING - Rate limited, waiting 0.981 seconds
+2025-05-10 00:01:34,949 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.012, "global": false}
+2025-05-10 00:01:34,949 - discord_alerts - WARNING - Rate limited, waiting 1.012 seconds
+2025-05-10 00:01:36,919 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.039, "global": false}
+2025-05-10 00:01:36,919 - discord_alerts - WARNING - Rate limited, waiting 1.039 seconds
+2025-05-10 00:01:39,132 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.831, "global": false}
+2025-05-10 00:01:39,133 - discord_alerts - WARNING - Rate limited, waiting 0.831 seconds
+2025-05-10 00:01:40,916 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.042, "global": false}
+2025-05-10 00:01:40,916 - discord_alerts - WARNING - Rate limited, waiting 1.042 seconds
+2025-05-10 00:01:43,083 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.88, "global": false}
+2025-05-10 00:01:43,084 - discord_alerts - WARNING - Rate limited, waiting 0.88 seconds
+2025-05-10 00:01:45,021 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.941, "global": false}
+2025-05-10 00:01:45,023 - discord_alerts - WARNING - Rate limited, waiting 0.941 seconds
+2025-05-10 00:01:47,023 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.937, "global": false}
+2025-05-10 00:01:47,023 - discord_alerts - WARNING - Rate limited, waiting 0.937 seconds
+2025-05-10 00:01:48,914 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.048, "global": false}
+2025-05-10 00:01:48,914 - discord_alerts - WARNING - Rate limited, waiting 1.048 seconds
+2025-05-10 00:01:50,926 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.036, "global": false}
+2025-05-10 00:01:50,927 - discord_alerts - WARNING - Rate limited, waiting 1.036 seconds
+2025-05-10 00:01:52,912 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.049, "global": false}
+2025-05-10 00:01:52,913 - discord_alerts - WARNING - Rate limited, waiting 1.049 seconds
+2025-05-10 00:01:55,100 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.867, "global": false}
+2025-05-10 00:01:55,100 - discord_alerts - WARNING - Rate limited, waiting 0.867 seconds
+2025-05-10 00:01:56,993 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.965, "global": false}
+2025-05-10 00:01:56,993 - discord_alerts - WARNING - Rate limited, waiting 0.965 seconds
+2025-05-10 00:01:59,021 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.936, "global": false}
+2025-05-10 00:01:59,022 - discord_alerts - WARNING - Rate limited, waiting 0.936 seconds
+2025-05-10 00:02:00,964 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.992, "global": false}
+2025-05-10 00:02:00,965 - discord_alerts - WARNING - Rate limited, waiting 0.992 seconds
+2025-05-10 00:02:02,904 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.053, "global": false}
+2025-05-10 00:02:02,905 - discord_alerts - WARNING - Rate limited, waiting 1.053 seconds
+2025-05-10 00:02:04,934 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.054, "global": false}
+2025-05-10 00:02:04,934 - discord_alerts - WARNING - Rate limited, waiting 1.054 seconds
+2025-05-10 00:02:07,033 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.946, "global": false}
+2025-05-10 00:02:07,034 - discord_alerts - WARNING - Rate limited, waiting 0.946 seconds
+2025-05-10 00:02:08,967 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.997, "global": false}
+2025-05-10 00:02:09,015 - discord_alerts - WARNING - Rate limited, waiting 0.997 seconds
+2025-05-10 00:02:11,021 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.938, "global": false}
+2025-05-10 00:02:11,022 - discord_alerts - WARNING - Rate limited, waiting 0.938 seconds
+2025-05-10 00:02:13,007 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.963, "global": false}
+2025-05-10 00:02:13,007 - discord_alerts - WARNING - Rate limited, waiting 0.963 seconds
+2025-05-10 00:02:15,068 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.908, "global": false}
+2025-05-10 00:02:15,068 - discord_alerts - WARNING - Rate limited, waiting 0.908 seconds
+2025-05-10 00:02:16,964 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.0, "global": false}
+2025-05-10 00:02:16,964 - discord_alerts - WARNING - Rate limited, waiting 1.0 seconds
+2025-05-10 00:02:19,257 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.712, "global": false}
+2025-05-10 00:02:19,258 - discord_alerts - WARNING - Rate limited, waiting 0.712 seconds
+2025-05-10 00:02:21,025 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.936, "global": false}
+2025-05-10 00:02:21,026 - discord_alerts - WARNING - Rate limited, waiting 0.936 seconds
+2025-05-10 00:02:23,018 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.946, "global": false}
+2025-05-10 00:02:23,018 - discord_alerts - WARNING - Rate limited, waiting 0.946 seconds
+2025-05-10 00:02:25,112 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.849, "global": false}
+2025-05-10 00:02:25,113 - discord_alerts - WARNING - Rate limited, waiting 0.849 seconds
+2025-05-10 00:02:26,931 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.027, "global": false}
+2025-05-10 00:02:26,931 - discord_alerts - WARNING - Rate limited, waiting 1.027 seconds
+2025-05-10 00:02:28,924 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.035, "global": false}
+2025-05-10 00:02:28,924 - discord_alerts - WARNING - Rate limited, waiting 1.035 seconds
+2025-05-10 00:02:31,018 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.945, "global": false}
+2025-05-10 00:02:31,018 - discord_alerts - WARNING - Rate limited, waiting 0.945 seconds
+2025-05-10 00:02:33,126 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.833, "global": false}
+2025-05-10 00:02:33,126 - discord_alerts - WARNING - Rate limited, waiting 0.833 seconds
+2025-05-10 00:02:35,029 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.931, "global": false}
+2025-05-10 00:02:35,029 - discord_alerts - WARNING - Rate limited, waiting 0.931 seconds
+2025-05-10 00:02:36,904 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.058, "global": false}
+2025-05-10 00:02:36,905 - discord_alerts - WARNING - Rate limited, waiting 1.058 seconds
+2025-05-10 00:02:39,113 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.849, "global": false}
+2025-05-10 00:02:39,113 - discord_alerts - WARNING - Rate limited, waiting 0.849 seconds
+2025-05-10 00:02:41,083 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.88, "global": false}
+2025-05-10 00:02:41,083 - discord_alerts - WARNING - Rate limited, waiting 0.88 seconds
+2025-05-10 00:02:42,946 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.018, "global": false}
+2025-05-10 00:02:42,946 - discord_alerts - WARNING - Rate limited, waiting 1.018 seconds
+2025-05-10 00:02:44,898 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.061, "global": false}
+2025-05-10 00:02:44,898 - discord_alerts - WARNING - Rate limited, waiting 1.061 seconds
+2025-05-10 00:02:46,947 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.017, "global": false}
+2025-05-10 00:02:46,947 - discord_alerts - WARNING - Rate limited, waiting 1.017 seconds
+2025-05-10 00:02:49,168 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.793, "global": false}
+2025-05-10 00:02:49,168 - discord_alerts - WARNING - Rate limited, waiting 0.793 seconds
+2025-05-10 00:02:50,950 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.007, "global": false}
+2025-05-10 00:02:50,950 - discord_alerts - WARNING - Rate limited, waiting 1.007 seconds
+2025-05-10 00:02:53,093 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.867, "global": false}
+2025-05-10 00:02:53,093 - discord_alerts - WARNING - Rate limited, waiting 0.867 seconds
+2025-05-10 00:02:54,934 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.028, "global": false}
+2025-05-10 00:02:54,934 - discord_alerts - WARNING - Rate limited, waiting 1.028 seconds
+2025-05-10 00:02:56,893 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.065, "global": false}
+2025-05-10 00:02:56,893 - discord_alerts - WARNING - Rate limited, waiting 1.065 seconds
+2025-05-10 00:02:59,016 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.952, "global": false}
+2025-05-10 00:02:59,016 - discord_alerts - WARNING - Rate limited, waiting 0.952 seconds
+2025-05-10 00:03:00,927 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.034, "global": false}
+2025-05-10 00:03:00,927 - discord_alerts - WARNING - Rate limited, waiting 1.034 seconds
+2025-05-10 00:03:02,949 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.019, "global": false}
+2025-05-10 00:03:02,949 - discord_alerts - WARNING - Rate limited, waiting 1.019 seconds
+2025-05-10 00:03:04,954 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.009, "global": false}
+2025-05-10 00:03:04,954 - discord_alerts - WARNING - Rate limited, waiting 1.009 seconds
+2025-05-10 00:03:07,048 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.919, "global": false}
+2025-05-10 00:03:07,048 - discord_alerts - WARNING - Rate limited, waiting 0.919 seconds
+2025-05-10 00:03:08,928 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.037, "global": false}
+2025-05-10 00:03:08,928 - discord_alerts - WARNING - Rate limited, waiting 1.037 seconds
+2025-05-10 00:03:10,897 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.063, "global": false}
+2025-05-10 00:03:10,897 - discord_alerts - WARNING - Rate limited, waiting 1.063 seconds
+2025-05-10 00:03:12,933 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.029, "global": false}
+2025-05-10 00:03:12,934 - discord_alerts - WARNING - Rate limited, waiting 1.029 seconds
+2025-05-10 00:03:14,993 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.966, "global": false}
+2025-05-10 00:03:14,994 - discord_alerts - WARNING - Rate limited, waiting 0.966 seconds
+2025-05-10 00:03:16,975 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.997, "global": false}
+2025-05-10 00:03:16,976 - discord_alerts - WARNING - Rate limited, waiting 0.997 seconds
+2025-05-10 00:03:18,973 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.986, "global": false}
+2025-05-10 00:03:18,973 - discord_alerts - WARNING - Rate limited, waiting 0.986 seconds
+2025-05-10 00:03:21,191 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.768, "global": false}
+2025-05-10 00:03:21,192 - discord_alerts - WARNING - Rate limited, waiting 0.768 seconds
+2025-05-10 00:03:22,916 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.046, "global": false}
+2025-05-10 00:03:22,917 - discord_alerts - WARNING - Rate limited, waiting 1.046 seconds
+2025-05-10 00:03:24,956 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.005, "global": false}
+2025-05-10 00:03:24,957 - discord_alerts - WARNING - Rate limited, waiting 1.005 seconds
+2025-05-10 00:03:33,826 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.3, "global": false}
+2025-05-10 00:03:33,826 - discord_alerts - WARNING - Rate limited, waiting 0.3 seconds
+2025-05-10 00:03:35,389 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.568, "global": false}
+2025-05-10 00:03:35,389 - discord_alerts - WARNING - Rate limited, waiting 0.568 seconds
+2025-05-10 00:03:37,017 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.951, "global": false}
+2025-05-10 00:03:37,018 - discord_alerts - WARNING - Rate limited, waiting 0.951 seconds
+2025-05-10 00:03:39,018 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.943, "global": false}
+2025-05-10 00:03:39,022 - discord_alerts - WARNING - Rate limited, waiting 0.943 seconds
+2025-05-10 00:03:41,008 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.959, "global": false}
+2025-05-10 00:03:41,008 - discord_alerts - WARNING - Rate limited, waiting 0.959 seconds
+2025-05-10 00:03:43,081 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.879, "global": false}
+2025-05-10 00:03:43,081 - discord_alerts - WARNING - Rate limited, waiting 0.879 seconds
+2025-05-10 00:03:44,953 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.004, "global": false}
+2025-05-10 00:03:44,954 - discord_alerts - WARNING - Rate limited, waiting 1.004 seconds
+2025-05-10 00:03:47,055 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.903, "global": false}
+2025-05-10 00:03:47,056 - discord_alerts - WARNING - Rate limited, waiting 0.903 seconds
+2025-05-10 00:03:49,176 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.787, "global": false}
+2025-05-10 00:03:49,177 - discord_alerts - WARNING - Rate limited, waiting 0.787 seconds
+2025-05-10 00:03:50,938 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.022, "global": false}
+2025-05-10 00:03:50,939 - discord_alerts - WARNING - Rate limited, waiting 1.022 seconds
+2025-05-10 00:03:52,934 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.026, "global": false}
+2025-05-10 00:03:52,934 - discord_alerts - WARNING - Rate limited, waiting 1.026 seconds
+2025-05-10 00:03:54,978 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.984, "global": false}
+2025-05-10 00:03:54,979 - discord_alerts - WARNING - Rate limited, waiting 0.984 seconds
+2025-05-10 00:03:56,968 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.991, "global": false}
+2025-05-10 00:03:56,968 - discord_alerts - WARNING - Rate limited, waiting 0.991 seconds
+2025-05-10 00:03:58,985 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.979, "global": false}
+2025-05-10 00:03:58,990 - discord_alerts - WARNING - Rate limited, waiting 0.979 seconds
+2025-05-10 00:04:00,956 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.002, "global": false}
+2025-05-10 00:04:00,957 - discord_alerts - WARNING - Rate limited, waiting 1.002 seconds
+2025-05-10 00:04:02,876 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.082, "global": false}
+2025-05-10 00:04:02,876 - discord_alerts - WARNING - Rate limited, waiting 1.082 seconds
+2025-05-10 00:04:05,047 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.928, "global": false}
+2025-05-10 00:04:05,047 - discord_alerts - WARNING - Rate limited, waiting 0.928 seconds
+2025-05-10 00:04:07,021 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.94, "global": false}
+2025-05-10 00:04:07,021 - discord_alerts - WARNING - Rate limited, waiting 0.94 seconds
+2025-05-10 00:04:09,005 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.958, "global": false}
+2025-05-10 00:04:09,006 - discord_alerts - WARNING - Rate limited, waiting 0.958 seconds
+2025-05-10 00:04:11,229 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.728, "global": false}
+2025-05-10 00:04:11,230 - discord_alerts - WARNING - Rate limited, waiting 0.728 seconds
+2025-05-10 00:04:12,902 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.057, "global": false}
+2025-05-10 00:04:12,902 - discord_alerts - WARNING - Rate limited, waiting 1.057 seconds
+2025-05-10 00:04:14,965 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.997, "global": false}
+2025-05-10 00:04:14,966 - discord_alerts - WARNING - Rate limited, waiting 0.997 seconds
+2025-05-10 00:04:16,922 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.034, "global": false}
+2025-05-10 00:04:16,922 - discord_alerts - WARNING - Rate limited, waiting 1.034 seconds
+2025-05-10 00:04:19,052 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.936, "global": false}
+2025-05-10 00:04:19,053 - discord_alerts - WARNING - Rate limited, waiting 0.936 seconds
+2025-05-10 00:04:20,966 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.993, "global": false}
+2025-05-10 00:04:20,967 - discord_alerts - WARNING - Rate limited, waiting 0.993 seconds
+2025-05-10 00:04:22,912 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.048, "global": false}
+2025-05-10 00:04:22,913 - discord_alerts - WARNING - Rate limited, waiting 1.048 seconds
+2025-05-10 00:04:24,981 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.975, "global": false}
+2025-05-10 00:04:24,981 - discord_alerts - WARNING - Rate limited, waiting 0.975 seconds
+2025-05-10 00:04:26,939 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.029, "global": false}
+2025-05-10 00:04:26,940 - discord_alerts - WARNING - Rate limited, waiting 1.029 seconds
+2025-05-10 00:04:29,105 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.87, "global": false}
+2025-05-10 00:04:29,106 - discord_alerts - WARNING - Rate limited, waiting 0.87 seconds
+2025-05-10 00:04:30,988 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.973, "global": false}
+2025-05-10 00:04:30,990 - discord_alerts - WARNING - Rate limited, waiting 0.973 seconds
+2025-05-10 00:04:35,111 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.85, "global": false}
+2025-05-10 00:04:35,111 - discord_alerts - WARNING - Rate limited, waiting 0.85 seconds
+2025-05-10 00:04:36,938 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.028, "global": false}
+2025-05-10 00:04:36,939 - discord_alerts - WARNING - Rate limited, waiting 1.028 seconds
+2025-05-10 00:04:39,026 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.933, "global": false}
+2025-05-10 00:04:39,032 - discord_alerts - WARNING - Rate limited, waiting 0.933 seconds
+2025-05-10 00:04:41,084 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.881, "global": false}
+2025-05-10 00:04:41,085 - discord_alerts - WARNING - Rate limited, waiting 0.881 seconds
+2025-05-10 00:04:42,920 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.049, "global": false}
+2025-05-10 00:04:42,920 - discord_alerts - WARNING - Rate limited, waiting 1.049 seconds
+2025-05-10 00:04:45,002 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.956, "global": false}
+2025-05-10 00:04:45,002 - discord_alerts - WARNING - Rate limited, waiting 0.956 seconds
+2025-05-10 00:04:47,514 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.452, "global": false}
+2025-05-10 00:04:47,514 - discord_alerts - WARNING - Rate limited, waiting 0.452 seconds
+2025-05-10 00:04:49,017 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.943, "global": false}
+2025-05-10 00:04:49,017 - discord_alerts - WARNING - Rate limited, waiting 0.943 seconds
+2025-05-10 00:04:50,973 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.99, "global": false}
+2025-05-10 00:04:50,973 - discord_alerts - WARNING - Rate limited, waiting 0.99 seconds
+2025-05-10 00:04:53,011 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.97, "global": false}
+2025-05-10 00:04:53,012 - discord_alerts - WARNING - Rate limited, waiting 0.97 seconds
+2025-05-10 00:04:55,020 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.941, "global": false}
+2025-05-10 00:04:55,020 - discord_alerts - WARNING - Rate limited, waiting 0.941 seconds
+2025-05-10 00:04:57,030 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.928, "global": false}
+2025-05-10 00:04:57,031 - discord_alerts - WARNING - Rate limited, waiting 0.928 seconds
+2025-05-10 00:04:58,944 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.014, "global": false}
+2025-05-10 00:04:58,944 - discord_alerts - WARNING - Rate limited, waiting 1.014 seconds
+2025-05-10 00:05:00,907 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.053, "global": false}
+2025-05-10 00:05:00,910 - discord_alerts - WARNING - Rate limited, waiting 1.053 seconds
+2025-05-10 00:05:02,968 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.995, "global": false}
+2025-05-10 00:05:02,969 - discord_alerts - WARNING - Rate limited, waiting 0.995 seconds
+2025-05-10 00:05:05,773 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.3, "global": false}
+2025-05-10 00:05:05,774 - discord_alerts - WARNING - Rate limited, waiting 0.3 seconds
+2025-05-10 00:05:07,125 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.834, "global": false}
+2025-05-10 00:05:07,126 - discord_alerts - WARNING - Rate limited, waiting 0.834 seconds
+2025-05-10 00:05:08,910 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.054, "global": false}
+2025-05-10 00:05:08,911 - discord_alerts - WARNING - Rate limited, waiting 1.054 seconds
+2025-05-10 00:05:10,931 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.031, "global": false}
+2025-05-10 00:05:10,931 - discord_alerts - WARNING - Rate limited, waiting 1.031 seconds
+2025-05-10 00:05:12,968 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.993, "global": false}
+2025-05-10 00:05:12,971 - discord_alerts - WARNING - Rate limited, waiting 0.993 seconds
+2025-05-10 00:05:15,048 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.911, "global": false}
+2025-05-10 00:05:15,049 - discord_alerts - WARNING - Rate limited, waiting 0.911 seconds
+2025-05-10 00:05:16,952 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.024, "global": false}
+2025-05-10 00:05:16,952 - discord_alerts - WARNING - Rate limited, waiting 1.024 seconds
+2025-05-10 00:05:19,051 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.92, "global": false}
+2025-05-10 00:05:19,052 - discord_alerts - WARNING - Rate limited, waiting 0.92 seconds
+2025-05-10 00:05:20,923 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.036, "global": false}
+2025-05-10 00:05:20,923 - discord_alerts - WARNING - Rate limited, waiting 1.036 seconds
+2025-05-10 00:05:22,888 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.072, "global": false}
+2025-05-10 00:05:22,889 - discord_alerts - WARNING - Rate limited, waiting 1.072 seconds
+2025-05-10 00:05:24,970 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.993, "global": false}
+2025-05-10 00:05:24,971 - discord_alerts - WARNING - Rate limited, waiting 0.993 seconds
+2025-05-10 00:05:26,924 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.036, "global": false}
+2025-05-10 00:05:26,924 - discord_alerts - WARNING - Rate limited, waiting 1.036 seconds
+2025-05-10 00:05:28,907 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.058, "global": false}
+2025-05-10 00:05:28,907 - discord_alerts - WARNING - Rate limited, waiting 1.058 seconds
+2025-05-10 00:05:31,255 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.724, "global": false}
+2025-05-10 00:05:31,256 - discord_alerts - WARNING - Rate limited, waiting 0.724 seconds
+2025-05-10 00:05:32,949 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.024, "global": false}
+2025-05-10 00:05:32,950 - discord_alerts - WARNING - Rate limited, waiting 1.024 seconds
+2025-05-10 00:05:34,948 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.013, "global": false}
+2025-05-10 00:05:34,948 - discord_alerts - WARNING - Rate limited, waiting 1.013 seconds
+2025-05-10 00:05:36,988 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.973, "global": false}
+2025-05-10 00:05:36,989 - discord_alerts - WARNING - Rate limited, waiting 0.973 seconds
+2025-05-10 00:05:39,029 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.932, "global": false}
+2025-05-10 00:05:39,029 - discord_alerts - WARNING - Rate limited, waiting 0.932 seconds
+2025-05-10 00:05:41,347 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.631, "global": false}
+2025-05-10 00:05:41,348 - discord_alerts - WARNING - Rate limited, waiting 0.631 seconds
+2025-05-10 00:05:42,927 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.032, "global": false}
+2025-05-10 00:05:42,929 - discord_alerts - WARNING - Rate limited, waiting 1.032 seconds
+2025-05-10 00:05:44,903 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.054, "global": false}
+2025-05-10 00:05:44,903 - discord_alerts - WARNING - Rate limited, waiting 1.054 seconds
+2025-05-10 00:05:46,898 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.065, "global": false}
+2025-05-10 00:05:46,898 - discord_alerts - WARNING - Rate limited, waiting 1.065 seconds
+2025-05-10 00:05:48,982 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.979, "global": false}
+2025-05-10 00:05:48,982 - discord_alerts - WARNING - Rate limited, waiting 0.979 seconds
+2025-05-10 00:05:50,878 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.081, "global": false}
+2025-05-10 00:05:50,879 - discord_alerts - WARNING - Rate limited, waiting 1.081 seconds
+2025-05-10 00:05:52,975 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.006, "global": false}
+2025-05-10 00:05:52,975 - discord_alerts - WARNING - Rate limited, waiting 1.006 seconds
+2025-05-10 00:05:55,024 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.941, "global": false}
+2025-05-10 00:05:55,025 - discord_alerts - WARNING - Rate limited, waiting 0.941 seconds
+2025-05-10 00:05:56,916 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.041, "global": false}
+2025-05-10 00:05:56,917 - discord_alerts - WARNING - Rate limited, waiting 1.041 seconds
+2025-05-10 00:05:58,912 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.047, "global": false}
+2025-05-10 00:05:58,916 - discord_alerts - WARNING - Rate limited, waiting 1.047 seconds
+2025-05-10 00:06:01,038 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.926, "global": false}
+2025-05-10 00:06:01,039 - discord_alerts - WARNING - Rate limited, waiting 0.926 seconds
+2025-05-10 00:06:02,996 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.962, "global": false}
+2025-05-10 00:06:02,996 - discord_alerts - WARNING - Rate limited, waiting 0.962 seconds
+2025-05-10 00:06:05,077 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.899, "global": false}
+2025-05-10 00:06:05,077 - discord_alerts - WARNING - Rate limited, waiting 0.899 seconds
+2025-05-10 00:06:06,931 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.028, "global": false}
+2025-05-10 00:06:06,932 - discord_alerts - WARNING - Rate limited, waiting 1.028 seconds
+2025-05-10 00:06:08,982 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.979, "global": false}
+2025-05-10 00:06:08,982 - discord_alerts - WARNING - Rate limited, waiting 0.979 seconds
+2025-05-10 00:06:10,928 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.031, "global": false}
+2025-05-10 00:06:10,928 - discord_alerts - WARNING - Rate limited, waiting 1.031 seconds
+2025-05-10 00:06:12,953 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.005, "global": false}
+2025-05-10 00:06:12,954 - discord_alerts - WARNING - Rate limited, waiting 1.005 seconds
+2025-05-10 00:06:14,998 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.96, "global": false}
+2025-05-10 00:06:14,998 - discord_alerts - WARNING - Rate limited, waiting 0.96 seconds
+2025-05-10 00:06:16,959 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.0, "global": false}
+2025-05-10 00:06:16,960 - discord_alerts - WARNING - Rate limited, waiting 1.0 seconds
+2025-05-10 00:06:18,917 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.04, "global": false}
+2025-05-10 00:06:18,918 - discord_alerts - WARNING - Rate limited, waiting 1.04 seconds
+2025-05-10 00:06:21,084 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.876, "global": false}
+2025-05-10 00:06:21,085 - discord_alerts - WARNING - Rate limited, waiting 0.876 seconds
+2025-05-10 00:06:22,883 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.078, "global": false}
+2025-05-10 00:06:22,883 - discord_alerts - WARNING - Rate limited, waiting 1.078 seconds
+2025-05-10 00:06:24,952 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.009, "global": false}
+2025-05-10 00:06:24,952 - discord_alerts - WARNING - Rate limited, waiting 1.009 seconds
+2025-05-10 00:06:27,045 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.924, "global": false}
+2025-05-10 00:06:27,045 - discord_alerts - WARNING - Rate limited, waiting 0.924 seconds
+2025-05-10 00:06:29,078 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.906, "global": false}
+2025-05-10 00:06:29,080 - discord_alerts - WARNING - Rate limited, waiting 0.906 seconds
+2025-05-10 00:06:30,926 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.034, "global": false}
+2025-05-10 00:06:30,927 - discord_alerts - WARNING - Rate limited, waiting 1.034 seconds
+2025-05-10 00:06:33,024 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.936, "global": false}
+2025-05-10 00:06:33,024 - discord_alerts - WARNING - Rate limited, waiting 0.936 seconds
+2025-05-10 00:06:35,081 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.875, "global": false}
+2025-05-10 00:06:35,081 - discord_alerts - WARNING - Rate limited, waiting 0.875 seconds
+2025-05-10 00:06:36,948 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.01, "global": false}
+2025-05-10 00:06:36,948 - discord_alerts - WARNING - Rate limited, waiting 1.01 seconds
+2025-05-10 00:06:38,896 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.065, "global": false}
+2025-05-10 00:06:38,898 - discord_alerts - WARNING - Rate limited, waiting 1.065 seconds
+2025-05-10 00:06:41,210 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.751, "global": false}
+2025-05-10 00:06:41,210 - discord_alerts - WARNING - Rate limited, waiting 0.751 seconds
+2025-05-10 00:06:42,911 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.054, "global": false}
+2025-05-10 00:06:42,912 - discord_alerts - WARNING - Rate limited, waiting 1.054 seconds
+2025-05-10 00:06:44,927 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.03, "global": false}
+2025-05-10 00:06:44,927 - discord_alerts - WARNING - Rate limited, waiting 1.03 seconds
+2025-05-10 00:06:46,949 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.009, "global": false}
+2025-05-10 00:06:46,950 - discord_alerts - WARNING - Rate limited, waiting 1.009 seconds
+2025-05-10 00:06:48,947 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.016, "global": false}
+2025-05-10 00:06:48,947 - discord_alerts - WARNING - Rate limited, waiting 1.016 seconds
+2025-05-10 00:06:50,937 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.025, "global": false}
+2025-05-10 00:06:50,941 - discord_alerts - WARNING - Rate limited, waiting 1.025 seconds
+2025-05-10 00:06:55,885 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.3, "global": false}
+2025-05-10 00:06:55,885 - discord_alerts - WARNING - Rate limited, waiting 0.3 seconds
+2025-05-10 00:06:57,138 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.82, "global": false}
+2025-05-10 00:06:57,139 - discord_alerts - WARNING - Rate limited, waiting 0.82 seconds
+2025-05-10 00:06:58,946 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.014, "global": false}
+2025-05-10 00:06:58,947 - discord_alerts - WARNING - Rate limited, waiting 1.014 seconds
+2025-05-10 00:07:00,912 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.048, "global": false}
+2025-05-10 00:07:00,913 - discord_alerts - WARNING - Rate limited, waiting 1.048 seconds
+2025-05-10 00:07:02,907 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.054, "global": false}
+2025-05-10 00:07:02,908 - discord_alerts - WARNING - Rate limited, waiting 1.054 seconds
+2025-05-10 00:07:04,911 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.047, "global": false}
+2025-05-10 00:07:04,915 - discord_alerts - WARNING - Rate limited, waiting 1.047 seconds
+2025-05-10 00:07:06,999 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.962, "global": false}
+2025-05-10 00:07:07,000 - discord_alerts - WARNING - Rate limited, waiting 0.962 seconds
+2025-05-10 00:07:08,939 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.033, "global": false}
+2025-05-10 00:07:08,940 - discord_alerts - WARNING - Rate limited, waiting 1.033 seconds
+2025-05-10 00:07:10,960 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.002, "global": false}
+2025-05-10 00:07:10,961 - discord_alerts - WARNING - Rate limited, waiting 1.002 seconds
+2025-05-10 00:07:12,923 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.035, "global": false}
+2025-05-10 00:07:12,925 - discord_alerts - WARNING - Rate limited, waiting 1.035 seconds
+2025-05-10 00:07:14,970 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.995, "global": false}
+2025-05-10 00:07:14,970 - discord_alerts - WARNING - Rate limited, waiting 0.995 seconds
+2025-05-10 00:07:17,391 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.569, "global": false}
+2025-05-10 00:07:17,391 - discord_alerts - WARNING - Rate limited, waiting 0.569 seconds
+2025-05-10 00:07:18,956 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.006, "global": false}
+2025-05-10 00:07:18,956 - discord_alerts - WARNING - Rate limited, waiting 1.006 seconds
+2025-05-10 00:07:20,993 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.969, "global": false}
+2025-05-10 00:07:20,994 - discord_alerts - WARNING - Rate limited, waiting 0.969 seconds
+2025-05-10 00:07:22,893 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.07, "global": false}
+2025-05-10 00:07:22,893 - discord_alerts - WARNING - Rate limited, waiting 1.07 seconds
+2025-05-10 00:07:24,918 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.041, "global": false}
+2025-05-10 00:07:24,918 - discord_alerts - WARNING - Rate limited, waiting 1.041 seconds
+2025-05-10 00:07:26,891 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.07, "global": false}
+2025-05-10 00:07:26,891 - discord_alerts - WARNING - Rate limited, waiting 1.07 seconds
+2025-05-10 00:07:28,930 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.026, "global": false}
+2025-05-10 00:07:28,931 - discord_alerts - WARNING - Rate limited, waiting 1.026 seconds
+2025-05-10 00:07:31,005 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.953, "global": false}
+2025-05-10 00:07:31,005 - discord_alerts - WARNING - Rate limited, waiting 0.953 seconds
+2025-05-10 00:07:32,981 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.981, "global": false}
+2025-05-10 00:07:32,981 - discord_alerts - WARNING - Rate limited, waiting 0.981 seconds
+2025-05-10 00:07:35,246 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.72, "global": false}
+2025-05-10 00:07:35,246 - discord_alerts - WARNING - Rate limited, waiting 0.72 seconds
+2025-05-10 00:07:36,921 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.039, "global": false}
+2025-05-10 00:07:36,921 - discord_alerts - WARNING - Rate limited, waiting 1.039 seconds
+2025-05-10 00:07:38,915 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.045, "global": false}
+2025-05-10 00:07:38,916 - discord_alerts - WARNING - Rate limited, waiting 1.045 seconds
+2025-05-10 00:07:41,224 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.76, "global": false}
+2025-05-10 00:07:41,224 - discord_alerts - WARNING - Rate limited, waiting 0.76 seconds
+2025-05-10 00:07:43,085 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.873, "global": false}
+2025-05-10 00:07:43,085 - discord_alerts - WARNING - Rate limited, waiting 0.873 seconds
+2025-05-10 00:07:45,043 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.922, "global": false}
+2025-05-10 00:07:45,044 - discord_alerts - WARNING - Rate limited, waiting 0.922 seconds
+2025-05-10 00:07:46,988 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.981, "global": false}
+2025-05-10 00:07:46,990 - discord_alerts - WARNING - Rate limited, waiting 0.981 seconds
+2025-05-10 00:07:48,917 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.041, "global": false}
+2025-05-10 00:07:48,919 - discord_alerts - WARNING - Rate limited, waiting 1.041 seconds
+2025-05-10 00:07:51,044 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.92, "global": false}
+2025-05-10 00:07:51,045 - discord_alerts - WARNING - Rate limited, waiting 0.92 seconds
+2025-05-10 00:07:52,933 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.031, "global": false}
+2025-05-10 00:07:52,934 - discord_alerts - WARNING - Rate limited, waiting 1.031 seconds
+2025-05-10 00:07:55,101 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.864, "global": false}
+2025-05-10 00:07:55,102 - discord_alerts - WARNING - Rate limited, waiting 0.864 seconds
+2025-05-10 00:07:56,966 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.993, "global": false}
+2025-05-10 00:07:56,967 - discord_alerts - WARNING - Rate limited, waiting 0.993 seconds
+2025-05-10 00:07:59,144 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.816, "global": false}
+2025-05-10 00:07:59,144 - discord_alerts - WARNING - Rate limited, waiting 0.816 seconds
+2025-05-10 00:08:01,027 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.932, "global": false}
+2025-05-10 00:08:01,027 - discord_alerts - WARNING - Rate limited, waiting 0.932 seconds
+2025-05-10 00:08:03,041 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.918, "global": false}
+2025-05-10 00:08:03,041 - discord_alerts - WARNING - Rate limited, waiting 0.918 seconds
+2025-05-10 00:08:05,019 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.955, "global": false}
+2025-05-10 00:08:05,019 - discord_alerts - WARNING - Rate limited, waiting 0.955 seconds
+2025-05-10 00:08:06,971 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.984, "global": false}
+2025-05-10 00:08:06,973 - discord_alerts - WARNING - Rate limited, waiting 0.984 seconds
+2025-05-10 00:08:09,030 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.931, "global": false}
+2025-05-10 00:08:09,031 - discord_alerts - WARNING - Rate limited, waiting 0.931 seconds
+2025-05-10 00:08:10,944 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.018, "global": false}
+2025-05-10 00:08:10,944 - discord_alerts - WARNING - Rate limited, waiting 1.018 seconds
+2025-05-10 00:08:12,923 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.037, "global": false}
+2025-05-10 00:08:12,924 - discord_alerts - WARNING - Rate limited, waiting 1.037 seconds
+2025-05-10 00:08:14,973 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.984, "global": false}
+2025-05-10 00:08:14,973 - discord_alerts - WARNING - Rate limited, waiting 0.984 seconds
+2025-05-10 00:08:19,520 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.459, "global": false}
+2025-05-10 00:08:19,520 - discord_alerts - WARNING - Rate limited, waiting 0.459 seconds
+2025-05-10 00:08:20,939 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.022, "global": false}
+2025-05-10 00:08:20,941 - discord_alerts - WARNING - Rate limited, waiting 1.022 seconds
+2025-05-10 00:08:23,101 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.861, "global": false}
+2025-05-10 00:08:23,102 - discord_alerts - WARNING - Rate limited, waiting 0.861 seconds
+2025-05-10 00:08:24,875 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.086, "global": false}
+2025-05-10 00:08:24,875 - discord_alerts - WARNING - Rate limited, waiting 1.086 seconds
+2025-05-10 00:08:26,873 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.084, "global": false}
+2025-05-10 00:08:26,873 - discord_alerts - WARNING - Rate limited, waiting 1.084 seconds
+2025-05-10 00:08:29,291 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.679, "global": false}
+2025-05-10 00:08:29,291 - discord_alerts - WARNING - Rate limited, waiting 0.679 seconds
+2025-05-10 00:08:31,035 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.924, "global": false}
+2025-05-10 00:08:31,036 - discord_alerts - WARNING - Rate limited, waiting 0.924 seconds
+2025-05-10 00:08:33,369 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.59, "global": false}
+2025-05-10 00:08:33,370 - discord_alerts - WARNING - Rate limited, waiting 0.59 seconds
+2025-05-10 00:08:35,083 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.876, "global": false}
+2025-05-10 00:08:35,083 - discord_alerts - WARNING - Rate limited, waiting 0.876 seconds
+2025-05-10 00:08:36,872 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.087, "global": false}
+2025-05-10 00:08:36,873 - discord_alerts - WARNING - Rate limited, waiting 1.087 seconds
+2025-05-10 00:08:38,879 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.081, "global": false}
+2025-05-10 00:08:38,879 - discord_alerts - WARNING - Rate limited, waiting 1.081 seconds
+2025-05-10 00:08:40,928 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.033, "global": false}
+2025-05-10 00:08:40,928 - discord_alerts - WARNING - Rate limited, waiting 1.033 seconds
+2025-05-10 00:08:43,086 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.877, "global": false}
+2025-05-10 00:08:43,087 - discord_alerts - WARNING - Rate limited, waiting 0.877 seconds
+2025-05-10 00:08:44,918 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.038, "global": false}
+2025-05-10 00:08:44,919 - discord_alerts - WARNING - Rate limited, waiting 1.038 seconds
+2025-05-10 00:08:47,068 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.892, "global": false}
+2025-05-10 00:08:47,068 - discord_alerts - WARNING - Rate limited, waiting 0.892 seconds
+2025-05-10 00:08:48,929 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.035, "global": false}
+2025-05-10 00:08:48,930 - discord_alerts - WARNING - Rate limited, waiting 1.035 seconds
+2025-05-10 00:08:50,901 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.055, "global": false}
+2025-05-10 00:08:50,901 - discord_alerts - WARNING - Rate limited, waiting 1.055 seconds
+2025-05-10 00:08:54,837 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.118, "global": false}
+2025-05-10 00:08:54,837 - discord_alerts - WARNING - Rate limited, waiting 1.118 seconds
+2025-05-10 00:08:56,898 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.063, "global": false}
+2025-05-10 00:08:56,900 - discord_alerts - WARNING - Rate limited, waiting 1.063 seconds
+2025-05-10 00:08:59,014 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.945, "global": false}
+2025-05-10 00:08:59,014 - discord_alerts - WARNING - Rate limited, waiting 0.945 seconds
+2025-05-10 00:09:01,410 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.551, "global": false}
+2025-05-10 00:09:01,410 - discord_alerts - WARNING - Rate limited, waiting 0.551 seconds
+2025-05-10 00:09:02,940 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.017, "global": false}
+2025-05-10 00:09:02,941 - discord_alerts - WARNING - Rate limited, waiting 1.017 seconds
+2025-05-10 00:09:04,999 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.962, "global": false}
+2025-05-10 00:09:05,002 - discord_alerts - WARNING - Rate limited, waiting 0.962 seconds
+2025-05-10 00:09:07,119 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.838, "global": false}
+2025-05-10 00:09:07,119 - discord_alerts - WARNING - Rate limited, waiting 0.838 seconds
+2025-05-10 00:09:09,051 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.912, "global": false}
+2025-05-10 00:09:09,051 - discord_alerts - WARNING - Rate limited, waiting 0.912 seconds
+2025-05-10 00:09:10,993 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.967, "global": false}
+2025-05-10 00:09:10,993 - discord_alerts - WARNING - Rate limited, waiting 0.967 seconds
+2025-05-10 00:09:13,021 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.94, "global": false}
+2025-05-10 00:09:13,022 - discord_alerts - WARNING - Rate limited, waiting 0.94 seconds
+2025-05-10 00:09:15,102 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.86, "global": false}
+2025-05-10 00:09:15,102 - discord_alerts - WARNING - Rate limited, waiting 0.86 seconds
+2025-05-10 00:09:16,999 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.967, "global": false}
+2025-05-10 00:09:16,999 - discord_alerts - WARNING - Rate limited, waiting 0.967 seconds
+2025-05-10 00:09:19,041 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.918, "global": false}
+2025-05-10 00:09:19,042 - discord_alerts - WARNING - Rate limited, waiting 0.918 seconds
+2025-05-10 00:09:21,027 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.93, "global": false}
+2025-05-10 00:09:21,027 - discord_alerts - WARNING - Rate limited, waiting 0.93 seconds
+2025-05-10 00:09:23,007 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.953, "global": false}
+2025-05-10 00:09:23,007 - discord_alerts - WARNING - Rate limited, waiting 0.953 seconds
+2025-05-10 00:09:24,975 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.994, "global": false}
+2025-05-10 00:09:24,975 - discord_alerts - WARNING - Rate limited, waiting 0.994 seconds
+2025-05-10 00:09:27,006 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.954, "global": false}
+2025-05-10 00:09:27,006 - discord_alerts - WARNING - Rate limited, waiting 0.954 seconds
+2025-05-10 00:09:28,985 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.985, "global": false}
+2025-05-10 00:09:28,986 - discord_alerts - WARNING - Rate limited, waiting 0.985 seconds
+2025-05-10 00:09:31,033 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.924, "global": false}
+2025-05-10 00:09:31,033 - discord_alerts - WARNING - Rate limited, waiting 0.924 seconds
+2025-05-10 00:09:32,969 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.997, "global": false}
+2025-05-10 00:09:32,970 - discord_alerts - WARNING - Rate limited, waiting 0.997 seconds
+2025-05-10 00:09:34,999 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.965, "global": false}
+2025-05-10 00:09:35,000 - discord_alerts - WARNING - Rate limited, waiting 0.965 seconds
+2025-05-10 00:09:36,992 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.965, "global": false}
+2025-05-10 00:09:36,993 - discord_alerts - WARNING - Rate limited, waiting 0.965 seconds
+2025-05-10 00:09:38,978 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.983, "global": false}
+2025-05-10 00:09:38,978 - discord_alerts - WARNING - Rate limited, waiting 0.983 seconds
+2025-05-10 00:09:41,142 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.816, "global": false}
+2025-05-10 00:09:41,142 - discord_alerts - WARNING - Rate limited, waiting 0.816 seconds
+2025-05-10 00:09:43,027 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.931, "global": false}
+2025-05-10 00:09:43,028 - discord_alerts - WARNING - Rate limited, waiting 0.931 seconds
+2025-05-10 00:09:44,948 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.013, "global": false}
+2025-05-10 00:09:44,948 - discord_alerts - WARNING - Rate limited, waiting 1.013 seconds
+2025-05-10 00:09:46,930 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.027, "global": false}
+2025-05-10 00:09:46,930 - discord_alerts - WARNING - Rate limited, waiting 1.027 seconds
+2025-05-10 00:09:49,068 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.892, "global": false}
+2025-05-10 00:09:49,070 - discord_alerts - WARNING - Rate limited, waiting 0.892 seconds
+2025-05-10 00:09:50,942 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.018, "global": false}
+2025-05-10 00:09:50,943 - discord_alerts - WARNING - Rate limited, waiting 1.018 seconds
+2025-05-10 00:09:52,895 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.066, "global": false}
+2025-05-10 00:09:52,896 - discord_alerts - WARNING - Rate limited, waiting 1.066 seconds
+2025-05-10 00:09:54,996 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.966, "global": false}
+2025-05-10 00:09:54,996 - discord_alerts - WARNING - Rate limited, waiting 0.966 seconds
+2025-05-10 00:09:56,944 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.015, "global": false}
+2025-05-10 00:09:56,945 - discord_alerts - WARNING - Rate limited, waiting 1.015 seconds
+2025-05-10 00:09:58,966 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.996, "global": false}
+2025-05-10 00:09:58,967 - discord_alerts - WARNING - Rate limited, waiting 0.996 seconds
+2025-05-10 00:10:01,022 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.0, "global": false}
+2025-05-10 00:10:01,023 - discord_alerts - WARNING - Rate limited, waiting 1.0 seconds
+2025-05-10 00:10:03,068 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.889, "global": false}
+2025-05-10 00:10:03,068 - discord_alerts - WARNING - Rate limited, waiting 0.889 seconds
+2025-05-10 00:10:05,316 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.662, "global": false}
+2025-05-10 00:10:05,316 - discord_alerts - WARNING - Rate limited, waiting 0.662 seconds
+2025-05-10 00:10:06,953 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.008, "global": false}
+2025-05-10 00:10:06,953 - discord_alerts - WARNING - Rate limited, waiting 1.008 seconds
+2025-05-10 00:10:08,970 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.993, "global": false}
+2025-05-10 00:10:08,970 - discord_alerts - WARNING - Rate limited, waiting 0.993 seconds
+2025-05-10 00:10:13,275 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.687, "global": false}
+2025-05-10 00:10:13,275 - discord_alerts - WARNING - Rate limited, waiting 0.687 seconds
+2025-05-10 00:10:15,037 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.926, "global": false}
+2025-05-10 00:10:15,037 - discord_alerts - WARNING - Rate limited, waiting 0.926 seconds
+2025-05-10 00:10:16,944 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.018, "global": false}
+2025-05-10 00:10:16,946 - discord_alerts - WARNING - Rate limited, waiting 1.018 seconds
+2025-05-10 00:10:18,914 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.046, "global": false}
+2025-05-10 00:10:18,914 - discord_alerts - WARNING - Rate limited, waiting 1.046 seconds
+2025-05-10 00:10:20,982 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.979, "global": false}
+2025-05-10 00:10:20,983 - discord_alerts - WARNING - Rate limited, waiting 0.979 seconds
+2025-05-10 00:10:22,974 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.991, "global": false}
+2025-05-10 00:10:22,974 - discord_alerts - WARNING - Rate limited, waiting 0.991 seconds
+2025-05-10 00:10:24,910 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.047, "global": false}
+2025-05-10 00:10:24,910 - discord_alerts - WARNING - Rate limited, waiting 1.047 seconds
+2025-05-10 00:10:26,914 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.046, "global": false}
+2025-05-10 00:10:26,919 - discord_alerts - WARNING - Rate limited, waiting 1.046 seconds
+2025-05-10 00:10:29,010 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.966, "global": false}
+2025-05-10 00:10:29,011 - discord_alerts - WARNING - Rate limited, waiting 0.966 seconds
+2025-05-10 00:10:30,968 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.992, "global": false}
+2025-05-10 00:10:30,969 - discord_alerts - WARNING - Rate limited, waiting 0.992 seconds
+2025-05-10 00:10:33,052 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.903, "global": false}
+2025-05-10 00:10:33,052 - discord_alerts - WARNING - Rate limited, waiting 0.903 seconds
+2025-05-10 00:10:35,017 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.94, "global": false}
+2025-05-10 00:10:35,017 - discord_alerts - WARNING - Rate limited, waiting 0.94 seconds
+2025-05-10 00:10:37,054 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.902, "global": false}
+2025-05-10 00:10:37,054 - discord_alerts - WARNING - Rate limited, waiting 0.902 seconds
+2025-05-10 00:10:39,001 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.957, "global": false}
+2025-05-10 00:10:39,001 - discord_alerts - WARNING - Rate limited, waiting 0.957 seconds
+2025-05-10 00:10:40,916 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.045, "global": false}
+2025-05-10 00:10:40,916 - discord_alerts - WARNING - Rate limited, waiting 1.045 seconds
+2025-05-10 00:10:42,939 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.02, "global": false}
+2025-05-10 00:10:42,939 - discord_alerts - WARNING - Rate limited, waiting 1.02 seconds
+2025-05-10 00:10:45,049 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.91, "global": false}
+2025-05-10 00:10:45,050 - discord_alerts - WARNING - Rate limited, waiting 0.91 seconds
+2025-05-10 00:10:47,016 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.939, "global": false}
+2025-05-10 00:10:47,016 - discord_alerts - WARNING - Rate limited, waiting 0.939 seconds
+2025-05-10 00:10:48,948 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.008, "global": false}
+2025-05-10 00:10:48,948 - discord_alerts - WARNING - Rate limited, waiting 1.008 seconds
+2025-05-10 00:10:51,111 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.85, "global": false}
+2025-05-10 00:10:51,112 - discord_alerts - WARNING - Rate limited, waiting 0.85 seconds
+2025-05-10 00:10:52,925 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.038, "global": false}
+2025-05-10 00:10:52,927 - discord_alerts - WARNING - Rate limited, waiting 1.038 seconds
+2025-05-10 00:10:54,974 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.984, "global": false}
+2025-05-10 00:10:54,974 - discord_alerts - WARNING - Rate limited, waiting 0.984 seconds
+2025-05-10 00:10:56,966 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.994, "global": false}
+2025-05-10 00:10:56,966 - discord_alerts - WARNING - Rate limited, waiting 0.994 seconds
+2025-05-10 00:10:58,878 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.081, "global": false}
+2025-05-10 00:10:58,878 - discord_alerts - WARNING - Rate limited, waiting 1.081 seconds
+2025-05-10 00:11:00,939 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.018, "global": false}
+2025-05-10 00:11:00,939 - discord_alerts - WARNING - Rate limited, waiting 1.018 seconds
+2025-05-10 00:11:03,003 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.954, "global": false}
+2025-05-10 00:11:03,006 - discord_alerts - WARNING - Rate limited, waiting 0.954 seconds
+2025-05-10 00:11:04,947 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.02, "global": false}
+2025-05-10 00:11:04,947 - discord_alerts - WARNING - Rate limited, waiting 1.02 seconds
+2025-05-10 00:11:06,978 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.981, "global": false}
+2025-05-10 00:11:06,978 - discord_alerts - WARNING - Rate limited, waiting 0.981 seconds
+2025-05-10 00:11:08,945 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.01, "global": false}
+2025-05-10 00:11:08,946 - discord_alerts - WARNING - Rate limited, waiting 1.01 seconds
+2025-05-10 00:11:10,908 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.052, "global": false}
+2025-05-10 00:11:10,908 - discord_alerts - WARNING - Rate limited, waiting 1.052 seconds
+2025-05-10 00:11:13,014 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.942, "global": false}
+2025-05-10 00:11:13,014 - discord_alerts - WARNING - Rate limited, waiting 0.942 seconds
+2025-05-10 00:11:14,856 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.103, "global": false}
+2025-05-10 00:11:14,856 - discord_alerts - WARNING - Rate limited, waiting 1.103 seconds
+2025-05-10 00:11:17,015 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.976, "global": false}
+2025-05-10 00:11:17,015 - discord_alerts - WARNING - Rate limited, waiting 0.976 seconds
+2025-05-10 00:11:18,996 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.964, "global": false}
+2025-05-10 00:11:18,996 - discord_alerts - WARNING - Rate limited, waiting 0.964 seconds
+2025-05-10 00:11:21,078 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.884, "global": false}
+2025-05-10 00:11:21,078 - discord_alerts - WARNING - Rate limited, waiting 0.884 seconds
+2025-05-10 00:11:22,962 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.998, "global": false}
+2025-05-10 00:11:22,963 - discord_alerts - WARNING - Rate limited, waiting 0.998 seconds
+2025-05-10 00:11:24,983 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.978, "global": false}
+2025-05-10 00:11:24,984 - discord_alerts - WARNING - Rate limited, waiting 0.978 seconds
+2025-05-10 00:11:26,970 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.988, "global": false}
+2025-05-10 00:11:26,970 - discord_alerts - WARNING - Rate limited, waiting 0.988 seconds
+2025-05-10 00:11:29,148 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.813, "global": false}
+2025-05-10 00:11:29,148 - discord_alerts - WARNING - Rate limited, waiting 0.813 seconds
+2025-05-10 00:11:31,081 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.886, "global": false}
+2025-05-10 00:11:31,081 - discord_alerts - WARNING - Rate limited, waiting 0.886 seconds
+2025-05-10 00:11:32,924 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.032, "global": false}
+2025-05-10 00:11:32,925 - discord_alerts - WARNING - Rate limited, waiting 1.032 seconds
+2025-05-10 00:11:35,167 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.79, "global": false}
+2025-05-10 00:11:35,168 - discord_alerts - WARNING - Rate limited, waiting 0.79 seconds
+2025-05-10 00:11:36,914 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.043, "global": false}
+2025-05-10 00:11:36,914 - discord_alerts - WARNING - Rate limited, waiting 1.043 seconds
+2025-05-10 00:11:38,996 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.967, "global": false}
+2025-05-10 00:11:38,996 - discord_alerts - WARNING - Rate limited, waiting 0.967 seconds
+2025-05-10 00:11:41,493 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.47, "global": false}
+2025-05-10 00:11:41,493 - discord_alerts - WARNING - Rate limited, waiting 0.47 seconds
+2025-05-10 00:11:42,988 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.98, "global": false}
+2025-05-10 00:11:42,988 - discord_alerts - WARNING - Rate limited, waiting 0.98 seconds
+2025-05-10 00:11:44,942 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.014, "global": false}
+2025-05-10 00:11:44,942 - discord_alerts - WARNING - Rate limited, waiting 1.014 seconds
+2025-05-10 00:11:46,961 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.998, "global": false}
+2025-05-10 00:11:46,961 - discord_alerts - WARNING - Rate limited, waiting 0.998 seconds
+2025-05-10 00:11:48,952 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.006, "global": false}
+2025-05-10 00:11:48,953 - discord_alerts - WARNING - Rate limited, waiting 1.006 seconds
+2025-05-10 00:11:50,941 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.018, "global": false}
+2025-05-10 00:11:50,941 - discord_alerts - WARNING - Rate limited, waiting 1.018 seconds
+2025-05-10 00:11:52,955 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.005, "global": false}
+2025-05-10 00:11:52,956 - discord_alerts - WARNING - Rate limited, waiting 1.005 seconds
+2025-05-10 00:11:55,035 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.922, "global": false}
+2025-05-10 00:11:55,035 - discord_alerts - WARNING - Rate limited, waiting 0.922 seconds
+2025-05-10 00:11:56,985 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.974, "global": false}
+2025-05-10 00:11:56,985 - discord_alerts - WARNING - Rate limited, waiting 0.974 seconds
+2025-05-10 00:11:58,949 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.008, "global": false}
+2025-05-10 00:11:58,949 - discord_alerts - WARNING - Rate limited, waiting 1.008 seconds
+2025-05-10 00:12:00,942 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.02, "global": false}
+2025-05-10 00:12:00,942 - discord_alerts - WARNING - Rate limited, waiting 1.02 seconds
+2025-05-10 00:12:03,116 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.844, "global": false}
+2025-05-10 00:12:03,116 - discord_alerts - WARNING - Rate limited, waiting 0.844 seconds
+2025-05-10 00:12:05,092 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.867, "global": false}
+2025-05-10 00:12:05,092 - discord_alerts - WARNING - Rate limited, waiting 0.867 seconds
+2025-05-10 00:12:06,965 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.996, "global": false}
+2025-05-10 00:12:06,965 - discord_alerts - WARNING - Rate limited, waiting 0.996 seconds
+2025-05-10 00:12:09,135 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.83, "global": false}
+2025-05-10 00:12:09,135 - discord_alerts - WARNING - Rate limited, waiting 0.83 seconds
+2025-05-10 00:12:10,860 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.099, "global": false}
+2025-05-10 00:12:10,860 - discord_alerts - WARNING - Rate limited, waiting 1.099 seconds
+2025-05-10 00:12:12,907 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.055, "global": false}
+2025-05-10 00:12:12,908 - discord_alerts - WARNING - Rate limited, waiting 1.055 seconds
+2025-05-10 00:12:15,048 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.912, "global": false}
+2025-05-10 00:12:15,049 - discord_alerts - WARNING - Rate limited, waiting 0.912 seconds
+2025-05-10 00:12:16,880 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.078, "global": false}
+2025-05-10 00:12:16,880 - discord_alerts - WARNING - Rate limited, waiting 1.078 seconds
+2025-05-10 00:12:18,992 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.967, "global": false}
+2025-05-10 00:12:18,992 - discord_alerts - WARNING - Rate limited, waiting 0.967 seconds
+2025-05-10 00:12:20,943 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.018, "global": false}
+2025-05-10 00:12:20,943 - discord_alerts - WARNING - Rate limited, waiting 1.018 seconds
+2025-05-10 00:12:22,929 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.033, "global": false}
+2025-05-10 00:12:22,929 - discord_alerts - WARNING - Rate limited, waiting 1.033 seconds
+2025-05-10 00:12:25,117 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.845, "global": false}
+2025-05-10 00:12:25,118 - discord_alerts - WARNING - Rate limited, waiting 0.845 seconds
+2025-05-10 00:12:27,011 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.959, "global": false}
+2025-05-10 00:12:27,012 - discord_alerts - WARNING - Rate limited, waiting 0.959 seconds
+2025-05-10 00:12:28,985 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.98, "global": false}
+2025-05-10 00:12:28,986 - discord_alerts - WARNING - Rate limited, waiting 0.98 seconds
+2025-05-10 00:12:30,944 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.014, "global": false}
+2025-05-10 00:12:30,944 - discord_alerts - WARNING - Rate limited, waiting 1.014 seconds
+2025-05-10 00:12:33,043 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.918, "global": false}
+2025-05-10 00:12:33,044 - discord_alerts - WARNING - Rate limited, waiting 0.918 seconds
+2025-05-10 00:12:35,038 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.92, "global": false}
+2025-05-10 00:12:35,039 - discord_alerts - WARNING - Rate limited, waiting 0.92 seconds
+2025-05-10 00:12:39,051 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.91, "global": false}
+2025-05-10 00:12:39,051 - discord_alerts - WARNING - Rate limited, waiting 0.91 seconds
+2025-05-10 00:12:40,992 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.972, "global": false}
+2025-05-10 00:12:40,992 - discord_alerts - WARNING - Rate limited, waiting 0.972 seconds
+2025-05-10 00:12:42,954 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.01, "global": false}
+2025-05-10 00:12:42,954 - discord_alerts - WARNING - Rate limited, waiting 1.01 seconds
+2025-05-10 00:12:44,902 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.053, "global": false}
+2025-05-10 00:12:44,903 - discord_alerts - WARNING - Rate limited, waiting 1.053 seconds
+2025-05-10 00:12:47,118 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.844, "global": false}
+2025-05-10 00:12:47,118 - discord_alerts - WARNING - Rate limited, waiting 0.844 seconds
+2025-05-10 00:12:48,871 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.086, "global": false}
+2025-05-10 00:12:48,872 - discord_alerts - WARNING - Rate limited, waiting 1.086 seconds
+2025-05-10 00:12:50,908 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.051, "global": false}
+2025-05-10 00:12:50,908 - discord_alerts - WARNING - Rate limited, waiting 1.051 seconds
+2025-05-10 00:12:53,142 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.847, "global": false}
+2025-05-10 00:12:53,143 - discord_alerts - WARNING - Rate limited, waiting 0.847 seconds
+2025-05-10 00:12:55,033 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.926, "global": false}
+2025-05-10 00:12:55,033 - discord_alerts - WARNING - Rate limited, waiting 0.926 seconds
+2025-05-10 00:12:56,893 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.065, "global": false}
+2025-05-10 00:12:56,894 - discord_alerts - WARNING - Rate limited, waiting 1.065 seconds
+2025-05-10 00:12:58,968 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.987, "global": false}
+2025-05-10 00:12:58,969 - discord_alerts - WARNING - Rate limited, waiting 0.987 seconds
+2025-05-10 00:13:01,067 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.891, "global": false}
+2025-05-10 00:13:01,067 - discord_alerts - WARNING - Rate limited, waiting 0.891 seconds
+2025-05-10 00:13:02,931 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.031, "global": false}
+2025-05-10 00:13:02,931 - discord_alerts - WARNING - Rate limited, waiting 1.031 seconds
+2025-05-10 00:13:04,970 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.991, "global": false}
+2025-05-10 00:13:04,970 - discord_alerts - WARNING - Rate limited, waiting 0.991 seconds
+2025-05-10 00:13:07,001 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.972, "global": false}
+2025-05-10 00:13:07,001 - discord_alerts - WARNING - Rate limited, waiting 0.972 seconds
+2025-05-10 00:13:09,121 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.839, "global": false}
+2025-05-10 00:13:09,122 - discord_alerts - WARNING - Rate limited, waiting 0.839 seconds
+2025-05-10 00:13:10,945 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.012, "global": false}
+2025-05-10 00:13:10,945 - discord_alerts - WARNING - Rate limited, waiting 1.012 seconds
+2025-05-10 00:13:13,146 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.812, "global": false}
+2025-05-10 00:13:13,146 - discord_alerts - WARNING - Rate limited, waiting 0.812 seconds
+2025-05-10 00:13:14,954 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.003, "global": false}
+2025-05-10 00:13:14,955 - discord_alerts - WARNING - Rate limited, waiting 1.003 seconds
+2025-05-10 00:13:16,957 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.021, "global": false}
+2025-05-10 00:13:16,957 - discord_alerts - WARNING - Rate limited, waiting 1.021 seconds
+2025-05-10 00:13:18,949 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.013, "global": false}
+2025-05-10 00:13:18,956 - discord_alerts - WARNING - Rate limited, waiting 1.013 seconds
+2025-05-10 00:13:20,938 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.017, "global": false}
+2025-05-10 00:13:20,938 - discord_alerts - WARNING - Rate limited, waiting 1.017 seconds
+2025-05-10 00:13:22,905 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.054, "global": false}
+2025-05-10 00:13:22,906 - discord_alerts - WARNING - Rate limited, waiting 1.054 seconds
+2025-05-10 00:13:24,894 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.061, "global": false}
+2025-05-10 00:13:24,894 - discord_alerts - WARNING - Rate limited, waiting 1.061 seconds
+2025-05-10 00:13:26,901 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.059, "global": false}
+2025-05-10 00:13:26,901 - discord_alerts - WARNING - Rate limited, waiting 1.059 seconds
+2025-05-10 00:13:28,917 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.045, "global": false}
+2025-05-10 00:13:28,918 - discord_alerts - WARNING - Rate limited, waiting 1.045 seconds
+2025-05-10 00:13:31,042 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.917, "global": false}
+2025-05-10 00:13:31,042 - discord_alerts - WARNING - Rate limited, waiting 0.917 seconds
+2025-05-10 00:13:32,999 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.966, "global": false}
+2025-05-10 00:13:32,999 - discord_alerts - WARNING - Rate limited, waiting 0.966 seconds
+2025-05-10 00:13:34,980 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.984, "global": false}
+2025-05-10 00:13:34,980 - discord_alerts - WARNING - Rate limited, waiting 0.984 seconds
+2025-05-10 00:13:36,962 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.998, "global": false}
+2025-05-10 00:13:36,962 - discord_alerts - WARNING - Rate limited, waiting 0.998 seconds
+2025-05-10 00:13:38,970 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.987, "global": false}
+2025-05-10 00:13:38,970 - discord_alerts - WARNING - Rate limited, waiting 0.987 seconds
+2025-05-10 00:13:41,054 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.925, "global": false}
+2025-05-10 00:13:41,055 - discord_alerts - WARNING - Rate limited, waiting 0.925 seconds
+2025-05-10 00:13:42,927 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.031, "global": false}
+2025-05-10 00:13:42,927 - discord_alerts - WARNING - Rate limited, waiting 1.031 seconds
+2025-05-10 00:13:44,915 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.042, "global": false}
+2025-05-10 00:13:44,916 - discord_alerts - WARNING - Rate limited, waiting 1.042 seconds
+2025-05-10 00:13:46,905 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.054, "global": false}
+2025-05-10 00:13:46,906 - discord_alerts - WARNING - Rate limited, waiting 1.054 seconds
+2025-05-10 00:13:48,987 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.969, "global": false}
+2025-05-10 00:13:48,987 - discord_alerts - WARNING - Rate limited, waiting 0.969 seconds
+2025-05-10 00:13:51,103 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.854, "global": false}
+2025-05-10 00:13:51,104 - discord_alerts - WARNING - Rate limited, waiting 0.854 seconds
+2025-05-10 00:13:52,960 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.003, "global": false}
+2025-05-10 00:13:52,961 - discord_alerts - WARNING - Rate limited, waiting 1.003 seconds
+2025-05-10 00:13:55,061 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.898, "global": false}
+2025-05-10 00:13:55,065 - discord_alerts - WARNING - Rate limited, waiting 0.898 seconds
+2025-05-10 00:13:57,059 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.902, "global": false}
+2025-05-10 00:13:57,059 - discord_alerts - WARNING - Rate limited, waiting 0.902 seconds
+2025-05-10 00:13:59,049 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.909, "global": false}
+2025-05-10 00:13:59,049 - discord_alerts - WARNING - Rate limited, waiting 0.909 seconds
+2025-05-10 00:14:00,966 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.991, "global": false}
+2025-05-10 00:14:00,966 - discord_alerts - WARNING - Rate limited, waiting 0.991 seconds
+2025-05-10 00:14:02,954 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.007, "global": false}
+2025-05-10 00:14:02,954 - discord_alerts - WARNING - Rate limited, waiting 1.007 seconds
+2025-05-10 00:14:04,964 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.01, "global": false}
+2025-05-10 00:14:04,964 - discord_alerts - WARNING - Rate limited, waiting 1.01 seconds
+2025-05-10 00:14:07,000 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.962, "global": false}
+2025-05-10 00:14:07,000 - discord_alerts - WARNING - Rate limited, waiting 0.962 seconds
+2025-05-10 00:14:08,995 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.977, "global": false}
+2025-05-10 00:14:09,000 - discord_alerts - WARNING - Rate limited, waiting 0.977 seconds
+2025-05-10 00:14:11,181 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.778, "global": false}
+2025-05-10 00:14:11,181 - discord_alerts - WARNING - Rate limited, waiting 0.778 seconds
+2025-05-10 00:14:13,177 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.82, "global": false}
+2025-05-10 00:14:13,177 - discord_alerts - WARNING - Rate limited, waiting 0.82 seconds
+2025-05-10 00:14:14,983 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.973, "global": false}
+2025-05-10 00:14:14,983 - discord_alerts - WARNING - Rate limited, waiting 0.973 seconds
+2025-05-10 00:14:16,976 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.98, "global": false}
+2025-05-10 00:14:16,976 - discord_alerts - WARNING - Rate limited, waiting 0.98 seconds
+2025-05-10 00:14:18,969 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.992, "global": false}
+2025-05-10 00:14:18,970 - discord_alerts - WARNING - Rate limited, waiting 0.992 seconds
+2025-05-10 00:14:21,007 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.948, "global": false}
+2025-05-10 00:14:21,007 - discord_alerts - WARNING - Rate limited, waiting 0.948 seconds
+2025-05-10 00:14:22,907 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.048, "global": false}
+2025-05-10 00:14:22,907 - discord_alerts - WARNING - Rate limited, waiting 1.048 seconds
+2025-05-10 00:14:24,876 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.085, "global": false}
+2025-05-10 00:14:24,876 - discord_alerts - WARNING - Rate limited, waiting 1.085 seconds
+2025-05-10 00:14:26,945 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.024, "global": false}
+2025-05-10 00:14:26,946 - discord_alerts - WARNING - Rate limited, waiting 1.024 seconds
+2025-05-10 00:14:29,120 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.836, "global": false}
+2025-05-10 00:14:29,121 - discord_alerts - WARNING - Rate limited, waiting 0.836 seconds
+2025-05-10 00:14:30,929 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.03, "global": false}
+2025-05-10 00:14:30,929 - discord_alerts - WARNING - Rate limited, waiting 1.03 seconds
+2025-05-10 00:14:33,113 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.845, "global": false}
+2025-05-10 00:14:33,113 - discord_alerts - WARNING - Rate limited, waiting 0.845 seconds
+2025-05-10 00:14:34,971 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.988, "global": false}
+2025-05-10 00:14:34,971 - discord_alerts - WARNING - Rate limited, waiting 0.988 seconds
+2025-05-10 00:14:37,092 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.886, "global": false}
+2025-05-10 00:14:37,092 - discord_alerts - WARNING - Rate limited, waiting 0.886 seconds
+2025-05-10 00:14:38,986 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.978, "global": false}
+2025-05-10 00:14:38,986 - discord_alerts - WARNING - Rate limited, waiting 0.978 seconds
+2025-05-10 00:14:41,028 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.928, "global": false}
+2025-05-10 00:14:41,029 - discord_alerts - WARNING - Rate limited, waiting 0.928 seconds
+2025-05-10 00:14:42,943 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.014, "global": false}
+2025-05-10 00:14:42,943 - discord_alerts - WARNING - Rate limited, waiting 1.014 seconds
+2025-05-10 00:14:44,976 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.981, "global": false}
+2025-05-10 00:14:44,977 - discord_alerts - WARNING - Rate limited, waiting 0.981 seconds
+2025-05-10 00:14:46,972 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.987, "global": false}
+2025-05-10 00:14:46,972 - discord_alerts - WARNING - Rate limited, waiting 0.987 seconds
+2025-05-10 00:14:48,978 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.985, "global": false}
+2025-05-10 00:14:48,979 - discord_alerts - WARNING - Rate limited, waiting 0.985 seconds
+2025-05-10 00:14:50,920 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.035, "global": false}
+2025-05-10 00:14:50,921 - discord_alerts - WARNING - Rate limited, waiting 1.035 seconds
+2025-05-10 00:14:53,040 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.931, "global": false}
+2025-05-10 00:14:53,041 - discord_alerts - WARNING - Rate limited, waiting 0.931 seconds
+2025-05-10 00:14:54,971 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.992, "global": false}
+2025-05-10 00:14:54,971 - discord_alerts - WARNING - Rate limited, waiting 0.992 seconds
+2025-05-10 00:14:56,901 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.057, "global": false}
+2025-05-10 00:14:56,930 - discord_alerts - WARNING - Rate limited, waiting 1.057 seconds
+2025-05-10 00:14:58,998 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.958, "global": false}
+2025-05-10 00:14:58,998 - discord_alerts - WARNING - Rate limited, waiting 0.958 seconds
+2025-05-10 00:15:01,113 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.846, "global": false}
+2025-05-10 00:15:01,113 - discord_alerts - WARNING - Rate limited, waiting 0.846 seconds
+2025-05-10 00:15:03,063 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.91, "global": false}
+2025-05-10 00:15:03,064 - discord_alerts - WARNING - Rate limited, waiting 0.91 seconds
+2025-05-10 00:15:04,929 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.03, "global": false}
+2025-05-10 00:15:04,929 - discord_alerts - WARNING - Rate limited, waiting 1.03 seconds
+2025-05-10 00:15:06,963 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.996, "global": false}
+2025-05-10 00:15:06,964 - discord_alerts - WARNING - Rate limited, waiting 0.996 seconds
+2025-05-10 00:15:08,948 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.021, "global": false}
+2025-05-10 00:15:08,948 - discord_alerts - WARNING - Rate limited, waiting 1.021 seconds
+2025-05-10 00:15:11,039 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.917, "global": false}
+2025-05-10 00:15:11,039 - discord_alerts - WARNING - Rate limited, waiting 0.917 seconds
+2025-05-10 00:15:13,003 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.956, "global": false}
+2025-05-10 00:15:13,003 - discord_alerts - WARNING - Rate limited, waiting 0.956 seconds
+2025-05-10 00:15:15,186 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.772, "global": false}
+2025-05-10 00:15:15,187 - discord_alerts - WARNING - Rate limited, waiting 0.772 seconds
+2025-05-10 00:15:17,058 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.903, "global": false}
+2025-05-10 00:15:17,059 - discord_alerts - WARNING - Rate limited, waiting 0.903 seconds
+2025-05-10 00:15:19,037 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.92, "global": false}
+2025-05-10 00:15:19,037 - discord_alerts - WARNING - Rate limited, waiting 0.92 seconds
+2025-05-10 00:15:20,965 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.992, "global": false}
+2025-05-10 00:15:20,965 - discord_alerts - WARNING - Rate limited, waiting 0.992 seconds
+2025-05-10 00:15:23,010 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.945, "global": false}
+2025-05-10 00:15:23,012 - discord_alerts - WARNING - Rate limited, waiting 0.945 seconds
+2025-05-10 00:15:25,054 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.912, "global": false}
+2025-05-10 00:15:25,055 - discord_alerts - WARNING - Rate limited, waiting 0.912 seconds
+2025-05-10 00:15:27,105 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.852, "global": false}
+2025-05-10 00:15:27,106 - discord_alerts - WARNING - Rate limited, waiting 0.852 seconds
+2025-05-10 00:15:28,903 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.053, "global": false}
+2025-05-10 00:15:28,906 - discord_alerts - WARNING - Rate limited, waiting 1.053 seconds
+2025-05-10 00:15:31,049 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.919, "global": false}
+2025-05-10 00:15:31,049 - discord_alerts - WARNING - Rate limited, waiting 0.919 seconds
+2025-05-10 00:15:32,933 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.026, "global": false}
+2025-05-10 00:15:32,934 - discord_alerts - WARNING - Rate limited, waiting 1.026 seconds
+2025-05-10 00:15:35,015 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.945, "global": false}
+2025-05-10 00:15:35,015 - discord_alerts - WARNING - Rate limited, waiting 0.945 seconds
+2025-05-10 00:15:37,755 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.3, "global": false}
+2025-05-10 00:15:37,756 - discord_alerts - WARNING - Rate limited, waiting 0.3 seconds
+2025-05-10 00:15:39,137 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.819, "global": false}
+2025-05-10 00:15:39,138 - discord_alerts - WARNING - Rate limited, waiting 0.819 seconds
+2025-05-10 00:15:41,023 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.962, "global": false}
+2025-05-10 00:15:41,024 - discord_alerts - WARNING - Rate limited, waiting 0.962 seconds
+2025-05-10 00:15:43,155 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.806, "global": false}
+2025-05-10 00:15:43,155 - discord_alerts - WARNING - Rate limited, waiting 0.806 seconds
+2025-05-10 00:15:44,934 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.023, "global": false}
+2025-05-10 00:15:44,935 - discord_alerts - WARNING - Rate limited, waiting 1.023 seconds
+2025-05-10 00:15:46,996 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.96, "global": false}
+2025-05-10 00:15:46,996 - discord_alerts - WARNING - Rate limited, waiting 0.96 seconds
+2025-05-10 00:15:48,973 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.987, "global": false}
+2025-05-10 00:15:48,973 - discord_alerts - WARNING - Rate limited, waiting 0.987 seconds
+2025-05-10 00:15:50,960 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.006, "global": false}
+2025-05-10 00:15:50,961 - discord_alerts - WARNING - Rate limited, waiting 1.006 seconds
+2025-05-10 00:15:53,139 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.885, "global": false}
+2025-05-10 00:15:53,139 - discord_alerts - WARNING - Rate limited, waiting 0.885 seconds
+2025-05-10 00:15:55,039 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.92, "global": false}
+2025-05-10 00:15:55,040 - discord_alerts - WARNING - Rate limited, waiting 0.92 seconds
+2025-05-10 00:15:57,029 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.93, "global": false}
+2025-05-10 00:15:57,029 - discord_alerts - WARNING - Rate limited, waiting 0.93 seconds
+2025-05-10 00:15:58,927 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.033, "global": false}
+2025-05-10 00:15:58,927 - discord_alerts - WARNING - Rate limited, waiting 1.033 seconds
+2025-05-10 00:16:01,098 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.864, "global": false}
+2025-05-10 00:16:01,099 - discord_alerts - WARNING - Rate limited, waiting 0.864 seconds
+2025-05-10 00:16:03,027 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.928, "global": false}
+2025-05-10 00:16:03,028 - discord_alerts - WARNING - Rate limited, waiting 0.928 seconds
+2025-05-10 00:16:05,131 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.83, "global": false}
+2025-05-10 00:16:05,133 - discord_alerts - WARNING - Rate limited, waiting 0.83 seconds
+2025-05-10 00:16:06,895 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.062, "global": false}
+2025-05-10 00:16:06,896 - discord_alerts - WARNING - Rate limited, waiting 1.062 seconds
+2025-05-10 00:16:08,902 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.059, "global": false}
+2025-05-10 00:16:08,902 - discord_alerts - WARNING - Rate limited, waiting 1.059 seconds
+2025-05-10 00:16:10,944 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.015, "global": false}
+2025-05-10 00:16:10,944 - discord_alerts - WARNING - Rate limited, waiting 1.015 seconds
+2025-05-10 00:16:12,952 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.007, "global": false}
+2025-05-10 00:16:12,953 - discord_alerts - WARNING - Rate limited, waiting 1.007 seconds
+2025-05-10 00:16:15,155 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.808, "global": false}
+2025-05-10 00:16:15,155 - discord_alerts - WARNING - Rate limited, waiting 0.808 seconds
+2025-05-10 00:16:16,898 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.065, "global": false}
+2025-05-10 00:16:16,899 - discord_alerts - WARNING - Rate limited, waiting 1.065 seconds
+2025-05-10 00:16:18,926 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.033, "global": false}
+2025-05-10 00:16:18,926 - discord_alerts - WARNING - Rate limited, waiting 1.033 seconds
+2025-05-10 00:16:21,081 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.88, "global": false}
+2025-05-10 00:16:21,082 - discord_alerts - WARNING - Rate limited, waiting 0.88 seconds
+2025-05-10 00:16:23,018 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.966, "global": false}
+2025-05-10 00:16:23,018 - discord_alerts - WARNING - Rate limited, waiting 0.966 seconds
+2025-05-10 00:16:24,987 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.971, "global": false}
+2025-05-10 00:16:24,987 - discord_alerts - WARNING - Rate limited, waiting 0.971 seconds
+2025-05-10 00:16:26,948 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.007, "global": false}
+2025-05-10 00:16:26,948 - discord_alerts - WARNING - Rate limited, waiting 1.007 seconds
+2025-05-10 00:16:37,158 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.805, "global": false}
+2025-05-10 00:16:37,159 - discord_alerts - WARNING - Rate limited, waiting 0.805 seconds
+2025-05-10 00:16:39,045 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.912, "global": false}
+2025-05-10 00:16:39,045 - discord_alerts - WARNING - Rate limited, waiting 0.912 seconds
+2025-05-10 00:16:40,936 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.021, "global": false}
+2025-05-10 00:16:40,938 - discord_alerts - WARNING - Rate limited, waiting 1.021 seconds
+2025-05-10 00:16:42,936 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.02, "global": false}
+2025-05-10 00:16:42,937 - discord_alerts - WARNING - Rate limited, waiting 1.02 seconds
+2025-05-10 00:16:45,043 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.92, "global": false}
+2025-05-10 00:16:45,043 - discord_alerts - WARNING - Rate limited, waiting 0.92 seconds
+2025-05-10 00:16:47,126 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.833, "global": false}
+2025-05-10 00:16:47,126 - discord_alerts - WARNING - Rate limited, waiting 0.833 seconds
+2025-05-10 00:16:49,021 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.938, "global": false}
+2025-05-10 00:16:49,021 - discord_alerts - WARNING - Rate limited, waiting 0.938 seconds
+2025-05-10 00:16:51,316 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.647, "global": false}
+2025-05-10 00:16:51,316 - discord_alerts - WARNING - Rate limited, waiting 0.647 seconds
+2025-05-10 00:16:53,132 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.856, "global": false}
+2025-05-10 00:16:53,133 - discord_alerts - WARNING - Rate limited, waiting 0.856 seconds
+2025-05-10 00:16:54,949 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.012, "global": false}
+2025-05-10 00:16:54,949 - discord_alerts - WARNING - Rate limited, waiting 1.012 seconds
+2025-05-10 00:16:57,061 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.901, "global": false}
+2025-05-10 00:16:57,061 - discord_alerts - WARNING - Rate limited, waiting 0.901 seconds
+2025-05-10 00:16:58,968 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.989, "global": false}
+2025-05-10 00:16:58,969 - discord_alerts - WARNING - Rate limited, waiting 0.989 seconds
+2025-05-10 00:17:00,981 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.975, "global": false}
+2025-05-10 00:17:00,981 - discord_alerts - WARNING - Rate limited, waiting 0.975 seconds
+2025-05-10 00:17:02,912 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.045, "global": false}
+2025-05-10 00:17:02,912 - discord_alerts - WARNING - Rate limited, waiting 1.045 seconds
+2025-05-10 00:17:05,095 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.864, "global": false}
+2025-05-10 00:17:05,096 - discord_alerts - WARNING - Rate limited, waiting 0.864 seconds
+2025-05-10 00:17:09,109 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.855, "global": false}
+2025-05-10 00:17:09,111 - discord_alerts - WARNING - Rate limited, waiting 0.855 seconds
+2025-05-10 00:17:10,958 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.001, "global": false}
+2025-05-10 00:17:10,958 - discord_alerts - WARNING - Rate limited, waiting 1.001 seconds
+2025-05-10 00:17:12,939 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.031, "global": false}
+2025-05-10 00:17:12,939 - discord_alerts - WARNING - Rate limited, waiting 1.031 seconds
+2025-05-10 00:17:19,044 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.913, "global": false}
+2025-05-10 00:17:19,045 - discord_alerts - WARNING - Rate limited, waiting 0.913 seconds
+2025-05-10 00:17:20,898 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.059, "global": false}
+2025-05-10 00:17:20,898 - discord_alerts - WARNING - Rate limited, waiting 1.059 seconds
+2025-05-10 00:17:23,044 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.927, "global": false}
+2025-05-10 00:17:23,044 - discord_alerts - WARNING - Rate limited, waiting 0.927 seconds
+2025-05-10 00:17:24,975 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.985, "global": false}
+2025-05-10 00:17:24,976 - discord_alerts - WARNING - Rate limited, waiting 0.985 seconds
+2025-05-10 00:17:27,052 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.905, "global": false}
+2025-05-10 00:17:27,052 - discord_alerts - WARNING - Rate limited, waiting 0.905 seconds
+2025-05-10 00:17:28,919 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.038, "global": false}
+2025-05-10 00:17:28,919 - discord_alerts - WARNING - Rate limited, waiting 1.038 seconds
+2025-05-10 00:17:33,090 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.872, "global": false}
+2025-05-10 00:17:33,091 - discord_alerts - WARNING - Rate limited, waiting 0.872 seconds
+2025-05-10 00:17:35,001 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.955, "global": false}
+2025-05-10 00:17:35,001 - discord_alerts - WARNING - Rate limited, waiting 0.955 seconds
+2025-05-10 00:17:37,024 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.934, "global": false}
+2025-05-10 00:17:37,025 - discord_alerts - WARNING - Rate limited, waiting 0.934 seconds
+2025-05-10 00:17:38,986 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.983, "global": false}
+2025-05-10 00:17:38,987 - discord_alerts - WARNING - Rate limited, waiting 0.983 seconds
+2025-05-10 00:17:41,222 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.763, "global": false}
+2025-05-10 00:17:41,222 - discord_alerts - WARNING - Rate limited, waiting 0.763 seconds
+2025-05-10 00:17:42,985 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.979, "global": false}
+2025-05-10 00:17:42,985 - discord_alerts - WARNING - Rate limited, waiting 0.979 seconds
+2025-05-10 00:17:44,979 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.976, "global": false}
+2025-05-10 00:17:44,980 - discord_alerts - WARNING - Rate limited, waiting 0.976 seconds
+2025-05-10 00:17:47,067 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.888, "global": false}
+2025-05-10 00:17:47,067 - discord_alerts - WARNING - Rate limited, waiting 0.888 seconds
+2025-05-10 00:17:48,990 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.969, "global": false}
+2025-05-10 00:17:48,990 - discord_alerts - WARNING - Rate limited, waiting 0.969 seconds
+2025-05-10 00:17:50,918 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.039, "global": false}
+2025-05-10 00:17:50,919 - discord_alerts - WARNING - Rate limited, waiting 1.039 seconds
+2025-05-10 00:17:52,887 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.07, "global": false}
+2025-05-10 00:17:52,888 - discord_alerts - WARNING - Rate limited, waiting 1.07 seconds
+2025-05-10 00:17:54,959 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.998, "global": false}
+2025-05-10 00:17:54,960 - discord_alerts - WARNING - Rate limited, waiting 0.998 seconds
+2025-05-10 00:17:56,977 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.983, "global": false}
+2025-05-10 00:17:56,978 - discord_alerts - WARNING - Rate limited, waiting 0.983 seconds
+2025-05-10 00:17:59,117 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.84, "global": false}
+2025-05-10 00:17:59,117 - discord_alerts - WARNING - Rate limited, waiting 0.84 seconds
+2025-05-10 00:18:00,917 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.043, "global": false}
+2025-05-10 00:18:00,918 - discord_alerts - WARNING - Rate limited, waiting 1.043 seconds
+2025-05-10 00:18:02,914 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.043, "global": false}
+2025-05-10 00:18:02,914 - discord_alerts - WARNING - Rate limited, waiting 1.043 seconds
+2025-05-10 00:18:05,106 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.871, "global": false}
+2025-05-10 00:18:05,106 - discord_alerts - WARNING - Rate limited, waiting 0.871 seconds
+2025-05-10 00:18:07,191 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.772, "global": false}
+2025-05-10 00:18:07,191 - discord_alerts - WARNING - Rate limited, waiting 0.772 seconds
+2025-05-10 00:18:08,990 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.985, "global": false}
+2025-05-10 00:18:08,990 - discord_alerts - WARNING - Rate limited, waiting 0.985 seconds
+2025-05-10 00:18:11,018 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.943, "global": false}
+2025-05-10 00:18:11,018 - discord_alerts - WARNING - Rate limited, waiting 0.943 seconds
+2025-05-10 00:18:12,959 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.999, "global": false}
+2025-05-10 00:18:12,960 - discord_alerts - WARNING - Rate limited, waiting 0.999 seconds
+2025-05-10 00:18:14,922 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.041, "global": false}
+2025-05-10 00:18:14,922 - discord_alerts - WARNING - Rate limited, waiting 1.041 seconds
+2025-05-10 00:18:17,006 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.953, "global": false}
+2025-05-10 00:18:17,007 - discord_alerts - WARNING - Rate limited, waiting 0.953 seconds
+2025-05-10 00:18:18,921 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.036, "global": false}
+2025-05-10 00:18:18,921 - discord_alerts - WARNING - Rate limited, waiting 1.036 seconds
+2025-05-10 00:18:20,985 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.976, "global": false}
+2025-05-10 00:18:20,985 - discord_alerts - WARNING - Rate limited, waiting 0.976 seconds
+2025-05-10 00:18:22,970 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.986, "global": false}
+2025-05-10 00:18:22,970 - discord_alerts - WARNING - Rate limited, waiting 0.986 seconds
+2025-05-10 00:18:24,890 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.068, "global": false}
+2025-05-10 00:18:24,890 - discord_alerts - WARNING - Rate limited, waiting 1.068 seconds
+2025-05-10 00:18:26,920 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.036, "global": false}
+2025-05-10 00:18:26,920 - discord_alerts - WARNING - Rate limited, waiting 1.036 seconds
+2025-05-10 00:18:29,050 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.931, "global": false}
+2025-05-10 00:18:29,052 - discord_alerts - WARNING - Rate limited, waiting 0.931 seconds
+2025-05-10 00:18:31,015 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.944, "global": false}
+2025-05-10 00:18:31,016 - discord_alerts - WARNING - Rate limited, waiting 0.944 seconds
+2025-05-10 00:18:32,955 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.02, "global": false}
+2025-05-10 00:18:32,955 - discord_alerts - WARNING - Rate limited, waiting 1.02 seconds
+2025-05-10 00:18:34,911 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.045, "global": false}
+2025-05-10 00:18:34,911 - discord_alerts - WARNING - Rate limited, waiting 1.045 seconds
+2025-05-10 00:18:36,915 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.042, "global": false}
+2025-05-10 00:18:36,915 - discord_alerts - WARNING - Rate limited, waiting 1.042 seconds
+2025-05-10 00:18:38,982 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.977, "global": false}
+2025-05-10 00:18:38,982 - discord_alerts - WARNING - Rate limited, waiting 0.977 seconds
+2025-05-10 00:18:40,922 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.038, "global": false}
+2025-05-10 00:18:40,930 - discord_alerts - WARNING - Rate limited, waiting 1.038 seconds
+2025-05-10 00:18:42,907 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.048, "global": false}
+2025-05-10 00:18:42,908 - discord_alerts - WARNING - Rate limited, waiting 1.048 seconds
+2025-05-10 00:18:44,886 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.068, "global": false}
+2025-05-10 00:18:44,887 - discord_alerts - WARNING - Rate limited, waiting 1.068 seconds
+2025-05-10 00:18:46,925 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.033, "global": false}
+2025-05-10 00:18:46,925 - discord_alerts - WARNING - Rate limited, waiting 1.033 seconds
+2025-05-10 00:18:48,990 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.968, "global": false}
+2025-05-10 00:18:48,990 - discord_alerts - WARNING - Rate limited, waiting 0.968 seconds
+2025-05-10 00:18:51,209 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.753, "global": false}
+2025-05-10 00:18:51,210 - discord_alerts - WARNING - Rate limited, waiting 0.753 seconds
+2025-05-10 00:18:52,965 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.992, "global": false}
+2025-05-10 00:18:52,966 - discord_alerts - WARNING - Rate limited, waiting 0.992 seconds
+2025-05-10 00:18:54,973 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.99, "global": false}
+2025-05-10 00:18:54,974 - discord_alerts - WARNING - Rate limited, waiting 0.99 seconds
+2025-05-10 00:18:56,959 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.998, "global": false}
+2025-05-10 00:18:56,959 - discord_alerts - WARNING - Rate limited, waiting 0.998 seconds
+2025-05-10 00:18:58,926 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.028, "global": false}
+2025-05-10 00:18:58,927 - discord_alerts - WARNING - Rate limited, waiting 1.028 seconds
+2025-05-10 00:19:01,019 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.941, "global": false}
+2025-05-10 00:19:01,019 - discord_alerts - WARNING - Rate limited, waiting 0.941 seconds
+2025-05-10 00:19:02,951 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.01, "global": false}
+2025-05-10 00:19:02,952 - discord_alerts - WARNING - Rate limited, waiting 1.01 seconds
+2025-05-10 00:19:05,980 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.3, "global": false}
+2025-05-10 00:19:05,980 - discord_alerts - WARNING - Rate limited, waiting 0.3 seconds
+2025-05-10 00:19:07,286 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.671, "global": false}
+2025-05-10 00:19:07,286 - discord_alerts - WARNING - Rate limited, waiting 0.671 seconds
+2025-05-10 00:19:08,951 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.003, "global": false}
+2025-05-10 00:19:08,951 - discord_alerts - WARNING - Rate limited, waiting 1.003 seconds
+2025-05-10 00:19:10,944 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.015, "global": false}
+2025-05-10 00:19:10,944 - discord_alerts - WARNING - Rate limited, waiting 1.015 seconds
+2025-05-10 00:19:12,963 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.992, "global": false}
+2025-05-10 00:19:12,963 - discord_alerts - WARNING - Rate limited, waiting 0.992 seconds
+2025-05-10 00:19:15,202 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.76, "global": false}
+2025-05-10 00:19:15,203 - discord_alerts - WARNING - Rate limited, waiting 0.76 seconds
+2025-05-10 00:19:17,908 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.3, "global": false}
+2025-05-10 00:19:17,908 - discord_alerts - WARNING - Rate limited, waiting 0.3 seconds
+2025-05-10 00:19:19,246 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.721, "global": false}
+2025-05-10 00:19:19,246 - discord_alerts - WARNING - Rate limited, waiting 0.721 seconds
+2025-05-10 00:19:20,958 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.997, "global": false}
+2025-05-10 00:19:20,958 - discord_alerts - WARNING - Rate limited, waiting 0.997 seconds
+2025-05-10 00:19:23,050 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.905, "global": false}
+2025-05-10 00:19:23,050 - discord_alerts - WARNING - Rate limited, waiting 0.905 seconds
+2025-05-10 00:19:25,047 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.912, "global": false}
+2025-05-10 00:19:25,048 - discord_alerts - WARNING - Rate limited, waiting 0.912 seconds
+2025-05-10 00:19:26,882 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.072, "global": false}
+2025-05-10 00:19:26,882 - discord_alerts - WARNING - Rate limited, waiting 1.072 seconds
+2025-05-10 00:19:29,755 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.3, "global": false}
+2025-05-10 00:19:29,756 - discord_alerts - WARNING - Rate limited, waiting 0.3 seconds
+2025-05-10 00:19:31,083 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.884, "global": false}
+2025-05-10 00:19:31,083 - discord_alerts - WARNING - Rate limited, waiting 0.884 seconds
+2025-05-10 00:19:33,112 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.926, "global": false}
+2025-05-10 00:19:33,112 - discord_alerts - WARNING - Rate limited, waiting 0.926 seconds
+2025-05-10 00:19:35,357 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.627, "global": false}
+2025-05-10 00:19:35,363 - discord_alerts - WARNING - Rate limited, waiting 0.627 seconds
+2025-05-10 00:19:37,002 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.958, "global": false}
+2025-05-10 00:19:37,003 - discord_alerts - WARNING - Rate limited, waiting 0.958 seconds
+2025-05-10 00:19:38,909 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.045, "global": false}
+2025-05-10 00:19:38,909 - discord_alerts - WARNING - Rate limited, waiting 1.045 seconds
+2025-05-10 00:19:40,997 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.973, "global": false}
+2025-05-10 00:19:40,997 - discord_alerts - WARNING - Rate limited, waiting 0.973 seconds
+2025-05-10 00:19:43,000 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.956, "global": false}
+2025-05-10 00:19:43,001 - discord_alerts - WARNING - Rate limited, waiting 0.956 seconds
+2025-05-10 00:19:44,911 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.054, "global": false}
+2025-05-10 00:19:44,911 - discord_alerts - WARNING - Rate limited, waiting 1.054 seconds
+2025-05-10 00:19:46,920 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.037, "global": false}
+2025-05-10 00:19:46,920 - discord_alerts - WARNING - Rate limited, waiting 1.037 seconds
+2025-05-10 00:19:48,971 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.987, "global": false}
+2025-05-10 00:19:48,971 - discord_alerts - WARNING - Rate limited, waiting 0.987 seconds
+2025-05-10 00:19:50,947 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.035, "global": false}
+2025-05-10 00:19:50,947 - discord_alerts - WARNING - Rate limited, waiting 1.035 seconds
+2025-05-10 00:19:52,955 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.007, "global": false}
+2025-05-10 00:19:52,955 - discord_alerts - WARNING - Rate limited, waiting 1.007 seconds
+2025-05-10 00:19:55,335 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.628, "global": false}
+2025-05-10 00:19:55,336 - discord_alerts - WARNING - Rate limited, waiting 0.628 seconds
+2025-05-10 00:19:56,926 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.028, "global": false}
+2025-05-10 00:19:56,927 - discord_alerts - WARNING - Rate limited, waiting 1.028 seconds
+2025-05-10 00:19:58,922 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.033, "global": false}
+2025-05-10 00:19:58,922 - discord_alerts - WARNING - Rate limited, waiting 1.033 seconds
+2025-05-10 00:20:00,920 - discord_alerts - WARNING - Failed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.041, "global": false}
+2025-05-10 00:20:00,921 - discord_alerts - WARNING - Rate limited, waiting 1.041 seconds

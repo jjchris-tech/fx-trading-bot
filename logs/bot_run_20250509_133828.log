@@ -1,0 +1,20 @@
+[09/05/2025 13:38:28.76] Starting EUR/USD FX Trading Bot 
+[09/05/2025 13:38:28.77] Activating virtual environment 
+[09/05/2025 13:38:28.83] Running setup.py 
+
+============================================================
+=================== FX Trading Bot Setup ===================
+============================================================
+
+[1] Checking Python version...
+Traceback (most recent call last):
+  File "C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\setup.py", line 228, in <module>
+    setup()
+  File "C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\setup.py", line 182, in setup
+    if not check_python_version():
+  File "C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\setup.py", line 32, in check_python_version
+    print(f"\u2705 Python {major}.{minor} detected")
+  File "C:\Users\jenso\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+[09/05/2025 13:38:28.94] Setup failed, error code: 1 

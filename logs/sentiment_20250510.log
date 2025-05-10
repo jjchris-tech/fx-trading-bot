@@ -1,0 +1,935 @@
+2025-05-10 00:20:32,142 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:20:32,522 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:20:33,608 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:20:33,974 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:20:35,788 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:20:36,150 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:20:38,116 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:20:38,502 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:20:39,554 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:20:39,917 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:20:41,821 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:20:42,212 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:35:24,901 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:35:25,308 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:35:26,427 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:35:26,797 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:35:28,398 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:35:28,803 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:35:30,579 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:35:30,938 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:35:31,900 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:35:32,284 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:35:33,961 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:35:34,331 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:44:03,766 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:44:04,167 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:44:05,243 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:44:05,728 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:44:07,776 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:44:08,161 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:44:09,830 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:44:10,186 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:44:11,132 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:44:11,511 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 00:44:13,481 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 00:44:13,838 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 01:21:52,654 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 01:21:53,057 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 01:21:53,997 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 01:21:54,362 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 01:21:55,954 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 01:21:56,338 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 01:21:58,065 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 01:21:58,431 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 01:21:59,509 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 01:21:59,891 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 01:22:03,519 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 01:22:03,895 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:22,843 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:23,227 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:24,138 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:24,515 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:26,293 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:26,671 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:28,348 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:28,717 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:29,669 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:30,043 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:32,135 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:32,504 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:42,339 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:42,698 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:43,653 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:44,023 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:45,776 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:46,146 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:47,786 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:48,157 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:49,100 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:49,464 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:51,185 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:51,542 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:53,360 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:53,740 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:54,709 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:55,093 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:16:57,102 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:16:57,468 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:17:07,444 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:17:07,811 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:17:08,895 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:17:09,277 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:17:11,411 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:17:11,768 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:17:38,925 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:17:39,312 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:17:40,347 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:17:40,705 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:17:43,205 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:17:43,564 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:17:53,462 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:17:53,841 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:17:54,782 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:17:55,152 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:17:57,151 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:17:57,520 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:07,526 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:07,915 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:08,999 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:09,379 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:11,416 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:11,795 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:13,559 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:13,922 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:14,861 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:15,219 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:17,264 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:17,641 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:27,595 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:27,974 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:28,922 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:29,309 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:31,332 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:31,693 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:18:58,717 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:18:59,123 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:19:00,092 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:19:00,477 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:19:02,615 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:19:02,985 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:19:30,023 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:19:30,411 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:19:31,384 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:19:31,797 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:19:33,901 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:19:34,257 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:01,289 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:01,659 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:02,751 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:03,109 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:04,941 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:05,320 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:07,020 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:07,391 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:08,360 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:08,742 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:10,665 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:11,038 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:12,888 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:13,250 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:14,229 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:14,583 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:16,661 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:17,020 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:27,049 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:27,432 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:28,505 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:28,880 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:30,871 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:31,247 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:41,371 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:41,741 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:42,780 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:43,155 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:45,386 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:45,757 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:55,796 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:56,169 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:57,100 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:57,453 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:20:59,338 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:20:59,697 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:21:11,705 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:21:12,079 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:21:13,094 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:21:13,471 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:21:15,421 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:21:15,781 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:21:25,862 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:21:26,225 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:21:27,234 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:21:27,608 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:21:29,884 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:21:30,248 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:21:42,240 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:21:42,596 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:21:43,592 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:21:43,959 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:21:46,007 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:21:46,393 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:22:13,414 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:22:13,818 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:22:14,771 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:22:15,151 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:22:17,157 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:22:17,529 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:22:44,481 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:22:44,874 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:22:45,820 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:22:46,186 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:22:48,234 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:22:48,593 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:00,422 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:00,799 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:01,757 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:02,127 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:04,167 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:04,547 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:14,438 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:14,798 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:15,764 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:16,123 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:17,977 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:18,352 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:20,132 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:20,516 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:21,459 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:21,889 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:23,947 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:24,315 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:34,179 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:34,550 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:35,510 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:35,894 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:37,801 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:38,188 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:48,039 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:48,416 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:49,628 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:50,007 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:51,880 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:52,237 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:54,014 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:54,398 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:55,369 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:55,725 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:23:57,843 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:23:58,219 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:24:10,077 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:24:10,475 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:24:11,516 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:24:11,898 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:24:13,739 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:24:14,124 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:24:15,871 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:24:16,248 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:24:17,272 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:24:17,643 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:24:19,687 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:24:20,070 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:24:47,264 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:24:47,633 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:24:48,645 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:24:49,019 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:24:51,050 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:24:51,407 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:25:18,480 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:25:18,868 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:25:19,903 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:25:20,276 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:25:22,263 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:25:22,623 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:25:34,650 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:25:35,034 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:25:36,069 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:25:36,446 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:25:38,410 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:25:38,793 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:25:40,566 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:25:40,943 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:25:41,942 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:25:42,311 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:25:44,440 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:25:44,802 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:26:11,924 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:26:12,299 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:26:13,247 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:26:13,616 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:26:15,681 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:26:16,067 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:26:26,077 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:26:26,449 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:26:27,709 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:26:28,089 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:26:30,321 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:26:30,684 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:26:40,767 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:26:41,139 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:26:42,155 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:26:42,532 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:26:44,446 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:26:44,806 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:27:11,810 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:27:12,193 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:27:13,177 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:27:13,549 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:27:15,578 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:27:15,957 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:27:27,939 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:27:28,332 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:27:29,413 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:27:29,773 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:27:31,905 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:27:32,266 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:27:42,160 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:27:42,545 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:27:43,816 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:27:44,187 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:27:46,279 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:27:46,659 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:13,704 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:28:14,079 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:15,039 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:28:15,410 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:17,786 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:28:18,163 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:42,460 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:28:42,863 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:43,359 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:28:43,878 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:28:44,239 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:44,702 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:28:46,152 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:28:46,513 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:46,997 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:28:48,119 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:28:48,492 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:48,962 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:28:49,436 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:28:49,800 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:50,290 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:28:51,804 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:28:52,177 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:28:52,663 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:02,183 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:02,566 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:03,049 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:03,662 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:04,037 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:04,767 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:06,195 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:06,580 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:07,055 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:08,201 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:08,575 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:09,058 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:09,520 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:09,884 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:10,338 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:11,650 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:12,016 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:12,485 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:13,703 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:14,063 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:14,524 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:15,087 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:15,468 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:15,935 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:19,722 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:20,109 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:20,567 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:30,046 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:30,408 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:30,894 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:31,386 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:31,757 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:32,248 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:29:33,901 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:29:34,269 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:29:34,757 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:07,009 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:07,392 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:07,877 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:08,382 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:08,767 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:09,249 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:12,431 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:12,794 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:13,255 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:23,541 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:23,902 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:24,384 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:24,947 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:25,330 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:25,792 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:27,388 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:27,765 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:28,244 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:37,583 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:37,945 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:38,411 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:38,910 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:39,280 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:39,761 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:41,175 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:41,556 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:42,069 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:43,211 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:43,597 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:44,087 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:44,782 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:45,144 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:46,098 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:48,995 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:49,545 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:30:50,087 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:30:59,626 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:30:59,996 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:31:00,482 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:31:01,049 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:31:01,415 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:31:01,906 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:31:03,418 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:31:03,775 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:31:04,254 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:42:26,744 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:42:27,141 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 02:42:27,659 - sentiment - INFO - Saved 0 news items to cache
+2025-05-10 02:42:27,660 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:42:28,117 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:42:28,117 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 02:42:28,119 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:42:29,418 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:42:29,419 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 02:42:29,419 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:42:30,591 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:42:30,591 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 02:42:30,594 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:42:31,065 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:42:31,066 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 02:42:31,067 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 02:42:32,551 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 02:42:32,552 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 02:42:32,552 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:15,274 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:15,678 - sentiment - WARNING - Failed to get forex news, retrying with general FX search
+2025-05-10 11:39:16,138 - sentiment - INFO - Saved 0 news items to cache
+2025-05-10 11:39:16,138 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:16,747 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:16,747 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:16,749 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:18,322 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:18,323 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:18,323 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:19,566 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:19,566 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:19,568 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:20,139 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:20,139 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:20,140 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:21,826 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:21,827 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:21,828 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:31,262 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:31,263 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:31,263 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:31,795 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:31,795 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:31,796 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:33,322 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:33,323 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:33,323 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:34,542 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:34,542 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:34,543 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:35,138 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:35,139 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:35,139 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:37,382 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:37,383 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:37,384 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:38,811 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:38,820 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:38,821 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:39,472 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:39,473 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:39,473 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:41,376 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:41,377 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:41,378 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:51,265 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:51,266 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:51,267 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:51,782 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:51,782 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:51,783 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:39:53,475 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:39:53,475 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:39:53,475 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:20,498 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:20,499 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:20,500 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:21,201 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:21,202 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:21,203 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:23,119 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:23,119 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:23,120 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:32,683 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:32,683 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:32,684 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:33,329 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:33,331 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:33,332 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:35,219 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:35,220 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:35,221 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:44,956 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:44,956 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:44,957 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:45,552 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:45,552 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:45,553 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:47,221 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:47,222 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:47,223 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:48,508 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:48,509 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:48,510 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:49,156 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:49,156 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:49,157 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:40:51,157 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:40:51,158 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:40:51,160 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:41:01,073 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:41:01,074 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:41:01,075 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:41:01,752 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:41:01,753 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:41:01,755 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:41:03,745 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:41:03,746 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:41:03,748 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:41:30,490 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:41:30,490 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:41:30,492 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:41:31,194 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:41:31,195 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:41:31,196 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:41:33,241 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:41:33,242 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:41:33,243 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:00,017 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:00,018 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:00,019 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:00,615 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:00,615 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:00,617 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:02,811 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:02,811 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:02,813 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:30,951 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:30,951 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:30,955 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:31,834 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:31,835 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:31,836 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:33,837 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:33,837 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:33,839 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:35,719 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:35,719 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:35,720 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:36,443 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:36,444 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:36,445 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:39,501 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:39,502 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:39,503 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:43,110 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:43,112 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:43,114 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:43,923 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:43,924 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:43,925 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:46,181 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:46,181 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:46,184 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:56,413 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:56,414 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:56,418 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:42:58,092 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:42:58,099 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:42:58,106 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:01,015 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:01,016 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:01,017 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:13,564 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:13,582 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:13,591 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:15,608 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:15,610 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:15,611 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:19,311 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:19,312 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:19,312 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:33,088 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:33,220 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:33,459 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:34,968 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:34,969 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:34,970 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:37,489 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:37,489 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:37,491 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:51,066 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:51,067 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:51,067 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:52,370 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:52,371 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:52,371 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:43:54,373 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:43:54,374 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:43:54,374 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:44:04,120 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:44:04,120 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:44:04,120 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:44:04,701 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:44:04,702 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:44:04,702 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:44:06,700 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:44:06,700 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:44:06,701 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:44:18,528 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:44:18,529 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:44:18,530 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:44:19,155 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:44:19,156 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:44:19,157 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:44:20,976 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:44:20,977 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:44:20,977 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:44:48,101 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:44:48,101 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:44:48,101 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:44:48,735 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:44:48,736 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:44:48,736 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:44:51,004 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:44:51,005 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:44:51,005 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:45:17,940 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:45:17,941 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:45:17,941 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:45:18,548 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:45:18,549 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:45:18,551 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:45:20,682 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:45:20,682 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:45:20,683 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:45:33,151 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:45:33,153 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:45:33,154 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:45:34,837 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:45:34,838 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:45:34,838 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:45:37,822 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:45:37,823 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:45:37,823 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:45:48,003 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:45:48,003 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:45:48,005 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:45:48,668 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:45:48,669 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:45:48,670 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:45:50,855 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:45:50,855 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:45:50,857 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:18,822 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:18,822 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:18,825 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:19,482 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:19,482 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:19,482 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:22,428 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:22,428 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:22,429 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:32,637 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:32,638 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:32,639 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:33,374 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:33,375 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:33,376 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:35,753 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:35,753 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:35,753 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:46,310 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:46,311 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:46,312 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:47,163 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:47,164 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:47,165 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:49,123 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:49,123 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:49,123 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:51,442 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:51,443 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:51,444 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:52,320 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:52,321 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:52,321 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:55,511 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:55,512 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:55,512 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:56,970 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:56,971 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:56,972 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:57,817 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:57,819 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:57,820 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:46:59,895 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:46:59,895 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:46:59,895 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:47:09,955 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:47:09,956 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:47:09,956 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:47:10,568 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:47:10,569 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:47:10,569 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:47:12,658 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:47:12,658 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:47:12,660 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:47:40,028 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:47:40,029 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:47:40,030 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:47:40,681 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:47:40,681 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:47:40,682 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:47:42,564 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:47:42,565 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:47:42,567 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:11,312 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:11,314 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:11,315 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:12,590 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:12,591 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:12,591 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:16,826 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:16,827 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:16,828 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:28,385 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:28,386 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:28,389 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:29,287 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:29,287 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:29,288 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:31,608 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:31,610 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:31,612 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:33,493 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:33,494 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:33,495 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:34,421 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:34,421 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:34,422 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:36,887 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:36,888 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:36,888 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:49,240 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:49,241 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:49,241 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:50,322 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:50,323 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:50,324 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:48:53,087 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:48:53,088 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:48:53,089 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:03,236 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:03,237 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:03,237 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:03,989 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:03,990 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:03,990 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:06,118 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:06,119 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:06,120 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:16,287 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:16,288 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:16,289 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:16,994 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:16,995 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:16,997 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:19,365 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:19,366 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:19,367 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:46,926 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:46,927 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:46,929 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:47,696 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:47,696 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:47,699 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:49,803 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:49,803 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:49,804 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:51,526 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:51,528 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:51,530 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:52,328 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:52,329 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:52,330 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:49:54,832 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:49:54,832 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:49:54,834 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:50:05,066 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:50:05,066 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:50:05,068 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:50:05,759 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:50:05,760 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:50:05,761 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:50:07,924 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:50:07,924 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:50:07,926 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:50:35,625 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:50:35,625 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:50:35,627 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:50:36,756 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:50:36,756 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:50:36,758 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:50:39,974 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:50:39,974 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:50:39,976 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:50:52,861 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:50:52,861 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:50:52,863 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:50:53,607 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:50:53,609 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:50:53,612 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:50:55,882 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:50:55,883 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:50:55,884 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:51:23,608 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:51:23,608 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:51:23,609 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:51:24,177 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:51:24,178 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:51:24,179 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:51:26,215 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:51:26,216 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:51:26,217 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:51:37,962 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:51:37,963 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:51:37,964 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:51:38,815 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:51:38,815 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:51:38,816 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:51:42,316 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:51:42,317 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:51:42,320 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:10,416 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:10,417 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:10,418 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:11,062 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:11,063 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:11,065 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:13,258 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:13,259 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:13,262 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:23,382 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:23,384 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:23,385 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:24,098 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:24,098 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:24,100 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:26,237 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:26,237 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:26,239 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:38,515 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:38,516 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:38,518 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:39,084 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:39,085 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:39,086 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:41,016 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:41,017 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:41,017 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:51,225 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:51,225 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:51,227 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:52,017 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:52,022 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:52,023 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:52:54,592 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:52:54,592 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:52:54,593 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:04,436 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:04,437 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:04,439 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:04,691 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:04,692 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:04,693 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:05,272 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:05,273 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:05,274 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:27,687 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:27,688 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:27,690 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:28,631 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:28,631 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:28,632 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:30,917 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:30,917 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:30,918 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:33,363 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:33,363 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:33,365 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:34,491 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:34,492 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:34,493 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:37,058 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:37,059 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:37,060 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:46,977 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:46,977 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:46,980 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:47,652 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:47,653 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:47,654 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:49,631 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:49,631 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:49,634 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:51,013 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:51,013 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:51,015 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:51,704 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:51,705 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:51,707 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:53,290 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:53,291 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:53,292 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:54,911 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:54,911 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:54,913 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:55,539 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:55,540 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:55,542 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:53:57,526 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:53:57,527 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:53:57,528 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:54:07,250 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:54:07,251 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:54:07,252 - sentiment - INFO - Analyzing sentiment for 0 news items
+2025-05-10 11:54:07,876 - sentiment - INFO - Fetching forex news for EURUSD
+2025-05-10 11:54:07,876 - sentiment - INFO - Loading cached news from C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\sentiment_cache\forex_news_EUR_USD_2025-05-07_30.json
+2025-05-10 11:54:07,877 - sentiment - INFO - Analyzing sentiment for 0 news items

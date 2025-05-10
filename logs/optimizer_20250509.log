@@ -1,0 +1,10 @@
+2025-05-09 21:33:51,727 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-09 21:33:51,728 - optimizer - INFO - Starting walk-forward optimization
+2025-05-09 21:33:51,728 - optimizer - INFO - Processing window 3
+2025-05-09 21:33:52,052 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-09 21:33:52,052 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials
+2025-05-09 23:30:24,506 - optimizer - INFO - Initialized Walk-Forward Optimizer for hybrid_voting
+2025-05-09 23:30:24,507 - optimizer - INFO - Starting walk-forward optimization
+2025-05-09 23:30:24,508 - optimizer - INFO - Processing window 3
+2025-05-09 23:30:24,764 - optimizer - INFO - Initialized optimizer for hybrid_voting strategy
+2025-05-09 23:30:24,765 - optimizer - INFO - Starting optimization for hybrid_voting with 50 trials

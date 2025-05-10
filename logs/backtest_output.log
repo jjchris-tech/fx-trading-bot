@@ -1,0 +1,38 @@
+[32m2025-05-09 23:35:25[0m - [34mbacktest[0m - [1;30mINFO[0m - [32mRunning backtest for EUR/USD (1h) with hybrid_voting strategy[0m
+[32m2025-05-09 23:35:25[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.6, 'minimum_confirmation': 0.5, 'position_sizing_factor': 1.0, 'profit_target': 0.006, 'stop_loss': 0.003, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.0015, 'atr_filter_period': 14, 'atr_filter_multiplier': 1.0, 'volatility_filter': True}[0m
+[32m2025-05-09 23:35:25[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 10, 'slow_ma_period': 50, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.005, 'stop_loss': 0.003, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.0015}[0m
+[32m2025-05-09 23:35:25[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized RSI Mean Reversion strategy with parameters: {'rsi_period': 14, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 200, 'counter_trend_factor': 1.5, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 2}[0m
+[32m2025-05-09 23:35:25[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExecutionSimulator initialized with 10000.00 capital[0m
+[32m2025-05-09 23:35:25[0m - [34mbacktest[0m - [1;30mINFO[0m - [32mFetching data from 2023-01-01 to 2023-12-31[0m
+[32m2025-05-09 23:35:25[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mFetching time series data for EURUSD (1h)[0m
+[32m2025-05-09 23:35:26[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mAPI error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:35:26[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mFailed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:35:26[0m - [34mmarket_data[0m - [1;30mWARNING[0m - [33mFailed to get data from API, generating synthetic data[0m
+[32m2025-05-09 23:35:26[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mGenerating synthetic data for EUR/USD from 2023-01-01 to 2023-12-31[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data\market_data.py:308: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  date_range = pd.date_range(start=start, end=end, freq=self._get_pandas_freq())
+[32m2025-05-09 23:35:26[0m - [34mbacktest[0m - [1;30mINFO[0m - [32mRunning backtest simulation[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\strategies\ma_crossover.py:91: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '[        nan  1.00211706 -1.00031336 ... -1.000605    1.00187942
+ -1.00232616]' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  df.loc[df['signal'] != 0, 'signal'] = df.loc[df['signal'] != 0, 'signal'] * (
+[32m2025-05-09 23:35:27[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:35:28[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:35:28[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:35:30[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:35:31[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:35:31[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:35:37[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:35:37[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:35:38[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:35:41[0m - [34msimulator[0m - [1;30mINFO[0m - [32mBacktest completed: 0 trades, 0.00 USD profit[0m
+[32m2025-05-09 23:35:41[0m - [34mbacktest[0m - [1;30mINFO[0m - [32mGenerating PDF report[0m
+[32m2025-05-09 23:35:43[0m - [34mpdf_generator[0m - [1;30mINFO[0m - [32mGenerated PDF report: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\reports\report_20250509_233543.pdf[0m
+[32m2025-05-09 23:35:43[0m - [34mbacktest[0m - [1;30mINFO[0m - [32mGenerated report: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\reports\report_20250509_233543.pdf[0m
+[32m2025-05-09 23:35:43[0m - [34mbacktest[0m - [1;30mINFO[0m - [32mStarting dashboard[0m
+[32m2025-05-09 23:35:43[0m - [34mdashboard[0m - [1;30mINFO[0m - [32mGenerated dashboard script: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\dashboard\dashboard_app.py[0m
+[32m2025-05-09 23:35:44[0m - [34mdashboard[0m - [1;30mINFO[0m - [32mDashboard server stopped[0m
+[32m2025-05-09 23:35:44[0m - [34mdashboard[0m - [1;30mINFO[0m - [32mStarting dashboard server on port 8501[0m
+[32m2025-05-09 23:35:46[0m - [34mdashboard[0m - [1;30mERROR[0m - [31mDashboard server failed to start: 2025-05-09 23:35:45.089 Port 8501 is already in use
+[0m
+[32m2025-05-09 23:35:46[0m - [34mdashboard[0m - [1;30mINFO[0m - [32mDashboard server started on http://localhost:8501[0m
+[32m2025-05-09 23:35:46[0m - [34mbacktest[0m - [1;30mINFO[0m - [32mBacktest completed: 0 trades, $0.00 profit[0m

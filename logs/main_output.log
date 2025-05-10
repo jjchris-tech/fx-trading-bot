@@ -1,0 +1,635 @@
+[32m2025-05-09 23:30:22[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExecutionSimulator initialized with 10000.00 capital[0m
+[32m2025-05-09 23:30:22[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.6, 'minimum_confirmation': 0.5, 'position_sizing_factor': 1.0, 'profit_target': 0.006, 'stop_loss': 0.003, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.0015, 'atr_filter_period': 14, 'atr_filter_multiplier': 1.0, 'volatility_filter': True}[0m
+[32m2025-05-09 23:30:22[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 10, 'slow_ma_period': 50, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.005, 'stop_loss': 0.003, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.0015}[0m
+[32m2025-05-09 23:30:22[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized RSI Mean Reversion strategy with parameters: {'rsi_period': 14, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 200, 'counter_trend_factor': 1.5, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 2}[0m
+[32m2025-05-09 23:30:22[0m - [34mdashboard[0m - [1;30mINFO[0m - [32mGenerated dashboard script: C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data_files\dashboard\dashboard_app.py[0m
+[32m2025-05-09 23:30:22[0m - [34mmain[0m - [1;30mINFO[0m - [32mInitialized trading bot for EUR/USD (1h)[0m
+[32m2025-05-09 23:30:22[0m - [34mdashboard[0m - [1;30mINFO[0m - [32mDashboard server stopped[0m
+[32m2025-05-09 23:30:22[0m - [34mdashboard[0m - [1;30mINFO[0m - [32mStarting dashboard server on port 8501[0m
+[32m2025-05-09 23:30:24[0m - [34mdashboard[0m - [1;30mERROR[0m - [31mDashboard server failed to start: 2025-05-09 23:30:23.869 Port 8501 is already in use
+[0m
+[32m2025-05-09 23:30:24[0m - [34mdashboard[0m - [1;30mINFO[0m - [32mDashboard server started on http://localhost:8501[0m
+[32m2025-05-09 23:30:24[0m - [34mmain[0m - [1;30mINFO[0m - [32mStarting optimization for hybrid_voting[0m
+[32m2025-05-09 23:30:24[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.6, 'minimum_confirmation': 0.5, 'position_sizing_factor': 1.0, 'profit_target': 0.006, 'stop_loss': 0.003, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.0015, 'atr_filter_period': 14, 'atr_filter_multiplier': 1.0, 'volatility_filter': True}[0m
+[32m2025-05-09 23:30:24[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 10, 'slow_ma_period': 50, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.005, 'stop_loss': 0.003, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.0015}[0m
+[32m2025-05-09 23:30:24[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized RSI Mean Reversion strategy with parameters: {'rsi_period': 14, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 200, 'counter_trend_factor': 1.5, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 2}[0m
+[32m2025-05-09 23:30:24[0m - [34moptimizer[0m - [1;30mINFO[0m - [32mInitialized Walk-Forward Optimizer for hybrid_voting[0m
+[32m2025-05-09 23:30:24[0m - [34moptimizer[0m - [1;30mINFO[0m - [32mStarting walk-forward optimization[0m
+[32m2025-05-09 23:30:24[0m - [34moptimizer[0m - [1;30mINFO[0m - [32mProcessing window 3[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mFetching time series data for EURUSD (1h)[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mAPI error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mFailed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mWARNING[0m - [33mFailed to get data from API, generating synthetic data[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mGenerating synthetic data for EUR/USD from 2024-11-10 to 2025-02-08[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data\market_data.py:308: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  date_range = pd.date_range(start=start, end=end, freq=self._get_pandas_freq())
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mFetching time series data for EURUSD (1h)[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mAPI error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mFailed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mWARNING[0m - [33mFailed to get data from API, generating synthetic data[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mGenerating synthetic data for EUR/USD from 2025-02-08 to 2025-03-10[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data\market_data.py:308: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  date_range = pd.date_range(start=start, end=end, freq=self._get_pandas_freq())
+[32m2025-05-09 23:30:24[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized Hybrid Voting strategy with parameters: {'ma_crossover_weight': 1.0, 'rsi_mean_reversion_weight': 1.0, 'voting_threshold': 0.6, 'minimum_confirmation': 0.5, 'position_sizing_factor': 1.0, 'profit_target': 0.006, 'stop_loss': 0.003, 'trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.0015, 'atr_filter_period': 14, 'atr_filter_multiplier': 1.0, 'volatility_filter': True}[0m
+[32m2025-05-09 23:30:24[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized Moving Average Crossover strategy with parameters: {'fast_ma_period': 10, 'slow_ma_period': 50, 'ma_type': 'EMA', 'signal_threshold': 0.0, 'exit_after_bars': 20, 'profit_target': 0.005, 'stop_loss': 0.003, 'enable_trailing_stop': True, 'trailing_stop_activation': 0.002, 'trailing_stop_distance': 0.0015}[0m
+[32m2025-05-09 23:30:24[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mInitialized RSI Mean Reversion strategy with parameters: {'rsi_period': 14, 'overbought_threshold': 70, 'oversold_threshold': 30, 'mean_period': 200, 'counter_trend_factor': 1.5, 'exit_rsi_level': 50, 'profit_target': 0.004, 'stop_loss': 0.002, 'max_holding_period': 15, 'confirmation_candles': 2}[0m
+[32m2025-05-09 23:30:24[0m - [34moptimizer[0m - [1;30mINFO[0m - [32mInitialized optimizer for hybrid_voting strategy[0m
+[32m2025-05-09 23:30:24[0m - [34moptimizer[0m - [1;30mINFO[0m - [32mStarting optimization for hybrid_voting with 50 trials[0m
+[I 2025-05-09 23:30:24,765] A new study created in memory with name: hybrid_voting_wfo_3
+[32m2025-05-09 23:30:24[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.8, 'profit_target': 0.007, 'stop_loss': 0.0015}[0m
+[32m2025-05-09 23:30:24[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Moving Average Crossover strategy parameters: {'weight': 0.8}[0m
+[32m2025-05-09 23:30:24[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated RSI Mean Reversion strategy parameters: {'weight': 2.0}[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mFetching time series data for EURUSD (1h)[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mAPI error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mFailed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mWARNING[0m - [33mFailed to get data from API, generating synthetic data[0m
+[32m2025-05-09 23:30:24[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mGenerating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data\market_data.py:308: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  date_range = pd.date_range(start=start, end=end, freq=self._get_pandas_freq())
+[32m2025-05-09 23:30:24[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExecutionSimulator initialized with 10000.00 capital[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\strategies\ma_crossover.py:91: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '[        nan -1.00049192  1.00072084 -1.00069872  1.00131373 -1.00207588
+  1.00154638 -1.00188271  1.00216947 -1.00087573  1.00216379 -1.00109362
+  1.00110253 -1.00087722  1.00045039 -1.00020968  1.00058084 -1.00001543
+  1.00118043 -1.00107599  1.00139767 -1.00013497  1.00051117 -1.0012636
+  1.00078489 -1.00043344  1.00032217 -1.00289517  1.00098114 -1.00053795
+  1.00034988 -1.00388273  1.00244554 -1.00046085  1.00176144 -1.00093827
+  1.00036977 -1.00012995  1.00133366 -1.00110674  1.00294842 -1.00092688
+  1.00030924 -1.00077335  1.00075594 -1.00209668  1.00165511 -1.00176063
+  1.00106756 -1.00042901  1.0001837  -1.00235074  1.00140704 -1.00128678
+  1.00003306 -1.00123322  1.00169787 -1.00257375  1.00178085 -1.00221601
+  1.00302688 -1.00120723  1.00065249 -1.00261524  1.00014632 -1.00251657
+  1.00024078 -1.00061367  1.00107747 -1.00098687  1.00151674 -1.00117852
+  1.00181736 -1.00094546  1.00018091 -1.00125195  1.00080419 -1.00036366
+  1.00170953 -1.00104406  1.00099424 -1.00065609  1.0006438  -1.00021759
+  1.00176408 -1.00050602  1.00028913 -1.00120026  1.00073136 -1.0015679
+  1.00072468 -1.00107043  1.00142957 -1.00137191  1.00133596 -1.00124848
+  1.00008021 -1.00158581  1.00202836 -1.00073972  1.00281246 -1.00040955
+  1.00155081 -1.00082357  1.00103882 -1.00144385  1.00054888 -1.00059834
+  1.00011021 -1.00102218  1.00217129 -1.00141576  1.00090404 -1.00055744
+  1.00013486 -1.00168517  1.00046834 -1.00145011  1.0012147  -1.00106264
+  1.00118506 -1.00183439  1.00012395 -1.0003019   1.00361925 -1.00153849
+  1.00119162 -1.00072361  1.00025732 -1.00013951  1.00042779 -1.00088763
+  1.00041368 -1.00073044  1.00075328 -1.0000515   1.00006687 -1.00060458
+  1.00069789 -1.00108988  1.00075448 -1.00000928  1.00031432 -1.0016933
+  1.00169832 -1.00022347  1.00028739 -1.00044787  1.00021574 -1.00138002
+  1.00173279 -1.0004682   1.00157731 -1.00142273  1.00207336 -1.00198908
+  1.00118955 -1.00198131  1.00262831 -1.00180441  1.00289488 -1.00253097
+  1.00163251 -1.00041557  1.00061208 -1.00111653  1.00049792 -1.00057042
+  1.00174188 -1.00051351  1.0011336  -1.00075513  1.00045049 -1.00077832
+  1.00038819 -1.00026508  1.00095387 -1.00027776  1.00136686 -1.00181211
+  1.00063673 -1.00277751  1.00111419 -1.00149709  1.00060888 -1.00066217
+  1.00145679 -1.00218846  1.00155369 -1.0003375   1.00105619 -1.0008415
+  1.00032416 -1.00033419  1.00216105 -1.00177548  1.00061277 -1.00203988
+  1.00064552 -1.00179943  1.00023407 -1.00157658  1.00075336 -1.0001077
+  1.00005955 -1.00219689  1.00017163 -1.00161981  1.00088724 -1.00117473
+  1.00192126 -1.00094833  1.00125726 -1.00007144  1.00167327 -1.00129811
+  1.00137158 -1.00182236  1.00020944 -1.00063966  1.00170866 -1.00084505
+  1.00058306 -1.00024116  1.00135891 -1.00075316  1.00072853 -1.00146169
+  1.00020535 -1.00000859  1.0020485  -1.00173696  1.00062089 -1.00311333
+  1.00001125 -1.00002119  1.00026418 -1.00067557  1.00099287 -1.00094959
+  1.00129528 -1.00274517  1.00226841 -1.00017353  1.0001899  -1.00095123
+  1.00077812 -1.0003691   1.00030285 -1.00071172  1.00102976 -1.00043325
+  1.002208   -1.00084899  1.00069502 -1.00007208  1.00195493 -1.00194794
+  1.00134379 -1.0016184   1.00212439 -1.00048102  1.00200999 -1.00204385
+  1.00085199 -1.00004643  1.00174876 -1.00002236  1.00003586 -1.00191243
+  1.00057358 -1.00303087  1.00187139 -1.00028297  1.00039731 -1.00155253
+  1.00013076 -1.00040148  1.0010751  -1.00005982  1.00056518 -1.00015758
+  1.00077386 -1.00124586  1.00086559 -1.00082898  1.00061113 -1.00068997
+  1.0022817  -1.00185597  1.00174948 -1.00161785  1.00096312 -1.00203059
+  1.00112492 -1.00208649  1.00112383 -1.00091285  1.00232392 -1.00161351
+  1.00018854 -1.00125729  1.00274393 -1.00148802  1.00278602 -1.00127291
+  1.00047873 -1.00148422]' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  df.loc[df['signal'] != 0, 'signal'] = df.loc[df['signal'] != 0, 'signal'] * (
+[32m2025-05-09 23:30:25[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:25[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:26[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:26[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:27[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:27[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:29[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:29[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:30[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:31[0m - [34msimulator[0m - [1;30mINFO[0m - [32mBacktest completed: 0 trades, 0.00 USD profit[0m
+[I 2025-05-09 23:30:31,451] Trial 0 finished with value: -inf and parameters: {'ma_crossover_weight': 0.8, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.8, 'profit_target': 0.007, 'stop_loss': 0.0015}. Best is trial 0 with value: -inf.
+[32m2025-05-09 23:30:31[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.8500000000000001, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}[0m
+[32m2025-05-09 23:30:31[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Moving Average Crossover strategy parameters: {'weight': 0.4}[0m
+[32m2025-05-09 23:30:31[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated RSI Mean Reversion strategy parameters: {'weight': 0.2}[0m
+[32m2025-05-09 23:30:31[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mFetching time series data for EURUSD (1h)[0m
+[32m2025-05-09 23:30:31[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mAPI error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:31[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mFailed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:31[0m - [34mmarket_data[0m - [1;30mWARNING[0m - [33mFailed to get data from API, generating synthetic data[0m
+[32m2025-05-09 23:30:31[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mGenerating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data\market_data.py:308: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  date_range = pd.date_range(start=start, end=end, freq=self._get_pandas_freq())
+[32m2025-05-09 23:30:31[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExecutionSimulator initialized with 10000.00 capital[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\strategies\ma_crossover.py:91: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '[        nan -1.00049192  1.00072084 -1.00069872  1.00131373 -1.00207588
+  1.00154638 -1.00188271  1.00216947 -1.00087573  1.00216379 -1.00109362
+  1.00110253 -1.00087722  1.00045039 -1.00020968  1.00058084 -1.00001543
+  1.00118043 -1.00107599  1.00139767 -1.00013497  1.00051117 -1.0012636
+  1.00078489 -1.00043344  1.00032217 -1.00289517  1.00098114 -1.00053795
+  1.00034988 -1.00388273  1.00244554 -1.00046085  1.00176144 -1.00093827
+  1.00036977 -1.00012995  1.00133366 -1.00110674  1.00294842 -1.00092688
+  1.00030924 -1.00077335  1.00075594 -1.00209668  1.00165511 -1.00176063
+  1.00106756 -1.00042901  1.0001837  -1.00235074  1.00140704 -1.00128678
+  1.00003306 -1.00123322  1.00169787 -1.00257375  1.00178085 -1.00221601
+  1.00302688 -1.00120723  1.00065249 -1.00261524  1.00014632 -1.00251657
+  1.00024078 -1.00061367  1.00107747 -1.00098687  1.00151674 -1.00117852
+  1.00181736 -1.00094546  1.00018091 -1.00125195  1.00080419 -1.00036366
+  1.00170953 -1.00104406  1.00099424 -1.00065609  1.0006438  -1.00021759
+  1.00176408 -1.00050602  1.00028913 -1.00120026  1.00073136 -1.0015679
+  1.00072468 -1.00107043  1.00142957 -1.00137191  1.00133596 -1.00124848
+  1.00008021 -1.00158581  1.00202836 -1.00073972  1.00281246 -1.00040955
+  1.00155081 -1.00082357  1.00103882 -1.00144385  1.00054888 -1.00059834
+  1.00011021 -1.00102218  1.00217129 -1.00141576  1.00090404 -1.00055744
+  1.00013486 -1.00168517  1.00046834 -1.00145011  1.0012147  -1.00106264
+  1.00118506 -1.00183439  1.00012395 -1.0003019   1.00361925 -1.00153849
+  1.00119162 -1.00072361  1.00025732 -1.00013951  1.00042779 -1.00088763
+  1.00041368 -1.00073044  1.00075328 -1.0000515   1.00006687 -1.00060458
+  1.00069789 -1.00108988  1.00075448 -1.00000928  1.00031432 -1.0016933
+  1.00169832 -1.00022347  1.00028739 -1.00044787  1.00021574 -1.00138002
+  1.00173279 -1.0004682   1.00157731 -1.00142273  1.00207336 -1.00198908
+  1.00118955 -1.00198131  1.00262831 -1.00180441  1.00289488 -1.00253097
+  1.00163251 -1.00041557  1.00061208 -1.00111653  1.00049792 -1.00057042
+  1.00174188 -1.00051351  1.0011336  -1.00075513  1.00045049 -1.00077832
+  1.00038819 -1.00026508  1.00095387 -1.00027776  1.00136686 -1.00181211
+  1.00063673 -1.00277751  1.00111419 -1.00149709  1.00060888 -1.00066217
+  1.00145679 -1.00218846  1.00155369 -1.0003375   1.00105619 -1.0008415
+  1.00032416 -1.00033419  1.00216105 -1.00177548  1.00061277 -1.00203988
+  1.00064552 -1.00179943  1.00023407 -1.00157658  1.00075336 -1.0001077
+  1.00005955 -1.00219689  1.00017163 -1.00161981  1.00088724 -1.00117473
+  1.00192126 -1.00094833  1.00125726 -1.00007144  1.00167327 -1.00129811
+  1.00137158 -1.00182236  1.00020944 -1.00063966  1.00170866 -1.00084505
+  1.00058306 -1.00024116  1.00135891 -1.00075316  1.00072853 -1.00146169
+  1.00020535 -1.00000859  1.0020485  -1.00173696  1.00062089 -1.00311333
+  1.00001125 -1.00002119  1.00026418 -1.00067557  1.00099287 -1.00094959
+  1.00129528 -1.00274517  1.00226841 -1.00017353  1.0001899  -1.00095123
+  1.00077812 -1.0003691   1.00030285 -1.00071172  1.00102976 -1.00043325
+  1.002208   -1.00084899  1.00069502 -1.00007208  1.00195493 -1.00194794
+  1.00134379 -1.0016184   1.00212439 -1.00048102  1.00200999 -1.00204385
+  1.00085199 -1.00004643  1.00174876 -1.00002236  1.00003586 -1.00191243
+  1.00057358 -1.00303087  1.00187139 -1.00028297  1.00039731 -1.00155253
+  1.00013076 -1.00040148  1.0010751  -1.00005982  1.00056518 -1.00015758
+  1.00077386 -1.00124586  1.00086559 -1.00082898  1.00061113 -1.00068997
+  1.0022817  -1.00185597  1.00174948 -1.00161785  1.00096312 -1.00203059
+  1.00112492 -1.00208649  1.00112383 -1.00091285  1.00232392 -1.00161351
+  1.00018854 -1.00125729  1.00274393 -1.00148802  1.00278602 -1.00127291
+  1.00047873 -1.00148422]' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  df.loc[df['signal'] != 0, 'signal'] = df.loc[df['signal'] != 0, 'signal'] * (
+[32m2025-05-09 23:30:31[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:32[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:32[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:33[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:33[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:34[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:36[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:36[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:37[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:38[0m - [34msimulator[0m - [1;30mINFO[0m - [32mBacktest completed: 0 trades, 0.00 USD profit[0m
+[I 2025-05-09 23:30:38,498] Trial 1 finished with value: -inf and parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.2, 'voting_threshold': 0.8500000000000001, 'profit_target': 0.007, 'stop_loss': 0.0045000000000000005}. Best is trial 0 with value: -inf.
+[32m2025-05-09 23:30:38[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.1, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.8500000000000001, 'profit_target': 0.004, 'stop_loss': 0.002}[0m
+[32m2025-05-09 23:30:38[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Moving Average Crossover strategy parameters: {'weight': 0.1}[0m
+[32m2025-05-09 23:30:38[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated RSI Mean Reversion strategy parameters: {'weight': 2.0}[0m
+[32m2025-05-09 23:30:38[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mFetching time series data for EURUSD (1h)[0m
+[32m2025-05-09 23:30:38[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mAPI error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:38[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mFailed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:38[0m - [34mmarket_data[0m - [1;30mWARNING[0m - [33mFailed to get data from API, generating synthetic data[0m
+[32m2025-05-09 23:30:38[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mGenerating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data\market_data.py:308: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  date_range = pd.date_range(start=start, end=end, freq=self._get_pandas_freq())
+[32m2025-05-09 23:30:38[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExecutionSimulator initialized with 10000.00 capital[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\strategies\ma_crossover.py:91: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '[        nan -1.00049192  1.00072084 -1.00069872  1.00131373 -1.00207588
+  1.00154638 -1.00188271  1.00216947 -1.00087573  1.00216379 -1.00109362
+  1.00110253 -1.00087722  1.00045039 -1.00020968  1.00058084 -1.00001543
+  1.00118043 -1.00107599  1.00139767 -1.00013497  1.00051117 -1.0012636
+  1.00078489 -1.00043344  1.00032217 -1.00289517  1.00098114 -1.00053795
+  1.00034988 -1.00388273  1.00244554 -1.00046085  1.00176144 -1.00093827
+  1.00036977 -1.00012995  1.00133366 -1.00110674  1.00294842 -1.00092688
+  1.00030924 -1.00077335  1.00075594 -1.00209668  1.00165511 -1.00176063
+  1.00106756 -1.00042901  1.0001837  -1.00235074  1.00140704 -1.00128678
+  1.00003306 -1.00123322  1.00169787 -1.00257375  1.00178085 -1.00221601
+  1.00302688 -1.00120723  1.00065249 -1.00261524  1.00014632 -1.00251657
+  1.00024078 -1.00061367  1.00107747 -1.00098687  1.00151674 -1.00117852
+  1.00181736 -1.00094546  1.00018091 -1.00125195  1.00080419 -1.00036366
+  1.00170953 -1.00104406  1.00099424 -1.00065609  1.0006438  -1.00021759
+  1.00176408 -1.00050602  1.00028913 -1.00120026  1.00073136 -1.0015679
+  1.00072468 -1.00107043  1.00142957 -1.00137191  1.00133596 -1.00124848
+  1.00008021 -1.00158581  1.00202836 -1.00073972  1.00281246 -1.00040955
+  1.00155081 -1.00082357  1.00103882 -1.00144385  1.00054888 -1.00059834
+  1.00011021 -1.00102218  1.00217129 -1.00141576  1.00090404 -1.00055744
+  1.00013486 -1.00168517  1.00046834 -1.00145011  1.0012147  -1.00106264
+  1.00118506 -1.00183439  1.00012395 -1.0003019   1.00361925 -1.00153849
+  1.00119162 -1.00072361  1.00025732 -1.00013951  1.00042779 -1.00088763
+  1.00041368 -1.00073044  1.00075328 -1.0000515   1.00006687 -1.00060458
+  1.00069789 -1.00108988  1.00075448 -1.00000928  1.00031432 -1.0016933
+  1.00169832 -1.00022347  1.00028739 -1.00044787  1.00021574 -1.00138002
+  1.00173279 -1.0004682   1.00157731 -1.00142273  1.00207336 -1.00198908
+  1.00118955 -1.00198131  1.00262831 -1.00180441  1.00289488 -1.00253097
+  1.00163251 -1.00041557  1.00061208 -1.00111653  1.00049792 -1.00057042
+  1.00174188 -1.00051351  1.0011336  -1.00075513  1.00045049 -1.00077832
+  1.00038819 -1.00026508  1.00095387 -1.00027776  1.00136686 -1.00181211
+  1.00063673 -1.00277751  1.00111419 -1.00149709  1.00060888 -1.00066217
+  1.00145679 -1.00218846  1.00155369 -1.0003375   1.00105619 -1.0008415
+  1.00032416 -1.00033419  1.00216105 -1.00177548  1.00061277 -1.00203988
+  1.00064552 -1.00179943  1.00023407 -1.00157658  1.00075336 -1.0001077
+  1.00005955 -1.00219689  1.00017163 -1.00161981  1.00088724 -1.00117473
+  1.00192126 -1.00094833  1.00125726 -1.00007144  1.00167327 -1.00129811
+  1.00137158 -1.00182236  1.00020944 -1.00063966  1.00170866 -1.00084505
+  1.00058306 -1.00024116  1.00135891 -1.00075316  1.00072853 -1.00146169
+  1.00020535 -1.00000859  1.0020485  -1.00173696  1.00062089 -1.00311333
+  1.00001125 -1.00002119  1.00026418 -1.00067557  1.00099287 -1.00094959
+  1.00129528 -1.00274517  1.00226841 -1.00017353  1.0001899  -1.00095123
+  1.00077812 -1.0003691   1.00030285 -1.00071172  1.00102976 -1.00043325
+  1.002208   -1.00084899  1.00069502 -1.00007208  1.00195493 -1.00194794
+  1.00134379 -1.0016184   1.00212439 -1.00048102  1.00200999 -1.00204385
+  1.00085199 -1.00004643  1.00174876 -1.00002236  1.00003586 -1.00191243
+  1.00057358 -1.00303087  1.00187139 -1.00028297  1.00039731 -1.00155253
+  1.00013076 -1.00040148  1.0010751  -1.00005982  1.00056518 -1.00015758
+  1.00077386 -1.00124586  1.00086559 -1.00082898  1.00061113 -1.00068997
+  1.0022817  -1.00185597  1.00174948 -1.00161785  1.00096312 -1.00203059
+  1.00112492 -1.00208649  1.00112383 -1.00091285  1.00232392 -1.00161351
+  1.00018854 -1.00125729  1.00274393 -1.00148802  1.00278602 -1.00127291
+  1.00047873 -1.00148422]' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  df.loc[df['signal'] != 0, 'signal'] = df.loc[df['signal'] != 0, 'signal'] * (
+[32m2025-05-09 23:30:38[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:39[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:39[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:42[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:42[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:42[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:46[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:47[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:47[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:50[0m - [34msimulator[0m - [1;30mINFO[0m - [32mBacktest completed: 0 trades, 0.00 USD profit[0m
+[I 2025-05-09 23:30:50,288] Trial 2 finished with value: -inf and parameters: {'ma_crossover_weight': 0.1, 'rsi_mean_reversion_weight': 2.0, 'voting_threshold': 0.8500000000000001, 'profit_target': 0.004, 'stop_loss': 0.002}. Best is trial 0 with value: -inf.
+[32m2025-05-09 23:30:50[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Hybrid Voting strategy parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.7, 'profit_target': 0.006, 'stop_loss': 0.0025}[0m
+[32m2025-05-09 23:30:50[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Moving Average Crossover strategy parameters: {'weight': 0.4}[0m
+[32m2025-05-09 23:30:50[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated RSI Mean Reversion strategy parameters: {'weight': 0.7000000000000001}[0m
+[32m2025-05-09 23:30:50[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mFetching time series data for EURUSD (1h)[0m
+[32m2025-05-09 23:30:50[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mAPI error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:50[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mFailed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:50[0m - [34mmarket_data[0m - [1;30mWARNING[0m - [33mFailed to get data from API, generating synthetic data[0m
+[32m2025-05-09 23:30:50[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mGenerating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data\market_data.py:308: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  date_range = pd.date_range(start=start, end=end, freq=self._get_pandas_freq())
+[32m2025-05-09 23:30:50[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExecutionSimulator initialized with 10000.00 capital[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\strategies\ma_crossover.py:91: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '[        nan -1.00049192  1.00072084 -1.00069872  1.00131373 -1.00207588
+  1.00154638 -1.00188271  1.00216947 -1.00087573  1.00216379 -1.00109362
+  1.00110253 -1.00087722  1.00045039 -1.00020968  1.00058084 -1.00001543
+  1.00118043 -1.00107599  1.00139767 -1.00013497  1.00051117 -1.0012636
+  1.00078489 -1.00043344  1.00032217 -1.00289517  1.00098114 -1.00053795
+  1.00034988 -1.00388273  1.00244554 -1.00046085  1.00176144 -1.00093827
+  1.00036977 -1.00012995  1.00133366 -1.00110674  1.00294842 -1.00092688
+  1.00030924 -1.00077335  1.00075594 -1.00209668  1.00165511 -1.00176063
+  1.00106756 -1.00042901  1.0001837  -1.00235074  1.00140704 -1.00128678
+  1.00003306 -1.00123322  1.00169787 -1.00257375  1.00178085 -1.00221601
+  1.00302688 -1.00120723  1.00065249 -1.00261524  1.00014632 -1.00251657
+  1.00024078 -1.00061367  1.00107747 -1.00098687  1.00151674 -1.00117852
+  1.00181736 -1.00094546  1.00018091 -1.00125195  1.00080419 -1.00036366
+  1.00170953 -1.00104406  1.00099424 -1.00065609  1.0006438  -1.00021759
+  1.00176408 -1.00050602  1.00028913 -1.00120026  1.00073136 -1.0015679
+  1.00072468 -1.00107043  1.00142957 -1.00137191  1.00133596 -1.00124848
+  1.00008021 -1.00158581  1.00202836 -1.00073972  1.00281246 -1.00040955
+  1.00155081 -1.00082357  1.00103882 -1.00144385  1.00054888 -1.00059834
+  1.00011021 -1.00102218  1.00217129 -1.00141576  1.00090404 -1.00055744
+  1.00013486 -1.00168517  1.00046834 -1.00145011  1.0012147  -1.00106264
+  1.00118506 -1.00183439  1.00012395 -1.0003019   1.00361925 -1.00153849
+  1.00119162 -1.00072361  1.00025732 -1.00013951  1.00042779 -1.00088763
+  1.00041368 -1.00073044  1.00075328 -1.0000515   1.00006687 -1.00060458
+  1.00069789 -1.00108988  1.00075448 -1.00000928  1.00031432 -1.0016933
+  1.00169832 -1.00022347  1.00028739 -1.00044787  1.00021574 -1.00138002
+  1.00173279 -1.0004682   1.00157731 -1.00142273  1.00207336 -1.00198908
+  1.00118955 -1.00198131  1.00262831 -1.00180441  1.00289488 -1.00253097
+  1.00163251 -1.00041557  1.00061208 -1.00111653  1.00049792 -1.00057042
+  1.00174188 -1.00051351  1.0011336  -1.00075513  1.00045049 -1.00077832
+  1.00038819 -1.00026508  1.00095387 -1.00027776  1.00136686 -1.00181211
+  1.00063673 -1.00277751  1.00111419 -1.00149709  1.00060888 -1.00066217
+  1.00145679 -1.00218846  1.00155369 -1.0003375   1.00105619 -1.0008415
+  1.00032416 -1.00033419  1.00216105 -1.00177548  1.00061277 -1.00203988
+  1.00064552 -1.00179943  1.00023407 -1.00157658  1.00075336 -1.0001077
+  1.00005955 -1.00219689  1.00017163 -1.00161981  1.00088724 -1.00117473
+  1.00192126 -1.00094833  1.00125726 -1.00007144  1.00167327 -1.00129811
+  1.00137158 -1.00182236  1.00020944 -1.00063966  1.00170866 -1.00084505
+  1.00058306 -1.00024116  1.00135891 -1.00075316  1.00072853 -1.00146169
+  1.00020535 -1.00000859  1.0020485  -1.00173696  1.00062089 -1.00311333
+  1.00001125 -1.00002119  1.00026418 -1.00067557  1.00099287 -1.00094959
+  1.00129528 -1.00274517  1.00226841 -1.00017353  1.0001899  -1.00095123
+  1.00077812 -1.0003691   1.00030285 -1.00071172  1.00102976 -1.00043325
+  1.002208   -1.00084899  1.00069502 -1.00007208  1.00195493 -1.00194794
+  1.00134379 -1.0016184   1.00212439 -1.00048102  1.00200999 -1.00204385
+  1.00085199 -1.00004643  1.00174876 -1.00002236  1.00003586 -1.00191243
+  1.00057358 -1.00303087  1.00187139 -1.00028297  1.00039731 -1.00155253
+  1.00013076 -1.00040148  1.0010751  -1.00005982  1.00056518 -1.00015758
+  1.00077386 -1.00124586  1.00086559 -1.00082898  1.00061113 -1.00068997
+  1.0022817  -1.00185597  1.00174948 -1.00161785  1.00096312 -1.00203059
+  1.00112492 -1.00208649  1.00112383 -1.00091285  1.00232392 -1.00161351
+  1.00018854 -1.00125729  1.00274393 -1.00148802  1.00278602 -1.00127291
+  1.00047873 -1.00148422]' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  df.loc[df['signal'] != 0, 'signal'] = df.loc[df['signal'] != 0, 'signal'] * (
+[32m2025-05-09 23:30:51[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:51[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:51[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:53[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:53[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:53[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:56[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:56[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:57[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:30:58[0m - [34msimulator[0m - [1;30mINFO[0m - [32mBacktest completed: 0 trades, 0.00 USD profit[0m
+[I 2025-05-09 23:30:58,006] Trial 3 finished with value: -inf and parameters: {'ma_crossover_weight': 0.4, 'rsi_mean_reversion_weight': 0.7000000000000001, 'voting_threshold': 0.7, 'profit_target': 0.006, 'stop_loss': 0.0025}. Best is trial 0 with value: -inf.
+[32m2025-05-09 23:30:58[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Hybrid Voting strategy parameters: {'ma_crossover_weight': 1.3000000000000003, 'rsi_mean_reversion_weight': 0.30000000000000004, 'voting_threshold': 0.6, 'profit_target': 0.005, 'stop_loss': 0.0035}[0m
+[32m2025-05-09 23:30:58[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated Moving Average Crossover strategy parameters: {'weight': 1.3000000000000003}[0m
+[32m2025-05-09 23:30:58[0m - [34mstrategy[0m - [1;30mINFO[0m - [32mUpdated RSI Mean Reversion strategy parameters: {'weight': 0.30000000000000004}[0m
+[32m2025-05-09 23:30:58[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mFetching time series data for EURUSD (1h)[0m
+[32m2025-05-09 23:30:58[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mAPI error: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:58[0m - [34mmarket_data[0m - [1;30mERROR[0m - [31mFailed to get time series data: **symbol** or **figi** parameter is missing or invalid. Please provide a valid symbol according to API documentation: https://twelvedata.com/docs#reference-data[0m
+[32m2025-05-09 23:30:58[0m - [34mmarket_data[0m - [1;30mWARNING[0m - [33mFailed to get data from API, generating synthetic data[0m
+[32m2025-05-09 23:30:58[0m - [34mmarket_data[0m - [1;30mINFO[0m - [32mGenerating synthetic data for EUR/USD from 2025-02-08 to 2025-05-09[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\data\market_data.py:308: FutureWarning: 'H' is deprecated and will be removed in a future version, please use 'h' instead.
+  date_range = pd.date_range(start=start, end=end, freq=self._get_pandas_freq())
+[32m2025-05-09 23:30:58[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExecutionSimulator initialized with 10000.00 capital[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\strategies\ma_crossover.py:91: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '[        nan -1.00049192  1.00072084 -1.00069872  1.00131373 -1.00207588
+  1.00154638 -1.00188271  1.00216947 -1.00087573  1.00216379 -1.00109362
+  1.00110253 -1.00087722  1.00045039 -1.00020968  1.00058084 -1.00001543
+  1.00118043 -1.00107599  1.00139767 -1.00013497  1.00051117 -1.0012636
+  1.00078489 -1.00043344  1.00032217 -1.00289517  1.00098114 -1.00053795
+  1.00034988 -1.00388273  1.00244554 -1.00046085  1.00176144 -1.00093827
+  1.00036977 -1.00012995  1.00133366 -1.00110674  1.00294842 -1.00092688
+  1.00030924 -1.00077335  1.00075594 -1.00209668  1.00165511 -1.00176063
+  1.00106756 -1.00042901  1.0001837  -1.00235074  1.00140704 -1.00128678
+  1.00003306 -1.00123322  1.00169787 -1.00257375  1.00178085 -1.00221601
+  1.00302688 -1.00120723  1.00065249 -1.00261524  1.00014632 -1.00251657
+  1.00024078 -1.00061367  1.00107747 -1.00098687  1.00151674 -1.00117852
+  1.00181736 -1.00094546  1.00018091 -1.00125195  1.00080419 -1.00036366
+  1.00170953 -1.00104406  1.00099424 -1.00065609  1.0006438  -1.00021759
+  1.00176408 -1.00050602  1.00028913 -1.00120026  1.00073136 -1.0015679
+  1.00072468 -1.00107043  1.00142957 -1.00137191  1.00133596 -1.00124848
+  1.00008021 -1.00158581  1.00202836 -1.00073972  1.00281246 -1.00040955
+  1.00155081 -1.00082357  1.00103882 -1.00144385  1.00054888 -1.00059834
+  1.00011021 -1.00102218  1.00217129 -1.00141576  1.00090404 -1.00055744
+  1.00013486 -1.00168517  1.00046834 -1.00145011  1.0012147  -1.00106264
+  1.00118506 -1.00183439  1.00012395 -1.0003019   1.00361925 -1.00153849
+  1.00119162 -1.00072361  1.00025732 -1.00013951  1.00042779 -1.00088763
+  1.00041368 -1.00073044  1.00075328 -1.0000515   1.00006687 -1.00060458
+  1.00069789 -1.00108988  1.00075448 -1.00000928  1.00031432 -1.0016933
+  1.00169832 -1.00022347  1.00028739 -1.00044787  1.00021574 -1.00138002
+  1.00173279 -1.0004682   1.00157731 -1.00142273  1.00207336 -1.00198908
+  1.00118955 -1.00198131  1.00262831 -1.00180441  1.00289488 -1.00253097
+  1.00163251 -1.00041557  1.00061208 -1.00111653  1.00049792 -1.00057042
+  1.00174188 -1.00051351  1.0011336  -1.00075513  1.00045049 -1.00077832
+  1.00038819 -1.00026508  1.00095387 -1.00027776  1.00136686 -1.00181211
+  1.00063673 -1.00277751  1.00111419 -1.00149709  1.00060888 -1.00066217
+  1.00145679 -1.00218846  1.00155369 -1.0003375   1.00105619 -1.0008415
+  1.00032416 -1.00033419  1.00216105 -1.00177548  1.00061277 -1.00203988
+  1.00064552 -1.00179943  1.00023407 -1.00157658  1.00075336 -1.0001077
+  1.00005955 -1.00219689  1.00017163 -1.00161981  1.00088724 -1.00117473
+  1.00192126 -1.00094833  1.00125726 -1.00007144  1.00167327 -1.00129811
+  1.00137158 -1.00182236  1.00020944 -1.00063966  1.00170866 -1.00084505
+  1.00058306 -1.00024116  1.00135891 -1.00075316  1.00072853 -1.00146169
+  1.00020535 -1.00000859  1.0020485  -1.00173696  1.00062089 -1.00311333
+  1.00001125 -1.00002119  1.00026418 -1.00067557  1.00099287 -1.00094959
+  1.00129528 -1.00274517  1.00226841 -1.00017353  1.0001899  -1.00095123
+  1.00077812 -1.0003691   1.00030285 -1.00071172  1.00102976 -1.00043325
+  1.002208   -1.00084899  1.00069502 -1.00007208  1.00195493 -1.00194794
+  1.00134379 -1.0016184   1.00212439 -1.00048102  1.00200999 -1.00204385
+  1.00085199 -1.00004643  1.00174876 -1.00002236  1.00003586 -1.00191243
+  1.00057358 -1.00303087  1.00187139 -1.00028297  1.00039731 -1.00155253
+  1.00013076 -1.00040148  1.0010751  -1.00005982  1.00056518 -1.00015758
+  1.00077386 -1.00124586  1.00086559 -1.00082898  1.00061113 -1.00068997
+  1.0022817  -1.00185597  1.00174948 -1.00161785  1.00096312 -1.00203059
+  1.00112492 -1.00208649  1.00112383 -1.00091285  1.00232392 -1.00161351
+  1.00018854 -1.00125729  1.00274393 -1.00148802  1.00278602 -1.00127291
+  1.00047873 -1.00148422]' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  df.loc[df['signal'] != 0, 'signal'] = df.loc[df['signal'] != 0, 'signal'] * (
+[32m2025-05-09 23:30:58[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:30:58[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:30:59[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:31:00[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:31:00[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:31:01[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+C:\Users\jenso\OneDrive\Desktop\desktop 3\AHK\AI TRADING ALGO\strategies\hybrid_voting.py:118: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '[0.81308568 0.8135674  0.81289968 0.81306771 0.81418666 0.81308568
+ 0.8135674  0.81375644 0.8142627  0.81289968 0.81306771 0.81425808
+ 0.81402971 0.8133958  0.81418666 0.81308568 0.81321153 0.8135674
+ 0.81338856 0.8142627  0.81286594 0.81297193 0.81306771 0.8134591
+ 0.81425808 0.81321274 0.81267036 0.81418666 0.81363561 0.81291532
+ 0.81337424 0.81338856 0.8142627  0.81313772 0.81276176 0.81297193
+ 0.81306771 0.81260966 0.81425808 0.81352667 0.81329717 0.81278427
+ 0.81285217 0.81418666 0.81363561 0.81485232 0.81291532 0.81337424
+ 0.81293709 0.81313772 0.814487   0.81276176 0.81297193 0.81306771
+ 0.81393117 0.81425808 0.81565472 0.81329717 0.81278427 0.81280043
+ 0.8135836  0.81287444 0.81363561 0.81485232 0.8148956  0.81337424
+ 0.81326235 0.81293709 0.81260558 0.81297193 0.81339923 0.81275126
+ 0.8131142  0.81425808 0.81565472 0.81329717 0.81278427 0.81280043
+ 0.8135836  0.81287444 0.81325309 0.81312835 0.81384477 0.81336739
+ 0.81264925 0.81260558 0.81297193 0.81339923 0.81275126 0.81364322
+ 0.8131142  0.81252686 0.81393051 0.81284857 0.81329717 0.81278427
+ 0.81280043 0.8135836  0.81440997 0.81387952 0.81354551 0.81394694
+ 0.81350199 0.81336739 0.81264925 0.81260558 0.81297193 0.81339923
+ 0.81275126 0.81364322 0.8131142  0.81459118 0.81284857 0.81329717
+ 0.81495934 0.81280043 0.81440997 0.81303015 0.81387952 0.81354551
+ 0.81394694 0.81350199 0.81430051 0.81336739 0.81264925 0.81260558
+ 0.81348088 0.81339923 0.81275126 0.8131142  0.81459118 0.81261889
+ 0.81284857 0.81329717 0.81280043 0.81440997 0.81303015 0.81387952
+ 0.81269564 0.81337544 0.81350199 0.81430051 0.81336739 0.81264925
+ 0.81454471 0.81373235 0.81397661 0.81264699 0.81299861 0.81315341
+ 0.81459118 0.81284857 0.81388899 0.81345754 0.81440997 0.81326819
+ 0.81387952 0.81269564 0.81351721 0.81279548 0.81350199 0.81430051
+ 0.81336739 0.81330782 0.81454471 0.81302308 0.81397661 0.8133483
+ 0.81299861 0.81393331 0.81315341 0.81459118 0.81273492 0.81284857
+ 0.81388899 0.81303307 0.81267679 0.81326819 0.81387952 0.81269564
+ 0.81291114 0.81336739 0.81330782 0.81454471 0.81309423 0.81302308
+ 0.81397661 0.8133483  0.81308881 0.81299861 0.81393331 0.81315341
+ 0.81273492 0.81347521 0.81284857 0.81388899 0.81366153 0.81358546
+ 0.81267679 0.81377392 0.81269564 0.81256517 0.81336973 0.81291114
+ 0.81336739 0.81330782 0.81361468 0.81414804 0.81478513 0.81308881
+ 0.81351439 0.81378847 0.81376003 0.81347521 0.81388899 0.81366153
+ 0.81358546 0.81334404 0.81294597 0.81258955 0.81336973 0.81291114
+ 0.81336739 0.81316915 0.81330782 0.81361468 0.81414804 0.81367313
+ 0.81308881 0.81298615 0.81333052 0.81378847 0.81376003 0.81347521
+ 0.81388899 0.81366153 0.81358546 0.81334404 0.81294597 0.81258955
+ 0.81336973 0.81291114 0.81336739 0.81316915 0.81426418 0.81330782
+ 0.81361468 0.81414804 0.81367313 0.81308881 0.81298615 0.81333052
+ 0.81323453 0.81260957 0.81366153 0.81358546 0.81334404 0.81294597
+ 0.81258955 0.81365031 0.81291114 0.81288053 0.81336739 0.81316915
+ 0.81426418 0.81330782 0.81348694 0.81414804 0.81346286 0.81308881
+ 0.81298615 0.81333052 0.81323453 0.8138692  0.81366153 0.81260071
+ 0.8133634  0.81258955 0.81365031 0.81291114 0.81288053 0.81336739
+ 0.81316915 0.81426418 0.81544064 0.81346819 0.81348694 0.8127453
+ 0.81346286 0.81270907 0.81298615 0.81333052 0.81323453 0.8138692
+ 0.81284758 0.81283612 0.81260071 0.81311204 0.81308793 0.81255433
+ 0.81306703 0.81311301 0.81275538 0.81316915 0.81426418 0.8132212
+ 0.81346819 0.81309348 0.81387988 0.8127335  0.81299122 0.81267529
+ 0.81323453 0.81387581 0.81284758 0.81283612 0.81390789 0.81268157
+ 0.81308793 0.81255433 0.81306703 0.81378157 0.81362127 0.81275538
+ 0.81316915 0.81426418 0.8132212  0.81288042 0.81387988 0.8127335
+ 0.81299122 0.8141846  0.81323453 0.81365597 0.81346651 0.81283612
+ 0.81268157 0.8146355  0.81255433 0.81306703 0.81362127 0.81275538
+ 0.81411613 0.81426418 0.8132212  0.81485209 0.81410981 0.81288042
+ 0.81387988 0.8127335  0.81299122 0.81396608 0.8141846  0.81323453
+ 0.81346651 0.81382642 0.81299732 0.81268157 0.8146355  0.81255433
+ 0.81306703 0.81362127 0.81275538 0.81411613 0.81455641 0.81426418
+ 0.81283765 0.81410981 0.81288042 0.8127335  0.81299122 0.81290456
+ 0.81323453 0.81346651 0.81382642 0.81299732 0.81391527 0.81255433
+ 0.81306703 0.81340718 0.81342105 0.81275538 0.81286603 0.81281541
+ 0.81283765 0.81410981 0.81288042 0.81291722 0.8127335  0.81299122
+ 0.81327502 0.81361057 0.81313238 0.81346651 0.81271538 0.81301734
+ 0.81391527 0.81255433 0.81306703 0.81340718 0.81342105 0.81272568
+ 0.81340528 0.81286603 0.81281541 0.81283765 0.81397234 0.81288042
+ 0.81291722 0.8127335  0.81299122 0.81475672 0.81313238 0.81346651
+ 0.81271538 0.81301734 0.81391527 0.81255433 0.81306703 0.81340718
+ 0.81342105 0.81272568 0.81340528 0.81299472 0.81283765 0.81397234
+ 0.81368364 0.81291722 0.8127335  0.81299122 0.81475672 0.81371639
+ 0.81313238 0.81346651 0.81303802 0.81376237 0.81335815 0.81391527
+ 0.81276338 0.81425585 0.81306703 0.81340718 0.81427812 0.81299787
+ 0.81340528 0.81299472 0.81277422 0.81302448 0.81318372 0.81277153
+ 0.81299122 0.81394258 0.81269018 0.81371639 0.8131121  0.81346651
+ 0.81303802 0.81254838 0.81391527 0.81263945 0.81306703 0.81340718
+ 0.81396203 0.81322088 0.8125875  0.81277422 0.81302448 0.81318372
+ 0.81428497 0.8138161  0.81299122 0.81394258 0.81269018 0.81371639
+ 0.8131121  0.81346651 0.81303802 0.81254838 0.81391527 0.81406103
+ 0.81306703 0.81340718 0.81396203 0.81322088 0.81352152 0.81385953
+ 0.81361441 0.81428497 0.8138161  0.81299122 0.81394258 0.81269018
+ 0.8131121  0.81267017 0.81327052 0.81254838 0.81255804 0.81406103
+ 0.81306703 0.81340718 0.81396203 0.81388828 0.81297373 0.81360411
+ 0.81385953 0.81301973 0.81361441 0.81428497 0.81309193 0.81266685
+ 0.81269018 0.8131866  0.8141644  0.81269594 0.81254838 0.81255804
+ 0.81311195 0.81368762 0.81306703 0.81340718 0.81250698 0.81300447
+ 0.81297373 0.81360411 0.81385953 0.81301973 0.81361441 0.81428497
+ 0.81309193 0.81266685 0.81269018 0.81391128 0.8141644  0.81269594
+ 0.81254838 0.81255804 0.81250914 0.81271465 0.81330671 0.81368762
+ 0.81306703 0.81250698 0.81355241 0.81297373 0.81360411 0.81385953
+ 0.81251722 0.81434308 0.81327154 0.81265429 0.81269018 0.81391128
+ 0.8141644  0.81269594 0.81254838 0.81255804 0.81271465 0.81313223
+ 0.81368762 0.81274606 0.81250698 0.81333668 0.81355241 0.81297373
+ 0.81360411 0.81385953 0.81327287 0.81251722 0.81279989 0.81327154
+ 0.81307827 0.81269018 0.814294   0.81306471 0.81269594 0.81285202
+ 0.81255804 0.81408838 0.81271465 0.81313223 0.81368762 0.81274606
+ 0.81359183 0.81318981 0.81255856 0.81385953 0.81422606 0.81279989
+ 0.81327154 0.81307827 0.8140827  0.81381495 0.814294   0.81306471
+ 0.81413312 0.81285202 0.81255804 0.81408838 0.81289083 0.81313223
+ 0.81368762 0.81274606 0.81359183 0.81318981 0.81319225 0.81385953
+ 0.81392087 0.81279989 0.81252913 0.81327154 0.81307827 0.8140827
+ 0.81381495 0.814294   0.81416063 0.81413312 0.81253772 0.81255804
+ 0.81296603 0.81289083 0.81251816 0.81402051 0.81274606 0.81282281
+ 0.81260625 0.81405385 0.81496259 0.81337352 0.81295921 0.81312876
+ 0.81381495 0.814294   0.81320329 0.81299654 0.81253772 0.81255804
+ 0.81296603 0.81435388 0.81289083 0.81402051 0.81274606 0.81262803
+ 0.81351226 0.81317355 0.8130606  0.81392145 0.81405385 0.81337352
+ 0.81400797 0.81328254 0.81312876 0.81381495 0.814294   0.81320329
+ 0.81299654 0.81253772 0.81341399 0.81435388 0.8138145  0.81402051
+ 0.81274606 0.81262803 0.81351226 0.81317355 0.8130606  0.81341311
+ 0.81337352 0.81400797 0.81328254 0.81312876 0.81381495 0.814294
+ 0.81320329 0.81253772 0.81419527 0.81341399 0.81435388 0.8138145
+ 0.81402051 0.81274606 0.81438818 0.81262803 0.81351226 0.81317355
+ 0.8130606  0.81265319 0.81341311 0.81400797 0.81312876 0.81381495
+ 0.81472944 0.81320329 0.81381098 0.81253772 0.81341399 0.81435388
+ 0.8138145  0.81352155 0.81402051 0.81274606 0.81438818 0.81351226
+ 0.81476364 0.8130606  0.81265319 0.81341311 0.81400797 0.81370902
+ 0.81312876 0.81381495 0.81472944 0.81288897 0.81253772 0.81341399
+ 0.81435388 0.8138145  0.81352155 0.81402051 0.81274606 0.81438818
+ 0.81351226 0.81353424]' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  df.loc[df['vote'] > voting_threshold, 'signal'] = df.loc[df['vote'] > voting_threshold, 'vote']
+[32m2025-05-09 23:31:03[0m - [34msentiment[0m - [1;30mINFO[0m - [32mFetching forex news for EURUSD[0m
+[32m2025-05-09 23:31:03[0m - [34msentiment[0m - [1;30mWARNING[0m - [33mFailed to get forex news, retrying with general FX search[0m
+[32m2025-05-09 23:31:04[0m - [34mstrategy[0m - [1;30mERROR[0m - [31mError applying sentiment filter: 'str' object has no attribute 'get'[0m
+[32m2025-05-09 23:31:05[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 100000.00 units (1.00 lots)[0m
+[32m2025-05-09 23:31:05[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 100000.0 units at 1.09957[0m
+[32m2025-05-09 23:31:06[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -128.76 USD (-11.3 pips)[0m
+[32m2025-05-09 23:31:07[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 1245000.00 units (12.45 lots)[0m
+[32m2025-05-09 23:31:07[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 1245000.0 units at 1.09952[0m
+[32m2025-05-09 23:31:07[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: 189.76 USD (3.1 pips)[0m
+[32m2025-05-09 23:31:08[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 15464000.00 units (154.64 lots)[0m
+[32m2025-05-09 23:31:08[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 15463999.999999998 units at 1.10014[0m
+[32m2025-05-09 23:31:09[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: 3163.60 USD (3.6 pips)[0m
+[32m2025-05-09 23:31:10[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 206534000.00 units (2065.34 lots)[0m
+[32m2025-05-09 23:31:10[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 206534000.0 units at 1.09951[0m
+[32m2025-05-09 23:31:11[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -282930.78 USD (-12.2 pips)[0m
+[32m2025-05-09 23:31:12[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 2281949000.00 units (22819.49 lots)[0m
+[32m2025-05-09 23:31:12[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 2281949000.0 units at 1.10101[0m
+[32m2025-05-09 23:31:12[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -3557619.88 USD (-14.0 pips)[0m
+[32m2025-05-09 23:31:13[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 26792113000.00 units (267921.13 lots)[0m
+[32m2025-05-09 23:31:13[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 26792113000.0 units at 1.09895[0m
+[32m2025-05-09 23:31:14[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -17411258.64 USD (-5.0 pips)[0m
+[32m2025-05-09 23:31:15[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 315158549000.00 units (3151585.49 lots)[0m
+[32m2025-05-09 23:31:15[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 315158549000.0 units at 1.09962[0m
+[32m2025-05-09 23:31:16[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -339750343.86 USD (-9.2 pips)[0m
+[32m2025-05-09 23:31:16[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 3880351219000.00 units (38803512.19 lots)[0m
+[32m2025-05-09 23:31:16[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 3880351219000.0 units at 1.10033[0m
+[32m2025-05-09 23:31:17[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -4993621575.53 USD (-11.3 pips)[0m
+[32m2025-05-09 23:31:18[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 46670584401000.00 units (466705844.01 lots)[0m
+[32m2025-05-09 23:31:18[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 46670584401000.0 units at 1.09958[0m
+[32m2025-05-09 23:31:19[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -21127787432.83 USD (-3.0 pips)[0m
+[32m2025-05-09 23:31:19[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 630892497084000.00 units (6308924970.84 lots)[0m
+[32m2025-05-09 23:31:19[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 630892497084000.0 units at 1.09990[0m
+[32m2025-05-09 23:31:20[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -154282919543.20 USD (-0.9 pips)[0m
+[32m2025-05-09 23:31:21[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 8237231328037000.00 units (82372313280.37 lots)[0m
+[32m2025-05-09 23:31:21[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 8237231328037000.0 units at 1.10051[0m
+[32m2025-05-09 23:31:22[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -11578388463570.87 USD (-12.5 pips)[0m
+[32m2025-05-09 23:31:22[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 104747852119953008.00 units (1047478521199.53 lots)[0m
+[32m2025-05-09 23:31:22[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 1.0474785211995301e+17 units at 1.10061[0m
+[32m2025-05-09 23:31:23[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -99922280407451.03 USD (-8.0 pips)[0m
+[32m2025-05-09 23:31:24[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 1323375837722810880.00 units (13233758377228.11 lots)[0m
+[32m2025-05-09 23:31:24[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 1.323375837722811e+18 units at 1.09980[0m
+[32m2025-05-09 23:31:25[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -1131718250169341.25 USD (-7.0 pips)[0m
+[32m2025-05-09 23:31:26[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 17616603105701003264.00 units (176166031057010.03 lots)[0m
+[32m2025-05-09 23:31:26[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 1.7616603105701003e+19 units at 1.09918[0m
+[32m2025-05-09 23:31:26[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -14830842170044504.00 USD (-6.9 pips)[0m
+[32m2025-05-09 23:31:27[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 229531752582559760384.00 units (2295317525825597.50 lots)[0m
+[32m2025-05-09 23:31:27[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 2.2953175258255976e+20 units at 1.09992[0m
+[32m2025-05-09 23:31:28[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -99799850600823488.00 USD (-2.8 pips)[0m
+[32m2025-05-09 23:31:29[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 3093298145764043128832.00 units (30932981457640432.00 lots)[0m
+[32m2025-05-09 23:31:29[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 3.093298145764043e+21 units at 1.10070[0m
+[32m2025-05-09 23:31:30[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -4546371347272018432.00 USD (-13.2 pips)[0m
+[32m2025-05-09 23:31:30[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 39300412611616151961600.00 units (393004126116161536.00 lots)[0m
+[32m2025-05-09 23:31:30[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 3.930041261161615e+22 units at 1.10077[0m
+[32m2025-05-09 23:31:31[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -22442157166299037696.00 USD (-4.2 pips)[0m
+[32m2025-05-09 23:31:32[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 532976916863012474716160.00 units (5329769168630124544.00 lots)[0m
+[32m2025-05-09 23:31:32[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 5.329769168630125e+23 units at 1.09925[0m
+[32m2025-05-09 23:31:32[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -1108085588848863346688.00 USD (-19.3 pips)[0m
+[32m2025-05-09 23:31:33[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 5958590035815835222671360.00 units (59585900358158352384.00 lots)[0m
+[32m2025-05-09 23:31:33[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 5.958590035815835e+24 units at 1.10019[0m
+[32m2025-05-09 23:31:34[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -1105997225310577754112.00 USD (-0.3 pips)[0m
+[32m2025-05-09 23:31:35[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 68410109760433805603110912.00 units (684101097604338024448.00 lots)[0m
+[32m2025-05-09 23:31:35[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 6.8410109760433806e+25 units at 1.09913[0m
+[32m2025-05-09 23:31:36[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -86477270404626026332160.00 USD (-11.1 pips)[0m
+[32m2025-05-09 23:31:37[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 757788703593738791469187072.00 units (7577887035937387446272.00 lots)[0m
+[32m2025-05-09 23:31:37[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 7.577887035937388e+26 units at 1.09951[0m
+[32m2025-05-09 23:31:37[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -524938844267412677722112.00 USD (-5.4 pips)[0m
+[32m2025-05-09 23:31:38[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 9792352269194728838258491392.00 units (97923522691947284135936.00 lots)[0m
+[32m2025-05-09 23:31:38[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 9.792352269194729e+27 units at 1.10033[0m
+[32m2025-05-09 23:31:39[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -2926657429429007085993984.00 USD (-1.4 pips)[0m
+[32m2025-05-09 23:31:40[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 123056746612099983722227433472.00 units (1230567466120999889534976.00 lots)[0m
+[32m2025-05-09 23:31:40[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 1.2305674661209998e+29 units at 1.10072[0m
+[32m2025-05-09 23:31:41[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -123070556699643065288097792.00 USD (-8.5 pips)[0m
+[32m2025-05-09 23:31:41[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 1625367577920654697727099142144.00 units (16253675779206545634492416.00 lots)[0m
+[32m2025-05-09 23:31:41[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 1.6253675779206547e+30 units at 1.09949[0m
+[32m2025-05-09 23:31:42[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: 43750038349133772138479616.00 USD (1.8 pips)[0m
+[32m2025-05-09 23:31:43[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 19699066319870450056433082826752.00 units (196990663198704494220148736.00 lots)[0m
+[32m2025-05-09 23:31:43[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 1.969906631987045e+31 units at 1.09975[0m
+[32m2025-05-09 23:31:43[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mFailed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.3, "global": false}[0m
+[32m2025-05-09 23:31:43[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mRate limited, waiting 0.3 seconds[0m
+[32m2025-05-09 23:31:44[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -30596174121128775053318553600.00 USD (-14.0 pips)[0m
+[32m2025-05-09 23:31:44[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mFailed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.881, "global": false}[0m
+[32m2025-05-09 23:31:44[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mRate limited, waiting 0.881 seconds[0m
+[32m2025-05-09 23:31:46[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 228058681585370421579831362715648.00 units (2280586815853704243857850368.00 lots)[0m
+[32m2025-05-09 23:31:46[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 2.2805868158537042e+32 units at 1.09987[0m
+[32m2025-05-09 23:31:46[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mFailed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.071, "global": false}[0m
+[32m2025-05-09 23:31:46[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mRate limited, waiting 1.071 seconds[0m
+[32m2025-05-09 23:31:48[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -34832292826615122063238627328.00 USD (0.0 pips)[0m
+[32m2025-05-09 23:31:48[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mFailed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 0.854, "global": false}[0m
+[32m2025-05-09 23:31:48[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mRate limited, waiting 0.854 seconds[0m
+[32m2025-05-09 23:31:50[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 2684623189698936899714986964680704.00 units (26846231896989369358845214720.00 lots)[0m
+[32m2025-05-09 23:31:50[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 2.684623189698937e+33 units at 1.10105[0m
+[32m2025-05-09 23:31:50[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mFailed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.055, "global": false}[0m
+[32m2025-05-09 23:31:50[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mRate limited, waiting 1.055 seconds[0m
+[32m2025-05-09 23:31:52[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited long position: -2035268312392291756319216500736.00 USD (-6.0 pips)[0m
+[32m2025-05-09 23:31:52[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mFailed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.032, "global": false}[0m
+[32m2025-05-09 23:31:52[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mRate limited, waiting 1.032 seconds[0m
+[32m2025-05-09 23:31:54[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 31627638228438719086894969341870080.00 units (316276382284387177695920783360.00 lots)[0m
+[32m2025-05-09 23:31:54[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered short position: 3.162763822843872e+34 units at 1.10012[0m
+[32m2025-05-09 23:31:54[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mFailed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.068, "global": false}[0m
+[32m2025-05-09 23:31:54[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mRate limited, waiting 1.068 seconds[0m
+[32m2025-05-09 23:31:56[0m - [34msimulator[0m - [1;30mINFO[0m - [32mExited short position: -18700384414348470019600232218624.00 USD (-4.4 pips)[0m
+[32m2025-05-09 23:31:56[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mFailed to send Discord alert: 429 {"message": "The resource is being rate limited.", "retry_after": 1.015, "global": false}[0m
+[32m2025-05-09 23:31:56[0m - [34mdiscord_alerts[0m - [1;30mWARNING[0m - [33mRate limited, waiting 1.015 seconds[0m
+[32m2025-05-09 23:31:58[0m - [34mposition_sizing[0m - [1;30mINFO[0m - [32mPosition size calculated: 386275737689654191729633555682164736.00 units (3862757376896541767956971913216.00 lots)[0m
+[32m2025-05-09 23:31:58[0m - [34msimulator[0m - [1;30mINFO[0m - [32mEntered long position: 3.862757376896542e+35 units at 1.10050[0m
